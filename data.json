@@ -1,0 +1,130 @@
+{
+    "strings": {
+        "help": [
+            "Format: `$command <required> [optional]`\n",
+            "• Create an order in the current **rs#-orders** channel.",
+            "`$order <your quantity> <your level> [comment]`\n",
+            "• Edit an order you have previously created.",
+            "`$edit <order id> <your quantity> <your level> [comment]`\n",
+            "• Cancel an order you have made.",
+            "`$cancel <order id>`\n",
+            "• Accept a buy order in the current **rs#-orders** channel.",
+            "`$accept <order id>`\n",
+            "• Reject an order after accepting it. (Returns it to open status)",
+            "`$reject <order id>`\n",
+            "• Complete an order. (Buyer or seller)",
+            "`$complete <order id>`\n",
+            "• Display artifact trade rates for the specified level and quantity.",
+            "`$rates [amount]` - In an **rs#-orders** channel\n`$rates <value> [amount]` - In any other channel\n",
+            "• List all open orders from the current **rs#-orders** channel.",
+            "`$list`\n",
+            "• Display trade stats for you or another user.",
+            "`$stats [@user]`\n",
+            "Please make your orders in the appropriate channel (**rs#-orders**).",
+            "Sellers can set their roles in the **seller-rolls** channel to be notified of new orders.\n",
+            "**Contact @Zeus#0542 for more help.**"
+        ]
+    },
+    "colors": {
+        "White":    "#fffffe",
+        "Blue":     "#6d9af7",
+        "Green":    "#74f76d",
+        "Red":      "#f76d8f",
+        "Gold":     "#f7d56d"
+    },
+    "channels": {
+        "rs4-orders": 4,
+        "rs5-orders": 5,
+        "rs6-orders": 6,
+        "rs7-orders": 7,
+        "rs8-orders": 8,
+        "rs9-orders": 9
+    },
+    "rates": {
+        "2": {
+            "weight": 0,
+            "1": 2.0
+        },
+        "3": {
+            "weight": 4,
+            "2": 2.0,
+            "1": 4.0
+        },
+      "4": {
+            "weight": 4,
+            "3": 2.0,
+            "2": 3.0,
+            "1": 6.0
+      },
+        "5": {
+            "weight": 6,
+            "4": 2.0,
+        "3": 3.0,
+            "2": 4.5,
+            "1": 8.5
+      },
+        "6": {
+            "weight": 8,
+            "5": 1.5,
+            "4": 2.5,
+            "3": 4.0,
+            "2": 6.5,
+            "1": 11.5
+        },
+        "7": {
+            "weight": 10,
+            "6": 1.5,
+            "5": 2.5,
+            "4": 4.0,
+            "3": 6.0,
+            "2": 9.5,
+            "1": 15.5
+        },
+        "8": {
+            "weight": 12,
+            "7": 1.5,
+            "6": 2.0,
+            "5": 3.0,
+            "4": 4.5,
+            "3": 8.0,
+            "2": 12.0,
+            "1": 19.5
+        },
+        "9": {
+            "weight": 15,
+            "8": 1.5,
+            "7": 2.0,
+            "6": 2.5,
+            "5": 3.5,
+            "4": 6.0,
+            "3": 10.0,
+            "2": 15.0,
+            "1": 24.5
+        },
+        "10": {
+            "weight": 18,
+            "9": 1.5,
+            "8": 1.5,
+            "7": 2.0,
+            "6": 3.0,
+            "5": 4.0,
+            "4": 7.0,
+            "3": 12.0,
+            "2": 18.0,
+            "1": 29.0
+        },
+        "11": {
+            "weight": 20,
+            "10": 1.5,
+            "9": 2.0,
+            "8": 2.0,
+            "7": 2.5,
+            "6": 3.5,
+            "5": 5.5,
+            "4": 9.5,
+            "3": 16.0,
+            "2": 23.5,
+            "1": 37.0
+        }
+    }
+}

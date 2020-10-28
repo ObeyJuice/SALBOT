@@ -1,0 +1,1559 @@
+[debug][02:31:12] Reconnecting to shard
+[debug][02:31:13] Connected to shard
+[debug][05:37:09] Reconnecting to shard
+[debug][05:37:10] Connected to shard
+[debug][07:14:43] Reconnecting to shard
+[debug][07:14:43] Connected to shard
+[debug][08:02:19] Reconnecting to shard
+[debug][08:02:19] Connected to shard
+[debug][09:51:04] Reconnecting to shard
+[debug][09:51:04] Connected to shard
+[warn][10:41:54] Debug mode enabled
+[info][10:41:54] Starting...
+[error][10:41:54] ObjectParameterError: Parameter "obj" to Document() must be an object, got Order
+    at Model.Document (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\document.js:101:11)
+    at new Model (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\model.js:106:12)
+    at Object.init (C:\Users\Cody\Desktop\SALBOT\test\mongoose.js:18:23)
+    at Object.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:123:10)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)
+    at internal/main/run_main_module.js:17:47
+[info][10:41:54] MongoDB: Connected
+[warn][10:43:03] Debug mode enabled
+[info][10:43:03] Starting...
+[error][10:43:03] TypeError: 2nd argument to `Model` must be a POJO or string, **not** a schema. Make sure you're calling `mongoose.model()`, not `mongoose.Model()`.
+    at new Model (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\model.js:102:11)
+    at Object.init (C:\Users\Cody\Desktop\SALBOT\test\mongoose.js:18:23)
+    at Object.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:123:10)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)
+    at internal/main/run_main_module.js:17:47
+[info][10:43:03] MongoDB: Connected
+[warn][10:43:19] Debug mode enabled
+[info][10:43:19] Starting...
+[info][10:43:19] MongoDB: Connected
+[info][10:43:20] Discord: Ready
+[debug][11:26:18] Reconnecting to shard
+[debug][11:26:18] Connected to shard
+[warn][13:15:39] Debug mode enabled
+[info][13:15:39] Starting...
+[info][13:15:39] MongoDB: Connected
+[info][13:15:40] Discord: Ready
+[warn][13:21:05] Debug mode enabled
+[info][13:21:05] Starting...
+[info][13:21:05] MongoDB: Connected
+[info][13:21:06] Discord: Ready
+[warn][13:22:30] Debug mode enabled
+[info][13:22:30] Starting...
+[info][13:22:30] MongoDB: Connected
+[info][13:22:31] Discord: Ready
+[warn][13:33:36] Debug mode enabled
+[info][13:33:36] Starting...
+[info][13:33:36] MongoDB: Connected
+[info][13:33:37] Discord: Ready
+[info][13:35:15] [#rs7-orders] @Zeus: $test
+[error][13:35:16] TypeError: Models.Order is not a constructor
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\test.js:32:20)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[warn][13:36:29] Debug mode enabled
+[info][13:36:29] Starting...
+[info][13:36:29] MongoDB: Connected
+[info][13:36:30] Discord: Ready
+[info][13:36:34] [#rs7-orders] @Zeus: $test
+[error][13:36:34] TypeError: Models.Order is not a constructor
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\test.js:33:44)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[warn][13:37:48] Debug mode enabled
+[info][13:37:48] Starting...
+[info][13:37:48] MongoDB: Connected
+[info][13:37:49] Discord: Ready
+[info][13:37:55] [#rs7-orders] @Zeus: $test
+[warn][13:42:25] Debug mode enabled
+[info][13:42:25] Starting...
+[info][13:42:25] MongoDB: Connected
+[info][13:42:26] Discord: Ready
+[info][13:42:31] [#rs7-orders] @Zeus: $test
+[warn][14:13:55] Debug mode enabled
+[info][14:13:55] Starting...
+[info][14:13:55] MongoDB: Connected
+[info][14:13:56] Discord: Ready
+[info][14:14:11] [#rs7-orders] @Zeus: $test
+[error][14:14:11] ReferenceError: config is not defined
+    at C:\Users\Cody\Desktop\SALBOT\test\commands\test.js:36:36
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[info][14:14:17] [#rs7-orders] @Zeus: $test 40 4
+[error][14:14:17] ReferenceError: config is not defined
+    at C:\Users\Cody\Desktop\SALBOT\test\commands\test.js:36:36
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[warn][14:14:51] Debug mode enabled
+[info][14:14:51] Starting...
+[info][14:14:51] MongoDB: Connected
+[info][14:14:52] Discord: Ready
+[info][14:15:02] [#rs7-orders] @Zeus: $test 40 4
+[error][14:15:02] ReferenceError: functions is not defined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\test.js:99:54)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:105:26)
+    at Client.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+[warn][14:15:42] Debug mode enabled
+[info][14:15:42] Starting...
+[info][14:15:42] MongoDB: Connected
+[info][14:15:43] Discord: Ready
+[info][14:15:47] [#rs7-orders] @Zeus: $test 40 4
+[info][14:15:47] [#rs7-orders] @Zeus created an order
+[info][14:16:29] [#rs5-orders] @Zeus: $test 20 4 mix please
+[info][14:16:29] [#rs5-orders] @Zeus created an order
+[warn][14:17:13] Debug mode enabled
+[info][14:17:13] Starting...
+[info][14:17:13] MongoDB: Connected
+[info][14:17:14] Discord: Ready
+[warn][14:17:30] Debug mode enabled
+[info][14:17:30] Starting...
+[info][14:17:30] MongoDB: Connected
+[info][14:17:31] Discord: Ready
+[info][14:17:40] [#rs5-orders] @Zeus: $test 20 4 mix please
+[info][14:17:41] [#rs5-orders] @Zeus created an order
+[info][14:30:44] [#rs5-orders] @Zeus: $test 40 3
+[info][14:30:44] [#rs5-orders] @Zeus created an order
+[debug][14:40:01] [CRON] Deleted 6 messages from order channels
+[warn][14:41:18] Debug mode enabled
+[info][14:41:18] Starting...
+[info][14:41:18] MongoDB: Connected
+[info][14:41:19] Discord: Ready
+[info][14:41:24] [#rs5-orders] @Zeus: $test
+[error][14:41:24] TypeError: counterModel.save is not a constructor
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\test.js:20:7)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:105:26)
+    at Client.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+[warn][14:41:48] Debug mode enabled
+[info][14:41:48] Starting...
+[info][14:41:48] MongoDB: Connected
+[info][14:41:49] Discord: Ready
+[info][14:41:52] [#rs5-orders] @Zeus: $test
+[error][14:41:52] ValidationError: counter validation failed: name: Path `name` is required.
+    at model.Document.invalidate (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\document.js:2626:32)
+    at C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\document.js:2446:17
+    at C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\schematype.js:1225:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+[warn][14:42:46] Debug mode enabled
+[info][14:42:46] Starting...
+[info][14:42:46] MongoDB: Connected
+[info][14:42:47] Discord: Ready
+[info][14:42:50] [#rs5-orders] @Zeus: $test
+[warn][14:44:17] Debug mode enabled
+[info][14:44:17] Starting...
+[info][14:44:17] MongoDB: Connected
+[info][14:44:18] Discord: Ready
+[info][14:44:21] [#rs5-orders] @Zeus: $test
+[warn][14:45:55] Debug mode enabled
+[info][14:45:55] Starting...
+[info][14:45:55] MongoDB: Connected
+[info][14:45:56] Discord: Ready
+[info][14:46:01] [#rs5-orders] @Zeus: $test
+[warn][14:46:29] Debug mode enabled
+[info][14:46:29] Starting...
+[info][14:46:29] MongoDB: Connected
+[info][14:46:30] Discord: Ready
+[warn][14:46:34] Debug mode enabled
+[info][14:46:34] Starting...
+[info][14:46:34] MongoDB: Connected
+[info][14:46:35] Discord: Ready
+[info][14:46:37] [#rs5-orders] @Zeus: $test
+[debug][14:50:01] [CRON] Deleted 1 messages from order channels
+[warn][14:50:12] Debug mode enabled
+[info][14:50:12] Starting...
+[info][14:50:12] MongoDB: Connected
+[info][14:50:13] Discord: Ready
+[info][14:50:20] [#rs5-orders] @Zeus: $test 40 4 mix
+[info][14:50:20] [#rs5-orders] @Zeus created an order
+[info][14:51:06] [#rs5-orders] @Zeus: $test 30 3
+[info][14:51:07] [#rs5-orders] @Zeus created an order
+[warn][14:51:48] Debug mode enabled
+[info][14:51:48] Starting...
+[info][14:51:48] MongoDB: Connected
+[info][14:51:49] Discord: Ready
+[info][14:51:54] [#rs5-orders] @Zeus: $test 35 3
+[info][14:51:54] [#rs5-orders] @Zeus created an order
+[warn][14:54:28] Debug mode enabled
+[info][14:54:28] Starting...
+[info][14:54:28] MongoDB: Connected
+[info][14:54:29] Discord: Ready
+[info][14:54:32] [#rs5-orders] @Zeus: $test 20 4
+[info][14:54:32] [#rs5-orders] @Zeus created an order
+[warn][14:57:18] Debug mode enabled
+[info][14:57:18] Starting...
+[info][14:57:18] MongoDB: Connected
+[info][14:57:19] Discord: Ready
+[info][14:57:23] [#rs5-orders] @Zeus: $test 20 4
+[error][14:57:23] TypeError: Cannot read property 'count' of undefined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\test.js:99:40)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:105:26)
+    at Client.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+[warn][14:59:07] Debug mode enabled
+[info][14:59:07] Starting...
+[info][14:59:07] MongoDB: Connected
+[info][14:59:08] Discord: Ready
+[info][14:59:12] [#rs5-orders] @Zeus: $test 20 4
+[info][14:59:12] [#rs5-orders] @Zeus created an order
+[warn][15:00:55] Debug mode enabled
+[info][15:00:55] Starting...
+[info][15:00:55] MongoDB: Connected
+[info][15:00:56] Discord: Ready
+[info][15:01:01] [#rs5-orders] @Zeus: $test 20 4
+[info][15:01:01] [#rs5-orders] @Zeus created an order
+[warn][15:01:23] Debug mode enabled
+[info][15:01:23] Starting...
+[info][15:01:23] MongoDB: Connected
+[info][15:01:24] Discord: Ready
+[info][15:01:27] [#rs5-orders] @Zeus: $test 20 4
+[info][15:01:28] [#rs5-orders] @Zeus created an order
+[warn][15:02:41] Debug mode enabled
+[info][15:02:41] Starting...
+[info][15:02:41] MongoDB: Connected
+[info][15:02:42] Discord: Ready
+[info][15:02:47] [#rs5-orders] @Zeus: $test 20 4
+[info][15:02:47] [#rs5-orders] @Zeus created an order
+[error][15:02:47] ValidationError: Order validation failed: orderId: Cast to Number failed for value "Promise { 11 }" at path "orderId"
+    at model.Document.invalidate (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\document.js:2626:32)
+    at model.$set (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\document.js:1290:12)
+    at model._handleIndex (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\document.js:1019:14)
+    at model.$set (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\document.js:960:22)
+    at model.Document (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\document.js:150:12)
+    at model.Model (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\model.js:106:12)
+    at new model (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\model.js:4685:15)
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\test.js:122:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[warn][15:03:39] Debug mode enabled
+[info][15:03:39] Starting...
+[info][15:03:39] MongoDB: Connected
+[info][15:03:40] Discord: Ready
+[info][15:03:43] [#rs5-orders] @Zeus: $test 20 4
+[info][15:03:43] [#rs5-orders] @Zeus created an order
+[warn][15:04:23] Debug mode enabled
+[info][15:04:23] Starting...
+[info][15:04:23] MongoDB: Connected
+[info][15:04:24] Discord: Ready
+[info][15:04:26] [#rs5-orders] @Zeus: $test 20 4
+[info][15:04:27] [#rs5-orders] @Zeus created an order
+[warn][15:05:10] Debug mode enabled
+[info][15:05:10] Starting...
+[info][15:05:10] MongoDB: Connected
+[info][15:05:11] Discord: Ready
+[info][15:05:15] [#rs5-orders] @Zeus: $test 20 4
+[info][15:05:16] [#rs5-orders] @Zeus created an order
+[error][15:05:16] ValidationError: Order validation failed: orderId: Cast to Number failed for value "[Function]" at path "orderId"
+    at model.Document.invalidate (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\document.js:2626:32)
+    at model.$set (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\document.js:1290:12)
+    at model._handleIndex (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\document.js:1019:14)
+    at model.$set (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\document.js:960:22)
+    at model.Document (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\document.js:150:12)
+    at model.Model (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\model.js:106:12)
+    at new model (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\model.js:4685:15)
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\test.js:121:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[warn][15:05:46] Debug mode enabled
+[info][15:05:46] Starting...
+[info][15:05:46] MongoDB: Connected
+[info][15:05:47] Discord: Ready
+[info][15:05:50] [#rs5-orders] @Zeus: $test 20 4
+[info][15:05:51] [#rs5-orders] @Zeus created an order
+[info][15:06:10] [#rs5-orders] @Zeus: $test 30 3 mix
+[info][15:06:10] [#rs5-orders] @Zeus created an order
+[warn][15:08:25] Debug mode enabled
+[info][15:08:25] Starting...
+[info][15:08:25] MongoDB: Connected
+[info][15:08:26] Discord: Ready
+[info][15:08:31] [#rs5-orders] @Zeus: $test 15 4
+[info][15:08:31] [#rs5-orders] @Zeus created an order
+[error][15:08:31] ValidationError: Order validation failed: orderId: Cast to Number failed for value "undefined" at path "orderId"
+    at model.Document.invalidate (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\document.js:2626:32)
+    at model.$set (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\document.js:1290:12)
+    at model._handleIndex (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\document.js:1019:14)
+    at model.$set (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\document.js:960:22)
+    at model.Document (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\document.js:150:12)
+    at model.Model (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\model.js:106:12)
+    at new model (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\model.js:4685:15)
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\test.js:122:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[warn][15:09:17] Debug mode enabled
+[info][15:09:17] Starting...
+[info][15:09:17] MongoDB: Connected
+[info][15:09:18] Discord: Ready
+[warn][15:11:06] Debug mode enabled
+[info][15:11:06] Starting...
+[info][15:11:06] MongoDB: Connected
+[info][15:11:07] Discord: Ready
+[info][15:11:13] [#rs5-orders] @Zeus: $test 14 2
+[error][15:11:13] ReferenceError: _orderId is not defined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\test.js:122:18)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[warn][15:11:56] Debug mode enabled
+[info][15:11:56] Starting...
+[info][15:11:56] MongoDB: Connected
+[info][15:11:57] Discord: Ready
+[info][15:12:03] [#rs5-orders] @Zeus: $admin clear all
+[info][15:12:10] [#rs5-orders] @Zeus: $test 40 4 mix please
+[error][15:12:10] ReferenceError: _orderId is not defined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\test.js:122:18)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[info][15:14:56] [#rs5-orders] @Zeus: $test 50 4 tets please
+[error][15:14:56] ReferenceError: _orderId is not defined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\test.js:122:18)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[warn][15:16:46] Debug mode enabled
+[info][15:16:46] Starting...
+[info][15:16:46] MongoDB: Connected
+[info][15:16:47] Discord: Ready
+[warn][15:16:58] Debug mode enabled
+[info][15:16:58] Starting...
+[info][15:16:58] MongoDB: Connected
+[info][15:16:59] Discord: Ready
+[info][15:17:05] [#rs5-orders] @Zeus: $admin clear all
+[info][15:17:10] [#rs5-orders] @Zeus: $test 40 4 mix
+[info][15:17:11] [#rs5-orders] @Zeus created an order
+[warn][15:18:33] Debug mode enabled
+[info][15:18:33] Starting...
+[info][15:18:33] MongoDB: Connected
+[info][15:18:34] Discord: Ready
+[info][15:18:42] [#rs5-orders] @Zeus: $test 30 3
+[info][15:18:42] [#rs5-orders] @Zeus created an order
+[debug][15:20:01] [CRON] Deleted 7 messages from order channels
+[warn][15:31:56] Debug mode enabled
+[info][15:31:56] Starting...
+[info][15:31:56] MongoDB: Connected
+[info][15:31:57] Discord: Ready
+[warn][15:36:02] Debug mode enabled
+[info][15:36:02] Starting...
+[info][15:36:02] MongoDB: Connected
+[info][15:36:03] Discord: Ready
+[warn][15:37:53] Debug mode enabled
+[info][15:37:53] Starting...
+[info][15:37:53] MongoDB: Connected
+[info][15:37:54] Discord: Ready
+[warn][15:39:02] Debug mode enabled
+[info][15:39:02] Starting...
+[info][15:39:02] MongoDB: Connected
+[info][15:39:03] Discord: Ready
+[info][15:39:08] [#rs5-orders] @Zeus: $test 55 3 mix
+[info][15:39:08] [#rs5-orders] @Zeus created an order
+[warn][15:39:46] Debug mode enabled
+[info][15:39:46] Starting...
+[info][15:39:46] MongoDB: Connected
+[info][15:39:47] Discord: Ready
+[info][15:39:52] [#rs5-orders] @Zeus: $test 30 4
+[info][15:39:52] [#rs5-orders] @Zeus created an order
+[warn][15:40:20] Debug mode enabled
+[info][15:40:20] Starting...
+[info][15:40:20] MongoDB: Connected
+[info][15:40:21] Discord: Ready
+[info][15:40:24] [#rs5-orders] @Zeus: $test 40 4 mix
+[info][15:40:24] [#rs5-orders] @Zeus created an order
+[info][15:40:36] [#rs7-orders] @Zeus: $order 30 6 mix
+[info][15:40:36] [#rs7-orders] @Zeus created an order
+[info][15:40:44] [#rs7-orders] @Zeus: $test 30 6 mix
+[info][15:40:44] [#rs7-orders] @Zeus created an order
+[info][15:41:18] [#rs5-orders] @Zeus: $list
+[info][15:41:23] [#rs7-orders] @Zeus: $list
+[warn][15:42:30] Debug mode enabled
+[info][15:42:30] Starting...
+[info][15:42:30] MongoDB: Connected
+[info][15:42:31] Discord: Ready
+[info][15:42:38] [#rs7-orders] @Zeus: $test 40 4 mix
+[info][15:42:38] [#rs7-orders] @Zeus created an order
+[warn][15:43:24] Debug mode enabled
+[info][15:43:24] Starting...
+[info][15:43:24] MongoDB: Connected
+[info][15:43:25] Discord: Ready
+[info][15:43:28] [#rs7-orders] @Zeus: $order 20 4
+[info][15:43:28] [#rs7-orders] @Zeus created an order
+[warn][15:44:00] Debug mode enabled
+[info][15:44:00] Starting...
+[info][15:44:00] MongoDB: Connected
+[warn][15:44:02] Debug mode enabled
+[info][15:44:02] Starting...
+[info][15:44:02] MongoDB: Connected
+[debug][15:44:06] Reconnecting to shard
+[info][15:44:12] Discord: Ready
+[info][15:44:17] [#rs7-orders] @Zeus: $order 20 4
+[info][15:44:17] [#rs7-orders] @Zeus created an order
+[warn][15:44:49] Debug mode enabled
+[info][15:44:49] Starting...
+[info][15:44:49] MongoDB: Connected
+[info][15:44:50] Discord: Ready
+[info][15:44:55] [#rs7-orders] @Zeus: $test 20 4
+[info][15:44:56] [#rs7-orders] @Zeus created an order
+[warn][15:45:09] Debug mode enabled
+[info][15:45:09] Starting...
+[info][15:45:09] MongoDB: Connected
+[info][15:45:10] Discord: Ready
+[info][15:45:15] [#rs7-orders] @Zeus: $test 20 4
+[info][15:45:16] [#rs7-orders] @Zeus created an order
+[warn][15:45:33] Debug mode enabled
+[info][15:45:33] Starting...
+[info][15:45:33] MongoDB: Connected
+[info][15:45:34] Discord: Ready
+[info][15:45:37] [#rs7-orders] @Zeus: $test 20 4
+[info][15:45:37] [#rs7-orders] @Zeus created an order
+[warn][15:46:51] Debug mode enabled
+[info][15:46:51] Starting...
+[info][15:46:51] MongoDB: Connected
+[info][15:46:52] Discord: Ready
+[info][15:46:56] [#rs7-orders] @Zeus: $test 40 4
+[error][15:46:56] RangeError [EMBED_FIELD_NAME]: MessageEmbed field names may not be empty.
+    at Function.normalizeField (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\structures\MessageEmbed.js:430:22)
+    at C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\structures\MessageEmbed.js:452:14
+    at Array.map (<anonymous>)
+    at Function.normalizeFields (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\structures\MessageEmbed.js:451:8)
+    at MessageEmbed.setup (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\structures\MessageEmbed.js:78:91)
+    at new MessageEmbed (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\structures\MessageEmbed.js:18:10)
+    at C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\structures\APIMessage.js:166:40
+    at Array.map (<anonymous>)
+    at APIMessage.resolveData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\structures\APIMessage.js:166:31)
+    at TextChannel.send (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:166:62)
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\test.js:120:37)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[warn][15:47:44] Debug mode enabled
+[info][15:47:44] Starting...
+[info][15:47:44] MongoDB: Connected
+[info][15:47:45] Discord: Ready
+[info][15:47:48] [#rs7-orders] @Zeus: $test 40 4
+[info][15:47:48] [#rs7-orders] @Zeus created an order
+[warn][15:48:45] Debug mode enabled
+[info][15:48:45] Starting...
+[info][15:48:45] MongoDB: Connected
+[info][15:48:46] Discord: Ready
+[info][15:48:48] [#rs7-orders] @Zeus: $test 40 4
+[info][15:48:49] [#rs7-orders] @Zeus created an order
+[warn][15:49:02] Debug mode enabled
+[info][15:49:02] Starting...
+[info][15:49:02] MongoDB: Connected
+[info][15:49:03] Discord: Ready
+[info][15:49:07] [#rs7-orders] @Zeus: $test 40 4
+[info][15:49:08] [#rs7-orders] @Zeus created an order
+[warn][15:49:56] Debug mode enabled
+[info][15:49:56] Starting...
+[info][15:49:56] MongoDB: Connected
+[info][15:49:57] Discord: Ready
+[info][15:50:01] [#rs7-orders] @Zeus: $test 40 4
+[info][15:50:01] [#rs7-orders] @Zeus created an order
+[warn][15:50:36] Debug mode enabled
+[info][15:50:36] Starting...
+[info][15:50:36] MongoDB: Connected
+[info][15:50:37] Discord: Ready
+[info][15:50:39] [#rs7-orders] @Zeus: $test 40 4
+[info][15:50:40] [#rs7-orders] @Zeus created an order
+[warn][15:50:57] Debug mode enabled
+[info][15:50:57] Starting...
+[info][15:50:57] MongoDB: Connected
+[info][15:50:58] Discord: Ready
+[info][15:51:02] [#rs7-orders] @Zeus: $test 40 4
+[info][15:51:02] [#rs7-orders] @Zeus created an order
+[warn][15:55:14] Debug mode enabled
+[info][15:55:14] Starting...
+[info][15:55:14] MongoDB: Connected
+[info][15:55:15] Discord: Ready
+[info][15:55:17] [#rs7-orders] @Zeus: $test 30 5
+[info][15:55:18] [#rs7-orders] @Zeus created an order
+[warn][15:55:51] Debug mode enabled
+[info][15:55:51] Starting...
+[info][15:55:51] MongoDB: Connected
+[info][15:55:52] Discord: Ready
+[warn][15:56:10] Debug mode enabled
+[info][15:56:10] Starting...
+[info][15:56:10] MongoDB: Connected
+[info][15:56:12] Discord: Ready
+[info][15:56:38] [#rs7-orders] @Zeus: $test 20 6 mix
+[info][15:56:38] [#rs7-orders] @Zeus created an order
+[warn][15:57:23] Debug mode enabled
+[info][15:57:23] Starting...
+[info][15:57:23] MongoDB: Connected
+[info][15:57:24] Discord: Ready
+[info][15:57:30] [#rs7-orders] @Zeus: $test 30 5
+[info][15:57:31] [#rs7-orders] @Zeus created an order
+[warn][15:57:48] Debug mode enabled
+[info][15:57:48] Starting...
+[info][15:57:48] MongoDB: Connected
+[info][15:57:49] Discord: Ready
+[info][15:57:52] [#rs7-orders] @Zeus: $test 30 5
+[info][15:57:52] [#rs7-orders] @Zeus created an order
+[warn][15:59:09] Debug mode enabled
+[info][15:59:09] Starting...
+[info][15:59:09] MongoDB: Connected
+[info][15:59:10] Discord: Ready
+[info][15:59:18] [#rs7-orders] @Zeus: $test 30 4
+[info][15:59:18] [#rs7-orders] @Zeus created an order
+[warn][16:01:26] Debug mode enabled
+[info][16:01:26] Starting...
+[info][16:01:26] MongoDB: Connected
+[info][16:01:28] Discord: Ready
+[info][16:01:34] [#rs7-orders] @Zeus: $test 40 4
+[error][16:01:34] TypeError: stats.length is not a function
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\test.js:112:78)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[warn][16:01:42] Debug mode enabled
+[info][16:01:42] Starting...
+[info][16:01:42] MongoDB: Connected
+[info][16:01:43] Discord: Ready
+[info][16:01:46] [#rs7-orders] @Zeus: $test 40 4
+[info][16:01:46] [#rs7-orders] @Zeus created an order
+[info][16:03:40] [#rs7-orders] @Zeus: $test 30 4
+[info][16:03:40] [#rs7-orders] @Zeus created an order
+[info][16:03:46] [#rs7-orders] @Zeus: $test 50 5
+[info][16:03:46] [#rs7-orders] @Zeus created an order
+[warn][16:04:24] Debug mode enabled
+[info][16:04:24] Starting...
+[info][16:04:24] MongoDB: Connected
+[info][16:04:25] Discord: Ready
+[warn][16:11:01] Debug mode enabled
+[info][16:11:01] Starting...
+[info][16:11:01] MongoDB: Connected
+[info][16:11:02] Discord: Ready
+[info][16:11:07] [#rs7-orders] @Zeus: $test 50 4
+[info][16:11:08] [#rs7-orders] @Zeus created an order
+[warn][16:11:40] Debug mode enabled
+[info][16:11:40] Starting...
+[info][16:11:40] MongoDB: Connected
+[info][16:11:41] Discord: Ready
+[info][16:11:43] [#rs7-orders] @Zeus: $test 40 5
+[info][16:11:44] [#rs7-orders] @Zeus created an order
+[warn][16:12:38] Debug mode enabled
+[info][16:12:38] Starting...
+[info][16:12:38] MongoDB: Connected
+[info][16:12:39] Discord: Ready
+[warn][16:13:21] Debug mode enabled
+[info][16:13:21] Starting...
+[info][16:13:21] MongoDB: Connected
+[info][16:13:22] Discord: Ready
+[warn][16:13:39] Debug mode enabled
+[info][16:13:39] Starting...
+[info][16:13:39] MongoDB: Connected
+[info][16:13:40] Discord: Ready
+[warn][16:13:57] Debug mode enabled
+[info][16:13:57] Starting...
+[info][16:13:57] MongoDB: Connected
+[info][16:13:58] Discord: Ready
+[info][16:14:02] [#rs7-orders] @Zeus: $order 50 4
+[info][16:14:02] [#rs7-orders] @Zeus created an order
+[warn][16:15:30] Debug mode enabled
+[info][16:15:30] Starting...
+[info][16:15:30] MongoDB: Connected
+[info][16:15:32] Discord: Ready
+[info][16:15:33] [#rs7-orders] @Zeus: $order 50 4
+[info][16:15:34] [#rs7-orders] @Zeus created an order
+[warn][16:15:49] Debug mode enabled
+[info][16:15:49] Starting...
+[info][16:15:49] MongoDB: Connected
+[info][16:15:50] Discord: Ready
+[info][16:15:53] [#rs7-orders] @Zeus: $order 50 5
+[info][16:15:53] [#rs7-orders] @Zeus created an order
+[warn][16:16:27] Debug mode enabled
+[info][16:16:27] Starting...
+[info][16:16:27] MongoDB: Connected
+[info][16:16:28] Discord: Ready
+[info][16:16:30] [#rs7-orders] @Zeus: $order 50 5
+[info][16:16:30] [#rs7-orders] @Zeus created an order
+[warn][16:17:07] Debug mode enabled
+[info][16:17:07] Starting...
+[info][16:17:07] MongoDB: Connected
+[info][16:17:08] Discord: Ready
+[warn][16:17:42] Debug mode enabled
+[info][16:17:42] Starting...
+[info][16:17:42] MongoDB: Connected
+[info][16:17:43] Discord: Ready
+[info][16:17:51] [#rs7-orders] @Zeus: $order 20 5 mix
+[info][16:17:51] [#rs7-orders] @Zeus created an order (20xR5 ⇄ 8xR7)
+[warn][16:17:59] Debug mode enabled
+[info][16:17:59] Starting...
+[info][16:17:59] MongoDB: Connected
+[info][16:18:00] Discord: Ready
+[warn][16:19:21] Debug mode enabled
+[info][16:19:21] Starting...
+[info][16:19:21] MongoDB: Connected
+[info][16:19:22] Discord: Ready
+[warn][16:19:28] Debug mode enabled
+[info][16:19:28] Starting...
+[info][16:19:28] MongoDB: Connected
+[info][16:19:29] Discord: Ready
+[info][16:19:33] [#rs7-orders] @Zeus: $order 50 5
+[cmd][16:19:34] [#rs7-orders] @Zeus created an order (50xR5 : 20xR7)
+[debug][16:20:01] [CRON] Deleted 3 messages from order channels
+[debug][16:20:46] Debug mode enabled
+[debug][16:20:46] Starting...
+[info][16:20:46] MongoDB: Connected
+[debug][16:20:47] Discord: Ready
+[debug][16:20:54] Debug mode enabled
+[debug][16:20:54] Starting...
+[debug][16:20:54] MongoDB: Connected
+[debug][16:20:55] Discord: Ready
+[info][16:21:13] [#rs7-orders] @Zeus: $order 20 5 mix please
+[cmd][16:21:13] [#rs7-orders] @Zeus created an order (20xR5 : 8xR7)
+[debug][16:23:08] Debug mode enabled
+[debug][16:23:08] Starting...
+[debug][16:23:08] MongoDB: Connected
+[debug][16:23:09] Discord: Ready
+[info][16:23:14] [#rs7-orders] @Zeus: $order 20 4
+[cmd][16:23:14] [#rs7-orders] @Zeus created an order (20xR4 : 5xR7)
+[debug][16:29:35] Debug mode enabled
+[debug][16:29:35] Starting...
+[debug][16:29:35] MongoDB: Connected
+[debug][16:29:37] Discord: Ready
+[info][16:29:42] [#rs7-orders] @Zeus: $order 30 5
+[cmd][16:29:42] [#rs7-orders] @Zeus created an order (30xR5 : 12xR7)
+[debug][16:38:43] Debug mode enabled
+[debug][16:38:43] Starting...
+[debug][16:38:43] MongoDB: Connected
+[debug][16:38:44] Discord: Ready
+[info][16:38:46] [#rs7-orders] @Zeus: $order 40 4
+[cmd][16:38:47] [#rs7-orders] @Zeus created an order (40xR4 : 10xR7)
+[debug][16:40:01] [CRON] Deleted 4 messages from order channels
+[debug][16:40:52] Debug mode enabled
+[debug][16:40:52] Starting...
+[debug][16:40:52] MongoDB: Connected
+[debug][16:40:53] Discord: Ready
+[info][16:40:57] [#rs7-orders] @Zeus: $order 40 5
+[cmd][16:40:58] [#rs7-orders] @Zeus created an order (40xR5 : 16xR7)
+[debug][16:41:42] Debug mode enabled
+[debug][16:41:42] Starting...
+[debug][16:41:42] MongoDB: Connected
+[debug][16:41:43] Discord: Ready
+[debug][16:42:24] Debug mode enabled
+[debug][16:42:24] Starting...
+[debug][16:42:24] MongoDB: Connected
+[debug][16:42:25] Discord: Ready
+[info][16:42:29] [#rs7-orders] @Zeus: $order 50 5
+[cmd][16:42:29] [#rs7-orders] @Zeus created an order (50xR5 : 20xR7)
+[info][16:43:16] [#rs7-orders] @Zeus: $order 50 5
+[cmd][16:43:17] [#rs7-orders] @Zeus created an order (50xR5 : 20xR7)
+[debug][16:47:15] Debug mode enabled
+[debug][16:47:15] Starting...
+[debug][16:47:15] MongoDB: Connected
+[debug][16:47:16] Discord: Ready
+[info][16:47:20] [#rs7-orders] @Zeus: $order 50 5
+[cmd][16:47:20] [#rs7-orders] @Zeus created an order (50xR5 : 20xR7)
+[debug][16:48:03] Debug mode enabled
+[debug][16:48:03] Starting...
+[debug][16:48:03] MongoDB: Connected
+[debug][16:48:04] Discord: Ready
+[info][16:48:07] [#rs7-orders] @Zeus: $order 50 5
+[cmd][16:48:07] [#rs7-orders] @Zeus created an order (50xR5 : 20xR7)
+[debug][16:50:01] [CRON] Deleted 29 messages from order channels
+[debug][16:56:43] Debug mode enabled
+[debug][16:56:43] Starting...
+[debug][16:56:43] MongoDB: Connected
+[debug][16:56:44] Discord: Ready
+[info][16:56:47] [#rs7-orders] @Zeus: $order 50 5
+[cmd][16:56:47] [#rs7-orders] @Zeus created an order (50xR5 : 20xR7)
+[debug][16:59:13] Debug mode enabled
+[debug][16:59:13] Starting...
+[debug][16:59:13] MongoDB: Connected
+[debug][16:59:14] Discord: Ready
+[info][16:59:16] [#rs7-orders] @Zeus: $order 50 5
+[cmd][16:59:17] [#rs7-orders] @Zeus created an order (50xR5 : 20xR7)
+[debug][17:00:01] [CRON] Deleted 15 messages from order channels
+[debug][17:01:31] Debug mode enabled
+[debug][17:01:31] Starting...
+[debug][17:01:31] MongoDB: Connected
+[debug][17:01:32] Discord: Ready
+[info][17:01:37] [#rs7-orders] @Zeus: $order 50 5
+[cmd][17:01:38] [#rs7-orders] @Zeus created an order (50xR5 : 20xR7)
+[debug][17:03:29] Debug mode enabled
+[debug][17:03:29] Starting...
+[debug][17:03:29] MongoDB: Connected
+[debug][17:03:30] Discord: Ready
+[info][17:03:34] [#rs7-orders] @Zeus: $order 20 4
+[cmd][17:03:34] [#rs7-orders] @Zeus created an order (20xR4 : 5xR7)
+[debug][17:04:35] Debug mode enabled
+[debug][17:04:35] Starting...
+[debug][17:04:35] MongoDB: Connected
+[debug][17:04:35] Discord: Ready
+[info][17:04:40] [#rs7-orders] @Zeus: $order 20 4
+[cmd][17:04:40] [#rs7-orders] @Zeus created an order (20xR4 : 5xR7)
+[debug][17:05:01] Debug mode enabled
+[debug][17:05:01] Starting...
+[debug][17:05:01] MongoDB: Connected
+[debug][17:05:02] Discord: Ready
+[info][17:05:05] [#rs7-orders] @Zeus: $order 20 4
+[cmd][17:05:05] [#rs7-orders] @Zeus created an order (20xR4 : 5xR7)
+[debug][17:05:18] Debug mode enabled
+[debug][17:05:18] Starting...
+[debug][17:05:18] MongoDB: Connected
+[debug][17:05:19] Discord: Ready
+[debug][17:06:01] Debug mode enabled
+[debug][17:06:01] Starting...
+[debug][17:06:01] MongoDB: Connected
+[debug][17:06:02] Discord: Ready
+[info][17:06:06] [#rs7-orders] @Zeus: $order 30 5
+[cmd][17:06:07] [#rs7-orders] @Zeus created an order (30xR5 : 12xR7)
+[debug][17:09:14] Debug mode enabled
+[debug][17:09:14] Starting...
+[debug][17:09:14] MongoDB: Connected
+[debug][17:09:15] Discord: Ready
+[info][17:09:17] [#rs7-orders] @Zeus: $order 50 5
+[cmd][17:09:18] [#rs7-orders] @Zeus created an order (50xR5 : 20xR7)
+[debug][17:09:27] Debug mode enabled
+[debug][17:09:27] Starting...
+[debug][17:09:27] MongoDB: Connected
+[debug][17:09:28] Discord: Ready
+[info][17:09:35] [#rs7-orders] @Zeus: $order 50 5
+[cmd][17:09:35] [#rs7-orders] @Zeus created an order (50xR5 : 20xR7)
+[debug][17:10:01] [CRON] Deleted 7 messages from order channels
+[debug][17:11:04] Debug mode enabled
+[debug][17:11:04] Starting...
+[debug][17:11:04] MongoDB: Connected
+[debug][17:11:05] Discord: Ready
+[info][17:11:13] [#rs7-orders] @Zeus: $order 50 5
+[cmd][17:11:14] [#rs7-orders] @Zeus created an order (50xR5 : 20xR7)
+[debug][17:12:01] Debug mode enabled
+[debug][17:12:01] Starting...
+[debug][17:12:01] MongoDB: Connected
+[debug][17:12:02] Discord: Ready
+[info][17:12:06] [#rs7-orders] @Zeus: $order 50 5
+[cmd][17:12:06] [#rs7-orders] @Zeus created an order (50xR5 : 20xR7)
+[debug][17:18:40] Debug mode enabled
+[debug][17:18:40] Starting...
+[debug][17:18:40] MongoDB: Connected
+[debug][17:18:41] Discord: Ready
+[info][17:18:43] [#rs7-orders] @Zeus: $order 50 5
+[cmd][17:18:44] [#rs7-orders] @Zeus created an order (50xR5 : 20xR7)
+[debug][17:19:14] Debug mode enabled
+[debug][17:19:14] Starting...
+[debug][17:19:14] MongoDB: Connected
+[debug][17:19:15] Discord: Ready
+[info][17:19:18] [#rs7-orders] @Zeus: $order 50 5
+[cmd][17:19:18] [#rs7-orders] @Zeus created an order (50xR5 : 20xR7)
+[debug][17:19:52] Debug mode enabled
+[debug][17:19:52] Starting...
+[debug][17:19:52] MongoDB: Connected
+[debug][17:19:53] Discord: Ready
+[info][17:19:55] [#rs7-orders] @Zeus: $order 50 5
+[cmd][17:19:56] [#rs7-orders] @Zeus created an order (50xR5 : 20xR7)
+[debug][17:20:01] [CRON] Deleted 16 messages from order channels
+[debug][17:20:18] Debug mode enabled
+[debug][17:20:18] Starting...
+[debug][17:20:18] MongoDB: Connected
+[debug][17:20:19] Discord: Ready
+[debug][17:20:36] Debug mode enabled
+[debug][17:20:36] Starting...
+[debug][17:20:37] MongoDB: Connected
+[debug][17:20:37] Discord: Ready
+[info][17:20:45] [#rs7-orders] @Zeus: $admin clear all
+[info][17:22:56] [#rs7-orders] @Zeus: $order 20 5 mix please
+[cmd][17:22:57] [#rs7-orders] @Zeus created an order (20xR5 : 8xR7)
+[debug][17:24:45] Debug mode enabled
+[debug][17:24:45] Starting...
+[debug][17:24:45] MongoDB: Connected
+[debug][17:24:46] Discord: Ready
+[info][17:25:00] [#rs7-orders] @Zeus: $order 20 5
+[cmd][17:25:00] [#rs7-orders] @Zeus created an order (20xR5 : 8xR7)
+[debug][17:25:34] Debug mode enabled
+[debug][17:25:34] Starting...
+[debug][17:25:34] MongoDB: Connected
+[debug][17:25:35] Discord: Ready
+[info][17:25:40] [#rs7-orders] @Zeus: $order 30 4 mix
+[cmd][17:25:40] [#rs7-orders] @Zeus created an order (30xR4 : 8xR7)
+[debug][17:25:57] Debug mode enabled
+[debug][17:25:57] Starting...
+[debug][17:25:57] MongoDB: Connected
+[debug][17:25:58] Discord: Ready
+[info][17:26:05] [#rs7-orders] @Zeus: $order 20 5
+[cmd][17:26:05] [#rs7-orders] @Zeus created an order (20xR5 : 8xR7)
+[debug][17:26:17] Debug mode enabled
+[debug][17:26:17] Starting...
+[debug][17:26:17] MongoDB: Connected
+[debug][17:26:18] Discord: Ready
+[info][17:26:21] [#rs7-orders] @Zeus: $order 50 5
+[cmd][17:26:21] [#rs7-orders] @Zeus created an order (50xR5 : 20xR7)
+[debug][17:26:29] Debug mode enabled
+[debug][17:26:29] Starting...
+[debug][17:26:29] MongoDB: Connected
+[debug][17:26:30] Discord: Ready
+[info][17:26:33] [#rs7-orders] @Zeus: $order 50 5
+[cmd][17:26:33] [#rs7-orders] @Zeus created an order (50xR5 : 20xR7)
+[debug][17:26:54] Debug mode enabled
+[debug][17:26:54] Starting...
+[debug][17:26:54] MongoDB: Connected
+[debug][17:26:55] Discord: Ready
+[info][17:26:58] [#rs7-orders] @Zeus: $order 20 5
+[cmd][17:26:59] [#rs7-orders] @Zeus created an order (20xR5 : 8xR7)
+[debug][17:29:11] Debug mode enabled
+[debug][17:29:11] Starting...
+[debug][17:29:11] MongoDB: Connected
+[debug][17:29:12] Discord: Ready
+[debug][17:29:21] Debug mode enabled
+[debug][17:29:21] Starting...
+[debug][17:29:21] MongoDB: Connected
+[debug][17:29:22] Discord: Ready
+[info][17:29:25] [#rs7-orders] @Zeus: $order 20 5
+[cmd][17:29:25] [#rs7-orders] @Zeus created an order (20xR5 : 8xR7)
+[debug][17:29:42] Debug mode enabled
+[debug][17:29:42] Starting...
+[debug][17:29:42] MongoDB: Connected
+[debug][17:29:43] Discord: Ready
+[info][17:29:45] [#rs7-orders] @Zeus: $order 20 5
+[cmd][17:29:45] [#rs7-orders] @Zeus created an order (20xR5 : 8xR7)
+[debug][17:30:02] Debug mode enabled
+[debug][17:30:02] Starting...
+[debug][17:30:02] MongoDB: Connected
+[debug][17:30:03] Discord: Ready
+[info][17:30:05] [#rs7-orders] @Zeus: $order 20 5
+[cmd][17:30:06] [#rs7-orders] @Zeus created an order (20xR5 : 8xR7)
+[debug][17:32:59] Debug mode enabled
+[debug][17:32:59] Starting...
+[debug][17:32:59] MongoDB: Connected
+[debug][17:33:00] Discord: Ready
+[info][17:33:03] [#rs7-orders] @Zeus: $order 20 5
+[cmd][17:33:03] [#rs7-orders] @Zeus created an order (20xR5 : 8xR7)
+[debug][17:33:17] Debug mode enabled
+[debug][17:33:17] Starting...
+[debug][17:33:17] MongoDB: Connected
+[debug][17:33:18] Discord: Ready
+[info][17:33:20] [#rs7-orders] @Zeus: $order 50 2
+[cmd][17:33:21] [#rs7-orders] @Zeus created an order (50xR2 : 6xR7)
+[debug][17:35:49] Debug mode enabled
+[debug][17:35:49] Starting...
+[debug][17:35:49] MongoDB: Connected
+[debug][17:35:50] Discord: Ready
+[info][17:35:54] [#rs7-orders] @Zeus: $order 50 5
+[cmd][17:35:54] [#rs7-orders] @Zeus created an order (50xR5 : 20xR7)
+[debug][17:36:03] Debug mode enabled
+[debug][17:36:03] Starting...
+[debug][17:36:03] MongoDB: Connected
+[debug][17:36:04] Discord: Ready
+[info][17:36:06] [#rs7-orders] @Zeus: $order 50 5
+[cmd][17:36:07] [#rs7-orders] @Zeus created an order (50xR5 : 20xR7)
+[debug][17:36:13] Debug mode enabled
+[debug][17:36:13] Starting...
+[debug][17:36:13] MongoDB: Connected
+[debug][17:36:14] Discord: Ready
+[info][17:36:21] [#rs7-orders] @Zeus: $order 20 5
+[cmd][17:36:22] [#rs7-orders] @Zeus created an order (20xR5 : 8xR7)
+[debug][17:36:44] Debug mode enabled
+[debug][17:36:44] Starting...
+[debug][17:36:44] MongoDB: Connected
+[debug][17:36:45] Discord: Ready
+[info][17:36:48] [#rs7-orders] @Zeus: $order 20 5
+[cmd][17:36:48] [#rs7-orders] @Zeus created an order (20xR5 : 8xR7)
+[debug][17:36:57] Debug mode enabled
+[debug][17:36:57] Starting...
+[debug][17:36:57] MongoDB: Connected
+[debug][17:36:58] Discord: Ready
+[info][17:37:01] [#rs7-orders] @Zeus: $order 20 5
+[cmd][17:37:02] [#rs7-orders] @Zeus created an order (20xR5 : 8xR7)
+[debug][17:37:11] Debug mode enabled
+[debug][17:37:11] Starting...
+[debug][17:37:11] MongoDB: Connected
+[debug][17:37:12] Discord: Ready
+[info][17:37:15] [#rs7-orders] @Zeus: $order 20 5
+[cmd][17:37:15] [#rs7-orders] @Zeus created an order (20xR5 : 8xR7)
+[debug][17:38:02] Debug mode enabled
+[debug][17:38:02] Starting...
+[debug][17:38:02] MongoDB: Connected
+[debug][17:38:03] Discord: Ready
+[info][17:38:08] [#rs7-orders] @Zeus: $admin clear all
+[info][17:38:14] [#rs7-orders] @Zeus: $order 20 5
+[cmd][17:38:14] [#rs7-orders] @Zeus created an order (20xR5 : 8xR7)
+[debug][17:40:55] Debug mode enabled
+[debug][17:40:55] Starting...
+[debug][17:40:55] MongoDB: Connected
+[debug][17:40:56] Discord: Ready
+[info][17:41:41] [#rs7-orders] @Zeus: $order 20 5
+[cmd][17:41:41] [#rs7-orders] @Zeus created an order (20xR5 : 8xR7)
+[info][17:41:53] [#rs7-orders] @Zeus: $order 20 5 mix please
+[cmd][17:41:54] [#rs7-orders] @Zeus created an order (20xR5 : 8xR7)
+[debug][17:42:18] Debug mode enabled
+[debug][17:42:18] Starting...
+[debug][17:42:18] MongoDB: Connected
+[debug][17:42:19] Discord: Ready
+[debug][17:42:54] Debug mode enabled
+[debug][17:42:54] Starting...
+[debug][17:42:54] MongoDB: Connected
+[debug][17:42:55] Discord: Ready
+[info][17:43:05] [#rs7-orders] @Zeus: $order 30 6 tets please
+[cmd][17:43:05] [#rs7-orders] @Zeus created an order (30xR6 : 20xR7)
+[info][17:43:48] [#rs7-orders] @Zeus: $order 40 4
+[cmd][17:43:48] [#rs7-orders] @Zeus created an order (40xR4 : 10xR7)
+[info][17:45:12] [#rs7-orders] @Zeus: $admin clear all
+[info][17:45:20] [#rs7-orders] @Zeus: $order 20 5
+[cmd][17:45:20] [#rs7-orders] @Zeus created an order (20xR5 : 8xR7)
+[error][17:48:05] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][17:48:48] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][17:50:13] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][18:04:41] Debug mode enabled
+[debug][18:04:41] Starting...
+[debug][18:04:41] MongoDB: Connected
+[debug][18:04:42] Discord: Ready
+[info][18:04:46] [#rs7-orders] @Zeus: $order 20 5
+[cmd][18:04:46] [#rs7-orders] @Zeus created an order (20xR5 : 8xR7)
+[debug][18:05:37] Debug mode enabled
+[debug][18:05:37] Starting...
+[debug][18:05:37] MongoDB: Connected
+[debug][18:05:38] Discord: Ready
+[info][18:05:42] [#rs7-orders] @Zeus: $order 20 5
+[cmd][18:05:42] [#rs7-orders] @Zeus created an order (20xR5 : 8xR7)
+[debug][18:06:17] Debug mode enabled
+[debug][18:06:17] Starting...
+[debug][18:06:17] MongoDB: Connected
+[debug][18:06:18] Discord: Ready
+[info][18:06:22] [#rs7-orders] @Zeus: $order 20 5
+[cmd][18:06:23] [#rs7-orders] @Zeus created an order (20xR5 : 8xR7)
+[debug][18:07:24] Debug mode enabled
+[debug][18:07:24] Starting...
+[debug][18:07:24] MongoDB: Connected
+[debug][18:07:25] Discord: Ready
+[info][18:07:33] [#rs7-orders] @Zeus: $order 20 5
+[cmd][18:07:33] [#rs7-orders] @Zeus created an order (20xR5 : 8xR7)
+[info][18:08:32] [#rs7-orders] @Zeus: $admin clear all
+[info][18:08:34] [#rs4-orders] @Zeus: $admin clear all
+[info][18:08:41] [#rs6-orders] @Zeus: $admin clear all
+[info][18:08:48] [#rs4-orders] @Zeus: $order 20 3
+[cmd][18:08:49] [#rs4-orders] @Zeus created an order (20xR3 : 10xR4)
+[debug][18:09:41] Debug mode enabled
+[debug][18:09:41] Starting...
+[debug][18:09:41] MongoDB: Connected
+[debug][18:09:42] Discord: Ready
+[debug][18:10:03] Debug mode enabled
+[debug][18:10:03] Starting...
+[debug][18:10:03] MongoDB: Connected
+[debug][18:10:04] Discord: Ready
+[debug][18:12:39] Debug mode enabled
+[debug][18:12:39] Starting...
+[debug][18:12:39] MongoDB: Connected
+[debug][18:12:40] Discord: Ready
+[debug][18:13:02] Debug mode enabled
+[debug][18:13:02] Starting...
+[debug][18:13:02] MongoDB: Connected
+[debug][18:13:03] Discord: Ready
+[info][18:13:21] [#rs4-orders] @Zeus: $order 20 5
+[cmd][18:13:21] [#rs4-orders] @Zeus created an order (20xR5 : 40xR4)
+[info][18:14:18] [#rs4-orders] @Zeus: $order 20 5
+[cmd][18:14:18] [#rs4-orders] @Zeus created an order (20xR5 : 40xR4)
+[debug][18:15:40] Debug mode enabled
+[debug][18:15:40] Starting...
+[debug][18:15:40] MongoDB: Connected
+[debug][18:15:41] Discord: Ready
+[info][18:15:45] [#rs4-orders] @Zeus: $order 20 5
+[cmd][18:15:45] [#rs4-orders] @Zeus created an order (20xR5 : 40xR4)
+[debug][18:16:00] Debug mode enabled
+[debug][18:16:00] Starting...
+[debug][18:16:00] MongoDB: Connected
+[debug][18:16:01] Discord: Ready
+[info][18:16:06] [#rs4-orders] @Zeus: $order 20 5
+[cmd][18:16:06] [#rs4-orders] @Zeus created an order (20xR5 : 40xR4)
+[debug][18:18:47] Debug mode enabled
+[debug][18:18:47] Starting...
+[debug][18:18:47] MongoDB: Connected
+[debug][18:18:48] Discord: Ready
+[info][18:18:53] [#rs4-orders] @Zeus: $order 20 5
+[cmd][18:18:54] [#rs4-orders] @Zeus created an order (20xR5 : 40xR4)
+[debug][18:19:20] Debug mode enabled
+[debug][18:19:20] Starting...
+[debug][18:19:20] MongoDB: Connected
+[debug][18:19:21] Discord: Ready
+[debug][18:19:51] Debug mode enabled
+[debug][18:19:51] Starting...
+[debug][18:19:51] MongoDB: Connected
+[debug][18:19:52] Discord: Ready
+[info][18:19:55] [#rs4-orders] @Zeus: $order 20 5
+[cmd][18:19:55] [#rs4-orders] @Zeus created an order (20xR5 : 40xR4)
+[debug][18:20:44] Debug mode enabled
+[debug][18:20:44] Starting...
+[debug][18:20:44] MongoDB: Connected
+[debug][18:20:45] Discord: Ready
+[info][18:20:49] [#rs4-orders] @Zeus: $order 20 5
+[cmd][18:20:50] [#rs4-orders] @Zeus created an order (20xR5 : 40xR4)
+[debug][18:24:05] Debug mode enabled
+[debug][18:24:05] Starting...
+[debug][18:24:05] MongoDB: Connected
+[debug][18:24:06] Discord: Ready
+[info][18:24:12] [#rs4-orders] @Zeus: $order 20 5
+[cmd][18:24:12] [#rs4-orders] @Zeus created an order (20xR5 : 40xR4)
+[debug][18:24:22] Debug mode enabled
+[debug][18:24:22] Starting...
+[debug][18:24:22] MongoDB: Connected
+[debug][18:24:23] Discord: Ready
+[info][18:24:28] [#rs4-orders] @Zeus: $order 20 5
+[cmd][18:24:29] [#rs4-orders] @Zeus created an order (20xR5 : 40xR4)
+[debug][18:25:22] Debug mode enabled
+[debug][18:25:22] Starting...
+[debug][18:25:22] MongoDB: Connected
+[debug][18:25:23] Discord: Ready
+[debug][18:26:16] Debug mode enabled
+[debug][18:26:16] Starting...
+[debug][18:26:16] MongoDB: Connected
+[debug][18:26:17] Discord: Ready
+[info][18:26:22] [#rs4-orders] @Zeus: $complete 0010
+[debug][18:27:57] Debug mode enabled
+[debug][18:27:57] Starting...
+[debug][18:27:57] MongoDB: Connected
+[debug][18:27:58] Discord: Ready
+[info][18:28:05] [#rs4-orders] @Zeus: $complete 0010
+[debug][18:29:19] Debug mode enabled
+[debug][18:29:19] Starting...
+[debug][18:29:19] MongoDB: Connected
+[debug][18:29:21] Discord: Ready
+[debug][18:30:06] Debug mode enabled
+[debug][18:30:06] Starting...
+[debug][18:30:06] MongoDB: Connected
+[debug][18:30:07] Discord: Ready
+[debug][18:31:27] Debug mode enabled
+[debug][18:31:27] Starting...
+[debug][18:31:27] MongoDB: Connected
+[debug][18:31:28] Discord: Ready
+[info][18:31:31] [#rs4-orders] @Zeus: $complete 0010
+[debug][18:32:22] Debug mode enabled
+[debug][18:32:22] Starting...
+[debug][18:32:22] MongoDB: Connected
+[debug][18:32:23] Discord: Ready
+[info][18:32:26] [#rs4-orders] @Zeus: $complete 0010
+[error][18:32:26] TypeError: channel.messages.get is not a function
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\complete.js:18:40)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)
+[debug][18:32:42] Debug mode enabled
+[debug][18:32:42] Starting...
+[debug][18:32:42] MongoDB: Connected
+[debug][18:32:43] Discord: Ready
+[debug][18:32:55] Debug mode enabled
+[debug][18:32:55] Starting...
+[debug][18:32:55] MongoDB: Connected
+[debug][18:32:56] Discord: Ready
+[info][18:32:59] [#rs4-orders] @Zeus: $complete 0010
+[debug][18:34:03] Debug mode enabled
+[debug][18:34:03] Starting...
+[debug][18:34:03] MongoDB: Connected
+[debug][18:34:04] Discord: Ready
+[info][18:34:08] [#rs4-orders] @Zeus: $complete 0010
+[debug][18:34:21] Debug mode enabled
+[debug][18:34:21] Starting...
+[debug][18:34:21] MongoDB: Connected
+[debug][18:34:22] Discord: Ready
+[info][18:34:26] [#rs4-orders] @Zeus: $complete 0010
+[debug][18:36:30] Debug mode enabled
+[debug][18:36:30] Starting...
+[debug][18:36:30] MongoDB: Connected
+[debug][18:36:31] Discord: Ready
+[info][18:36:35] [#rs4-orders] @Zeus: $complete 0010
+[error][18:36:35] RangeError [MESSAGE_NONCE_TYPE]: Message nonce must fit in an unsigned 64-bit integer.
+    at APIMessage.resolveData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\structures\APIMessage.js:155:44)
+    at Message.edit (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\structures\Message.js:443:105)
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\complete.js:23:17)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][18:37:27] Debug mode enabled
+[debug][18:37:27] Starting...
+[debug][18:37:27] MongoDB: Connected
+[debug][18:37:28] Discord: Ready
+[info][18:37:32] [#rs4-orders] @Zeus: $complete 0010
+[error][18:37:32] RangeError [MESSAGE_NONCE_TYPE]: Message nonce must fit in an unsigned 64-bit integer.
+    at APIMessage.resolveData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\structures\APIMessage.js:155:44)
+    at TextChannel.send (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:166:62)
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\complete.js:23:17)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][18:38:01] Debug mode enabled
+[debug][18:38:01] Starting...
+[debug][18:38:01] MongoDB: Connected
+[debug][18:38:02] Discord: Ready
+[info][18:38:05] [#rs4-orders] @Zeus: $complete 0010
+[error][18:38:06] RangeError [MESSAGE_NONCE_TYPE]: Message nonce must fit in an unsigned 64-bit integer.
+    at APIMessage.resolveData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\structures\APIMessage.js:155:44)
+    at TextChannel.send (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:166:62)
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\complete.js:23:17)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][18:38:38] Debug mode enabled
+[debug][18:38:38] Starting...
+[debug][18:38:38] MongoDB: Connected
+[debug][18:38:39] Discord: Ready
+[debug][18:38:55] Debug mode enabled
+[debug][18:38:55] Starting...
+[debug][18:38:55] MongoDB: Connected
+[debug][18:38:56] Discord: Ready
+[info][18:39:03] [#rs4-orders] @Zeus: $complete 0010
+[error][18:39:03] RangeError [MESSAGE_NONCE_TYPE]: Message nonce must fit in an unsigned 64-bit integer.
+    at APIMessage.resolveData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\structures\APIMessage.js:155:44)
+    at TextChannel.send (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:166:62)
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\complete.js:23:17)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][18:40:09] Debug mode enabled
+[debug][18:40:09] Starting...
+[debug][18:40:09] MongoDB: Connected
+[debug][18:40:10] Discord: Ready
+[info][18:40:13] [#rs4-orders] @Zeus: $complete 0010
+[debug][18:40:41] Debug mode enabled
+[debug][18:40:41] Starting...
+[debug][18:40:41] MongoDB: Connected
+[debug][18:40:42] Discord: Ready
+[info][18:40:50] [#rs4-orders] @Zeus: $complete 0010
+[debug][18:41:19] Debug mode enabled
+[debug][18:41:19] Starting...
+[debug][18:41:20] MongoDB: Connected
+[debug][18:41:20] Discord: Ready
+[debug][18:41:41] Debug mode enabled
+[debug][18:41:41] Starting...
+[debug][18:41:41] MongoDB: Connected
+[debug][18:41:42] Discord: Ready
+[info][18:42:19] [#rs4-orders] @Zeus: $admin clear all
+[info][18:42:24] [#rs4-orders] @Zeus: $order 20 5
+[cmd][18:42:25] [#rs4-orders] @Zeus created an order (20xR5 : 40xR4)
+[info][18:42:30] [#rs4-orders] @Zeus: $complete 1
+[info][18:42:35] [#rs4-orders] @Zeus: $order 20 5
+[cmd][18:42:35] [#rs4-orders] @Zeus created an order (20xR5 : 40xR4)
+[debug][18:43:41] Debug mode enabled
+[debug][18:43:41] Starting...
+[debug][18:43:41] MongoDB: Connected
+[debug][18:43:42] Discord: Ready
+[debug][18:45:09] Debug mode enabled
+[debug][18:45:09] Starting...
+[debug][18:45:09] MongoDB: Connected
+[debug][18:45:10] Discord: Ready
+[debug][18:45:15] Debug mode enabled
+[debug][18:45:15] Starting...
+[debug][18:45:15] MongoDB: Connected
+[debug][18:45:17] Discord: Ready
+[debug][18:46:07] Debug mode enabled
+[debug][18:46:07] Starting...
+[debug][18:46:07] MongoDB: Connected
+[debug][18:46:08] Discord: Ready
+[info][18:46:24] [#rs4-orders] @Zeus: $complete 2
+[cmd][18:46:24] [#rs4-orders] @Zeus completed an order
+[info][18:46:40] [#rs4-orders] @Zeus: $order 10 4
+[info][18:46:50] [#rs4-orders] @Zeus: $order 10 7
+[cmd][18:46:51] [#rs4-orders] @Zeus created an order (10xR7 : 40xR4)
+[debug][18:47:23] Debug mode enabled
+[debug][18:47:23] Starting...
+[debug][18:47:23] MongoDB: Connected
+[debug][18:47:24] Discord: Ready
+[info][18:47:30] [#rs4-orders] @Zeus: $order 20 5
+[cmd][18:47:30] [#rs4-orders] @Zeus created an order (20xR5 : 40xR4)
+[debug][18:47:41] Debug mode enabled
+[debug][18:47:41] Starting...
+[debug][18:47:41] MongoDB: Connected
+[debug][18:47:42] Discord: Ready
+[debug][18:48:23] Debug mode enabled
+[debug][18:48:23] Starting...
+[debug][18:48:23] MongoDB: Connected
+[debug][18:48:24] Discord: Ready
+[debug][18:48:30] Debug mode enabled
+[debug][18:48:30] Starting...
+[debug][18:48:30] MongoDB: Connected
+[debug][18:48:31] Discord: Ready
+[debug][18:48:35] Debug mode enabled
+[debug][18:48:35] Starting...
+[debug][18:48:35] MongoDB: Connected
+[debug][18:48:36] Reconnecting to shard
+[debug][18:48:42] Discord: Ready
+[debug][18:50:14] Debug mode enabled
+[debug][18:50:14] Starting...
+[debug][18:50:14] MongoDB: Connected
+[debug][18:50:15] Discord: Ready
+[debug][18:50:54] Debug mode enabled
+[debug][18:50:54] Starting...
+[debug][18:50:54] MongoDB: Connected
+[debug][18:50:55] Discord: Ready
+[info][18:51:02] [#rs4-orders] @Zeus: $order complete 4
+[info][18:51:09] [#rs4-orders] @Zeus: $complete 4
+[cmd][18:51:09] [#rs4-orders] @Zeus tried to complete someone elses order
+[debug][18:51:18] Debug mode enabled
+[debug][18:51:18] Starting...
+[debug][18:51:18] MongoDB: Connected
+[debug][18:51:19] Discord: Ready
+[info][18:51:23] [#rs4-orders] @Zeus: $complete 4
+[cmd][18:51:23] [#rs4-orders] @Zeus completed an order
+[debug][18:51:50] Debug mode enabled
+[debug][18:51:50] Starting...
+[debug][18:51:50] MongoDB: Connected
+[debug][18:51:51] Discord: Ready
+[debug][18:54:14] Debug mode enabled
+[debug][18:54:14] Starting...
+[debug][18:54:14] MongoDB: Connected
+[debug][18:54:15] Discord: Ready
+[info][18:54:18] [#rs4-orders] @Zeus: $complete 3
+[cmd][18:54:19] [#rs4-orders] @Zeus completed an order
+[debug][18:58:48] Debug mode enabled
+[debug][18:58:48] Starting...
+[debug][18:58:48] MongoDB: Connected
+[debug][18:58:49] Discord: Ready
+[debug][18:59:03] Debug mode enabled
+[debug][18:59:03] Starting...
+[debug][18:59:03] MongoDB: Connected
+[debug][18:59:04] Discord: Ready
+[debug][18:59:14] Debug mode enabled
+[debug][18:59:14] Starting...
+[debug][18:59:14] MongoDB: Connected
+[debug][18:59:15] Discord: Ready
+[debug][18:59:58] Debug mode enabled
+[debug][18:59:58] Starting...
+[debug][18:59:58] MongoDB: Connected
+[debug][18:59:59] Discord: Ready
+[info][19:00:06] [#rs4-orders] @Zeus: $order 20 5
+[cmd][19:00:06] [#rs4-orders] @Zeus created an order (20xR5 : 40xR4)
+[info][19:00:12] [#rs4-orders] @Zeus: $accept 5
+[cmd][19:00:12] [#rs4-orders] @Zeus completed an order
+[debug][19:00:29] Debug mode enabled
+[debug][19:00:29] Starting...
+[debug][19:00:29] MongoDB: Connected
+[debug][19:00:30] Discord: Ready
+[debug][19:00:35] Debug mode enabled
+[debug][19:00:35] Starting...
+[debug][19:00:35] MongoDB: Connected
+[debug][19:00:36] Discord: Ready
+[debug][19:00:41] Debug mode enabled
+[debug][19:00:41] Starting...
+[debug][19:00:41] MongoDB: Connected
+[debug][19:00:42] Discord: Ready
+[info][19:00:46] [#rs4-orders] @Zeus: $admin clear all
+[info][19:00:50] [#rs4-orders] @Zeus: $order 20 5
+[cmd][19:00:50] [#rs4-orders] @Zeus created an order (20xR5 : 40xR4)
+[info][19:00:56] [#rs4-orders] @Zeus: $accept 6
+[cmd][19:00:56] [#rs4-orders] @Zeus accepted an order
+[debug][19:01:05] Debug mode enabled
+[debug][19:01:05] Starting...
+[debug][19:01:05] MongoDB: Connected
+[debug][19:01:06] Discord: Ready
+[info][19:01:12] [#rs4-orders] @Zeus: $admin clear all
+[info][19:01:16] [#rs4-orders] @Zeus: $order 20 5
+[cmd][19:01:16] [#rs4-orders] @Zeus created an order (20xR5 : 40xR4)
+[info][19:01:21] [#rs4-orders] @Zeus: $accept 7
+[cmd][19:01:21] [#rs4-orders] @Zeus accepted an order
+[debug][19:02:46] Debug mode enabled
+[debug][19:02:46] Starting...
+[debug][19:02:46] MongoDB: Connected
+[debug][19:02:47] Discord: Ready
+[info][19:03:03] [#rs4-orders] @Zeus: $complete 7
+[cmd][19:03:03] [#rs4-orders] @Zeus completed an order
+[info][19:03:09] [#rs4-orders] @Zeus: $accept 7
+[cmd][19:03:09] [#rs4-orders] @Zeus tried to accept an order
+[info][19:03:19] [#rs4-orders] @Zeus: $order 20 5
+[cmd][19:03:19] [#rs4-orders] @Zeus created an order (20xR5 : 40xR4)
+[info][19:03:24] [#rs4-orders] @Zeus: $accept 8
+[cmd][19:03:24] [#rs4-orders] @Zeus accepted an order
+[info][19:13:16] [#rs4-orders] @Zeus: $complete 8
+[cmd][19:13:16] [#rs4-orders] @Zeus completed an order
+[debug][20:10:01] [CRON] Deleted 5 messages from order channels
+[debug][22:10:22] Debug mode enabled
+[debug][22:10:22] Starting...
+[debug][22:10:22] MongoDB: Connected
+[debug][22:10:23] Discord: Ready
+[info][22:10:39] [#rs4-orders] @Zeus: $order 20 3 mix
+[cmd][22:10:39] [#rs4-orders] @Zeus created an order (20xR3 : 10xR4)
+[info][22:10:47] [#rs4-orders] @Zeus: $accept 9
+[cmd][22:10:47] [#rs4-orders] @Zeus accepted an order
+[info][22:10:55] [#rs4-orders] @Zeus: $complete 9
+[cmd][22:10:55] [#rs4-orders] @Zeus completed an order
+[debug][22:13:47] Debug mode enabled
+[debug][22:13:47] Starting...
+[debug][22:13:47] MongoDB: Connected
+[debug][22:13:48] Discord: Ready
+[info][22:13:54] [#rs4-orders] @Zeus: $order 20 5
+[cmd][22:13:54] [#rs4-orders] @Zeus created an order (20xR5 : 40xR4)
+[info][22:14:00] [#rs4-orders] @Zeus: $accept 10
+[error][22:14:00] TypeError: Cannot read property 'delete' of undefined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\accept.js:31:26)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[info][22:14:11] [#rs4-orders] @Zeus: $complete 10
+[cmd][22:14:11] [#rs4-orders] @Zeus completed an order
+[debug][22:14:29] Debug mode enabled
+[debug][22:14:29] Starting...
+[debug][22:14:29] MongoDB: Connected
+[debug][22:14:30] Discord: Ready
+[info][22:14:34] [#rs4-orders] @Zeus: $order 30 4
+[info][22:14:39] [#rs4-orders] @Zeus: $order 30 5
+[cmd][22:14:39] [#rs4-orders] @Zeus created an order (30xR5 : 60xR4)
+[info][22:14:44] [#rs4-orders] @Zeus: $accept 11
+[cmd][22:14:44] [#rs4-orders] @Zeus accepted an order
+[info][22:14:51] [#rs4-orders] @Zeus: $complete 11
+[cmd][22:14:51] [#rs4-orders] @Zeus completed an order
+[debug][22:16:19] Debug mode enabled
+[debug][22:16:19] Starting...
+[debug][22:16:19] MongoDB: Connected
+[debug][22:16:20] Discord: Ready
+[info][22:16:27] [#rs4-orders] @Zeus: $order 20 5
+[cmd][22:16:27] [#rs4-orders] @Zeus created an order (20xR5 : 40xR4)
+[info][22:16:35] [#rs4-orders] @Zeus: $accept 12
+[cmd][22:16:35] [#rs4-orders] @Zeus accepted an order
+[debug][22:16:52] Debug mode enabled
+[debug][22:16:52] Starting...
+[debug][22:16:52] MongoDB: Connected
+[debug][22:16:53] Discord: Ready
+[info][22:16:56] [#rs4-orders] @Zeus: $admin clear all
+[info][22:17:02] [#rs4-orders] @Zeus: $order 20 5
+[cmd][22:17:02] [#rs4-orders] @Zeus created an order (20xR5 : 40xR4)
+[info][22:17:10] [#rs4-orders] @Zeus: $accept 13
+[cmd][22:17:10] [#rs4-orders] @Zeus accepted an order
+[debug][22:19:01] Debug mode enabled
+[debug][22:19:01] Starting...
+[debug][22:19:01] MongoDB: Connected
+[debug][22:19:02] Discord: Ready
+[info][22:19:08] [#rs4-orders] @Zeus: $order 40 6
+[cmd][22:19:08] [#rs4-orders] @Zeus created an order (40xR6 : 100xR4)
+[info][22:19:12] [#rs4-orders] @Zeus: $help
+[error][22:19:13] ReferenceError: channels is not defined
+    at C:\Users\Cody\Desktop\SALBOT\test\commands\help.js:14:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[info][22:19:17] [#rs4-orders] @Zeus: $accept 14
+[cmd][22:19:17] [#rs4-orders] @Zeus accepted an order
+[info][22:19:41] [#rs4-orders] @Zeus: $complete 14
+[cmd][22:19:41] [#rs4-orders] @Zeus completed an order
+[debug][22:20:29] Debug mode enabled
+[debug][22:20:29] Starting...
+[debug][22:20:29] MongoDB: Connected
+[debug][22:20:30] Discord: Ready
+[info][22:20:33] [#rs4-orders] @Zeus: $admin clear all
+[info][22:20:38] [#rs4-orders] @Zeus: $order 30 3
+[cmd][22:20:38] [#rs4-orders] @Zeus created an order (30xR3 : 15xR4)
+[info][22:20:47] [#rs4-orders] @Zeus: $accept 15
+[cmd][22:20:47] [#rs4-orders] @Zeus accepted an order
+[info][22:21:12] [#rs4-orders] @Zeus: $accept 50
+[error][22:21:12] TypeError: Cannot read property 'status' of null
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\accept.js:18:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)
+[debug][22:22:31] Debug mode enabled
+[debug][22:22:31] Starting...
+[debug][22:22:31] MongoDB: Connected
+[debug][22:22:32] Discord: Ready
+[info][22:22:34] [#rs4-orders] @Zeus: $accept 50
+[error][22:22:34] TypeError: Cannot read property 'status' of null
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\accept.js:22:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)
+[debug][22:22:58] Debug mode enabled
+[debug][22:22:58] Starting...
+[debug][22:22:58] MongoDB: Connected
+[debug][22:22:59] Discord: Ready
+[info][22:23:13] [#rs4-orders] @Zeus: $accept h5
+[error][22:23:13] CastError: Cast to Number failed for value "NaN" at path "orderId" for model "Order"
+    at model.Query.exec (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\query.js:4380:21)
+    at model.Query.Query.then (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\query.js:4472:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][22:24:35] Debug mode enabled
+[debug][22:24:35] Starting...
+[debug][22:24:35] MongoDB: Connected
+[debug][22:24:36] Discord: Ready
+[debug][22:24:41] Debug mode enabled
+[debug][22:24:41] Starting...
+[debug][22:24:41] MongoDB: Connected
+[debug][22:24:42] Discord: Ready
+[info][22:24:45] [#rs4-orders] @Zeus: $accept h5
+[error][22:24:45] CastError: Cast to Number failed for value "NaN" at path "orderId" for model "Order"
+    at model.Query.exec (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\query.js:4380:21)
+    at model.Query.Query.then (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\query.js:4472:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][22:24:57] Debug mode enabled
+[debug][22:24:57] Starting...
+[debug][22:24:57] MongoDB: Connected
+[debug][22:24:58] Discord: Ready
+[info][22:25:05] [#rs4-orders] @Zeus: $accept h5
+[error][22:25:05] CastError: Cast to Number failed for value "NaN" at path "orderId" for model "Order"
+    at model.Query.exec (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\query.js:4380:21)
+    at model.Query.Query.then (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\query.js:4472:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[info][22:25:38] [#rs4-orders] @Zeus: $complete 15
+[cmd][22:25:38] [#rs4-orders] @Zeus completed an order
+[debug][22:27:21] Debug mode enabled
+[debug][22:27:21] Starting...
+[debug][22:27:21] MongoDB: Connected
+[debug][22:27:23] Debug mode enabled
+[debug][22:27:23] Starting...
+[debug][22:27:23] MongoDB: Connected
+[debug][22:27:23] Discord: Ready
+[info][22:27:29] [#rs4-orders] @Zeus: $order 20 5
+[cmd][22:27:30] [#rs4-orders] @Zeus created an order (20xR5 : 40xR4)
+[info][22:27:37] [#rs4-orders] @Zeus: $accept 16
+[cmd][22:27:37] [#rs4-orders] @Zeus accepted an order
+[info][22:28:01] [#rs4-orders] @Zeus: $complete 16
+[cmd][22:28:01] [#rs4-orders] @Zeus completed an order
+[debug][22:29:10] Debug mode enabled
+[debug][22:29:10] Starting...
+[debug][22:29:10] MongoDB: Connected
+[debug][22:29:11] Discord: Ready
+[debug][22:29:42] Debug mode enabled
+[debug][22:29:42] Starting...
+[debug][22:29:42] MongoDB: Connected
+[debug][22:29:43] Discord: Ready
+[debug][22:29:57] Debug mode enabled
+[debug][22:29:57] Starting...
+[debug][22:29:57] MongoDB: Connected
+[debug][22:29:58] Discord: Ready
+[info][22:30:54] [#rs4-orders] @Zeus: $admin clear all
+[debug][22:31:52] Debug mode enabled
+[debug][22:31:52] Starting...
+[debug][22:31:52] MongoDB: Connected
+[debug][22:31:53] Discord: Ready
+[debug][22:31:57] Debug mode enabled
+[debug][22:31:57] Starting...
+[debug][22:31:57] MongoDB: Connected
+[debug][22:31:58] Reconnecting to shard
+[debug][22:32:03] Discord: Ready
+[info][22:32:13] [#rs4-orders] @Zeus: $order 20 5
+[cmd][22:32:13] [#rs4-orders] @Zeus created an order (20xR5 : 40xR4)
+[info][22:32:38] [#rs4-orders] @Zeus: $accept 1
+[cmd][22:32:39] [#rs4-orders] @Zeus accepted an order
+[info][22:32:59] [#rs4-orders] @Zeus: $complete 1
+[cmd][22:32:59] [#rs4-orders] @Zeus completed an order
+[debug][22:33:57] Debug mode enabled
+[debug][22:33:57] Starting...
+[debug][22:33:57] MongoDB: Connected
+[debug][22:33:58] Discord: Ready
+[debug][22:35:32] Debug mode enabled
+[debug][22:35:32] Starting...
+[debug][22:35:32] MongoDB: Connected
+[debug][22:35:34] Discord: Ready
+[debug][22:35:56] Debug mode enabled
+[debug][22:35:56] Starting...
+[debug][22:35:56] MongoDB: Connected
+[debug][22:35:57] Discord: Ready
+[debug][22:36:02] Debug mode enabled
+[debug][22:36:02] Starting...
+[debug][22:36:02] MongoDB: Connected
+[debug][22:36:04] Discord: Ready
+[debug][22:36:32] Debug mode enabled
+[debug][22:36:32] Starting...
+[debug][22:36:32] MongoDB: Connected
+[debug][22:36:33] Discord: Ready
+[debug][22:40:50] Debug mode enabled
+[debug][22:40:50] Starting...
+[debug][22:40:50] MongoDB: Connected
+[debug][22:40:51] Discord: Ready
+[debug][22:41:23] Debug mode enabled
+[debug][22:41:23] Starting...
+[debug][22:41:23] MongoDB: Connected
+[debug][22:41:24] Discord: Ready
+[debug][22:41:45] Debug mode enabled
+[debug][22:41:45] Starting...
+[debug][22:41:45] MongoDB: Connected
+[debug][22:41:46] Discord: Ready
+[debug][22:42:31] Debug mode enabled
+[debug][22:42:31] Starting...
+[debug][22:42:31] MongoDB: Connected
+[debug][22:42:32] Discord: Ready
+[info][22:42:36] [#rs4-orders] @Zeus: $order 20 5
+[cmd][22:42:36] [#rs4-orders] @Zeus created an order (20xR5 : 40xR4)
+[info][22:42:42] [#rs4-orders] @Zeus: $complete 2
+[cmd][22:42:42] [#rs4-orders] @Zeus completed an order
+[error][22:43:36] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][22:43:42] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][22:44:45] Debug mode enabled
+[debug][22:44:45] Starting...
+[debug][22:44:45] MongoDB: Connected
+[debug][22:44:46] Discord: Ready
+[debug][22:44:46] Debug mode enabled
+[debug][22:44:46] Starting...
+[debug][22:44:46] MongoDB: Connected
+[debug][22:44:48] Debug mode enabled
+[debug][22:44:48] Starting...
+[debug][22:44:48] MongoDB: Connected
+[debug][22:44:53] Discord: Ready
+[debug][22:45:28] Debug mode enabled
+[debug][22:45:28] Starting...
+[debug][22:45:28] MongoDB: Connected
+[debug][22:45:29] Discord: Ready
+[debug][22:45:34] Debug mode enabled
+[debug][22:45:34] Starting...
+[debug][22:45:34] MongoDB: Connected
+[debug][22:45:35] Discord: Ready
+[debug][22:45:40] Debug mode enabled
+[debug][22:45:40] Starting...
+[debug][22:45:40] MongoDB: Connected
+[debug][22:45:41] Discord: Ready
+[debug][22:45:44] Debug mode enabled
+[debug][22:45:44] Starting...
+[debug][22:45:45] MongoDB: Connected
+[debug][22:45:46] Reconnecting to shard
+[debug][22:45:48] Debug mode enabled
+[debug][22:45:48] Starting...
+[debug][22:45:48] MongoDB: Connected
+[debug][22:45:49] Discord: Ready
+[debug][22:45:51] Debug mode enabled
+[debug][22:45:51] Starting...
+[debug][22:45:51] MongoDB: Connected
+[debug][22:45:54] Debug mode enabled
+[debug][22:45:54] Starting...
+[debug][22:45:54] MongoDB: Connected
+[debug][22:45:55] Discord: Ready
+[debug][22:45:59] Debug mode enabled
+[debug][22:45:59] Starting...
+[debug][22:45:59] MongoDB: Connected
+[debug][22:46:00] Reconnecting to shard
+[debug][22:46:04] Debug mode enabled
+[debug][22:46:04] Starting...
+[debug][22:46:04] MongoDB: Connected
+[debug][22:46:05] Discord: Ready
+[debug][22:46:13] Debug mode enabled
+[debug][22:46:13] Starting...
+[debug][22:46:13] MongoDB: Connected
+[debug][22:46:14] Discord: Ready
+[debug][22:46:20] Debug mode enabled
+[debug][22:46:20] Starting...
+[debug][22:46:20] MongoDB: Connected
+[debug][22:46:21] Discord: Ready
+[debug][22:46:24] Debug mode enabled
+[debug][22:46:24] Starting...
+[debug][22:46:24] MongoDB: Connected
+[debug][22:46:26] Reconnecting to shard
+[debug][22:46:27] Debug mode enabled
+[debug][22:46:27] Starting...
+[debug][22:46:27] MongoDB: Connected
+[debug][22:46:29] Discord: Ready
+[debug][22:46:31] Debug mode enabled
+[debug][22:46:31] Starting...
+[debug][22:46:31] MongoDB: Connected
+[debug][22:46:33] Reconnecting to shard
+[debug][22:46:39] Discord: Ready
+[debug][23:40:01] [CRON] Deleted 2 messages from order channels
+[debug][23:50:01] [CRON] Deleted 1 messages from order channels

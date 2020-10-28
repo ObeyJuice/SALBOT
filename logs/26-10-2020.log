@@ -1,0 +1,985 @@
+[info][00:46:20] [#rs4-orders] @Zeus: $order 20 3
+[cmd][00:46:20] [#rs4-orders] @Zeus created an order (20xR3 : 10xR4)
+[info][00:46:58] [#rs4-orders] @Zeus: $accept 3
+[cmd][00:46:58] [#rs4-orders] @Zeus accepted an order
+[error][00:47:20] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][00:47:58] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][00:54:47] Reconnecting to shard
+[debug][00:54:47] Connected to shard
+[debug][01:15:01] Reconnecting to shard
+[debug][01:15:02] Connected to shard
+[debug][01:50:01] [CRON] Deleted 2 messages from order channels
+[debug][03:16:07] Reconnecting to shard
+[debug][03:16:07] Connected to shard
+[debug][04:30:46] Reconnecting to shard
+[debug][04:30:47] Connected to shard
+[debug][05:22:43] Reconnecting to shard
+[debug][05:22:44] Connected to shard
+[debug][06:34:14] Reconnecting to shard
+[debug][06:34:15] Connected to shard
+[debug][07:03:48] Reconnecting to shard
+[debug][07:03:49] Connected to shard
+[debug][07:55:17] Reconnecting to shard
+[debug][07:55:18] Connected to shard
+[debug][09:28:07] Reconnecting to shard
+[debug][09:28:07] Connected to shard
+[debug][10:49:28] Debug mode enabled
+[debug][10:49:28] Starting...
+[debug][10:49:28] MongoDB: Connected
+[debug][10:49:29] Discord: Ready
+[info][10:49:33] [#rs4-orders] @Zeus: $stats
+[info][10:49:36] [#rs4-orders] @Zeus: $test
+[debug][10:49:51] Debug mode enabled
+[debug][10:49:51] Starting...
+[debug][10:49:51] MongoDB: Connected
+[debug][10:49:52] Discord: Ready
+[info][10:49:54] [#rs4-orders] @Zeus: $test
+[debug][10:50:03] Debug mode enabled
+[debug][10:50:03] Starting...
+[debug][10:50:03] MongoDB: Connected
+[debug][10:50:04] Discord: Ready
+[info][10:50:12] [#rs4-orders] @Zeus: $test
+[debug][10:50:56] Debug mode enabled
+[debug][10:50:56] Starting...
+[debug][10:50:56] MongoDB: Connected
+[debug][10:50:57] Discord: Ready
+[info][10:51:00] [#rs4-orders] @Zeus: $test
+[debug][10:51:24] Debug mode enabled
+[debug][10:51:24] Starting...
+[debug][10:51:24] MongoDB: Connected
+[debug][10:51:25] Discord: Ready
+[info][10:51:28] [#rs4-orders] @Zeus: $test
+[debug][10:52:29] Debug mode enabled
+[debug][10:52:29] Starting...
+[debug][10:52:29] MongoDB: Connected
+[debug][10:52:30] Discord: Ready
+[info][10:52:34] [#rs4-orders] @Zeus: $test
+[debug][10:53:33] Debug mode enabled
+[debug][10:53:33] Starting...
+[debug][10:53:33] MongoDB: Connected
+[debug][10:53:34] Discord: Ready
+[info][10:53:38] [#rs4-orders] @Zeus: $test
+[debug][10:54:08] Debug mode enabled
+[debug][10:54:08] Starting...
+[debug][10:54:08] MongoDB: Connected
+[debug][10:54:09] Discord: Ready
+[info][10:54:15] [#rs4-orders] @Zeus: $test
+[debug][10:54:28] Debug mode enabled
+[debug][10:54:28] Starting...
+[debug][10:54:28] MongoDB: Connected
+[debug][10:54:29] Discord: Ready
+[info][10:54:31] [#rs4-orders] @Zeus: $test
+[debug][10:55:50] Debug mode enabled
+[debug][10:55:50] Starting...
+[debug][10:55:50] MongoDB: Connected
+[debug][10:55:51] Discord: Ready
+[info][10:55:55] [#rs4-orders] @Zeus: $test
+[debug][10:56:36] Debug mode enabled
+[debug][10:56:36] Starting...
+[debug][10:56:36] MongoDB: Connected
+[debug][10:56:37] Discord: Ready
+[debug][10:56:54] Debug mode enabled
+[debug][10:56:54] Starting...
+[debug][10:56:54] MongoDB: Connected
+[debug][10:56:55] Discord: Ready
+[debug][10:56:58] Debug mode enabled
+[debug][10:56:58] Starting...
+[debug][10:56:58] MongoDB: Connected
+[debug][10:57:00] Reconnecting to shard
+[debug][10:57:06] Discord: Ready
+[info][10:57:10] [#rs4-orders] @Zeus: $test
+[debug][10:58:34] Debug mode enabled
+[debug][10:58:34] Starting...
+[debug][10:58:34] MongoDB: Connected
+[debug][10:58:35] Discord: Ready
+[debug][10:58:40] Debug mode enabled
+[debug][10:58:40] Starting...
+[debug][10:58:40] MongoDB: Connected
+[debug][10:58:41] Discord: Ready
+[info][10:58:44] [#rs4-orders] @Zeus: $test
+[debug][10:59:37] Debug mode enabled
+[debug][10:59:37] Starting...
+[debug][10:59:37] MongoDB: Connected
+[debug][10:59:38] Discord: Ready
+[info][10:59:42] [#rs4-orders] @Zeus: $test
+[debug][11:00:42] Debug mode enabled
+[debug][11:00:42] Starting...
+[debug][11:00:42] MongoDB: Connected
+[debug][11:00:43] Discord: Ready
+[info][11:00:46] [#rs4-orders] @Zeus: $test
+[debug][11:01:57] Debug mode enabled
+[debug][11:01:57] Starting...
+[debug][11:01:57] MongoDB: Connected
+[debug][11:01:58] Discord: Ready
+[info][11:02:02] [#rs4-orders] @Zeus: $test
+[debug][11:02:26] Debug mode enabled
+[debug][11:02:26] Starting...
+[debug][11:02:26] MongoDB: Connected
+[debug][11:02:27] Discord: Ready
+[debug][11:02:32] Debug mode enabled
+[debug][11:02:32] Starting...
+[debug][11:02:32] MongoDB: Connected
+[debug][11:02:33] Discord: Ready
+[info][11:02:38] [#rs4-orders] @Zeus: $test
+[debug][11:04:09] Debug mode enabled
+[debug][11:04:09] Starting...
+[debug][11:04:09] MongoDB: Connected
+[debug][11:04:10] Discord: Ready
+[info][11:04:15] [#rs4-orders] @Zeus: $test
+[error][11:04:15] ReferenceError: models is not defined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\test.js:13:17)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:115:26)
+    at Client.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+[debug][11:04:30] Debug mode enabled
+[debug][11:04:30] Starting...
+[debug][11:04:30] MongoDB: Connected
+[debug][11:04:31] Discord: Ready
+[info][11:04:35] [#rs4-orders] @Zeus: $test
+[debug][11:07:38] Debug mode enabled
+[debug][11:07:38] Starting...
+[debug][11:07:38] MongoDB: Connected
+[debug][11:07:39] Discord: Ready
+[info][11:07:42] [#rs4-orders] @Zeus: $test
+[debug][11:08:49] Debug mode enabled
+[debug][11:08:49] Starting...
+[debug][11:08:49] MongoDB: Connected
+[debug][11:08:50] Discord: Ready
+[info][11:08:55] [#rs4-orders] @Zeus: $test
+[debug][11:09:40] Debug mode enabled
+[debug][11:09:40] Starting...
+[debug][11:09:40] MongoDB: Connected
+[debug][11:09:41] Discord: Ready
+[debug][11:09:56] Debug mode enabled
+[debug][11:09:56] Starting...
+[debug][11:09:56] MongoDB: Connected
+[debug][11:09:57] Discord: Ready
+[debug][11:10:54] Debug mode enabled
+[debug][11:10:54] Starting...
+[debug][11:10:54] MongoDB: Connected
+[debug][11:10:56] Discord: Ready
+[info][11:10:59] [#rs4-orders] @Zeus: $stats
+[info][11:12:44] [#rs4-orders] @Zeus: $list
+[info][11:13:00] [#rs4-orders] @Zeus: $order 20 5
+[cmd][11:13:00] [#rs4-orders] @Zeus created an order (20xR5 : 40xR4)
+[debug][11:13:36] Debug mode enabled
+[debug][11:13:36] Starting...
+[debug][11:13:36] MongoDB: Connected
+[debug][11:13:37] Discord: Ready
+[info][11:13:41] [#rs4-orders] @Zeus: $stats
+[debug][11:18:45] Debug mode enabled
+[debug][11:18:45] Starting...
+[debug][11:18:45] MongoDB: Connected
+[debug][11:18:46] Discord: Ready
+[debug][11:19:08] Debug mode enabled
+[debug][11:19:08] Starting...
+[debug][11:19:08] MongoDB: Connected
+[debug][11:19:09] Discord: Ready
+[debug][11:20:11] Debug mode enabled
+[debug][11:20:11] Starting...
+[debug][11:20:11] MongoDB: Connected
+[debug][11:20:12] Discord: Ready
+[info][11:20:23] [#rs4-orders] @Zeus: $cancel 4
+[cmd][11:20:24] [#rs4-orders] @Zeus cancelled an order
+[error][11:21:24] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][11:25:54] Debug mode enabled
+[debug][11:25:54] Starting...
+[debug][11:25:54] MongoDB: Connected
+[debug][11:25:56] Discord: Ready
+[debug][11:26:16] Debug mode enabled
+[debug][11:26:16] Starting...
+[debug][11:26:16] MongoDB: Connected
+[debug][11:26:17] Discord: Ready
+[info][11:26:21] [#rs4-orders] @Zeus: $order 20 5
+[cmd][11:26:21] [#rs4-orders] @Zeus created an order (20xR5 : 40xR4)
+[info][11:26:24] [#rs4-orders] @Zeus: $accept 5
+[cmd][11:26:25] [#rs4-orders] @Zeus accepted an order
+[info][11:26:28] [#rs4-orders] @Zeus: $reject 5
+[cmd][11:26:29] [#rs4-orders] @Zeus accepted an order
+[debug][11:26:50] Debug mode enabled
+[debug][11:26:50] Starting...
+[debug][11:26:50] MongoDB: Connected
+[debug][11:26:51] Discord: Ready
+[debug][11:26:58] Debug mode enabled
+[debug][11:26:58] Starting...
+[debug][11:26:58] MongoDB: Connected
+[debug][11:26:59] Discord: Ready
+[info][11:27:06] [#rs4-orders] @Zeus: $accept 5
+[cmd][11:27:07] [#rs4-orders] @Zeus accepted an order
+[info][11:27:15] [#rs4-orders] @Zeus: $reject 5
+[cmd][11:27:15] [#rs4-orders] @Zeus rejected an order
+[info][11:28:04] [#rs4-orders] @Zeus: $admin clear all
+[error][11:28:06] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[info][11:28:10] [#rs4-orders] @Zeus: $order 20 3
+[cmd][11:28:10] [#rs4-orders] @Zeus created an order (20xR3 : 10xR4)
+[error][11:28:15] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[info][11:28:18] [#rs4-orders] @Zeus: $accept 6
+[cmd][11:28:18] [#rs4-orders] @Zeus accepted an order
+[info][11:28:24] [#rs4-orders] @Zeus: $complete 6
+[cmd][11:28:24] [#rs4-orders] @Zeus completed an order
+[error][11:29:04] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][11:29:10] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][11:29:18] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][11:29:24] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][11:30:43] Debug mode enabled
+[debug][11:30:43] Starting...
+[debug][11:30:43] MongoDB: Connected
+[debug][11:30:44] Discord: Ready
+[info][11:30:51] [#rs4-orders] @Zeus: $order 20 3
+[cmd][11:30:52] [#rs4-orders] @Zeus created an order (20xR3 : 10xR4)
+[error][11:31:52] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][11:32:29] Debug mode enabled
+[debug][11:32:29] Starting...
+[debug][11:32:29] MongoDB: Connected
+[debug][11:32:30] Discord: Ready
+[info][11:32:37] [#rs4-orders] @Zeus: $order 20 3
+[cmd][11:32:38] [#rs4-orders] @Zeus created an order (20xR3 : 10xR4)
+[debug][11:32:54] Debug mode enabled
+[debug][11:32:54] Starting...
+[debug][11:32:54] MongoDB: Connected
+[debug][11:32:55] Discord: Ready
+[info][11:33:01] [#rs4-orders] @Zeus: $order 20 3
+[cmd][11:33:01] [#rs4-orders] @Zeus created an order (20xR3 : 10xR4)
+[debug][11:33:31] Debug mode enabled
+[debug][11:33:31] Starting...
+[debug][11:33:31] MongoDB: Connected
+[debug][11:33:32] Discord: Ready
+[info][11:33:38] [#rs4-orders] @Zeus: $admin clear all
+[info][11:33:42] [#rs4-orders] @Zeus: $order 20 3
+[cmd][11:33:43] [#rs4-orders] @Zeus created an order (20xR3 : 10xR4)
+[info][11:34:18] [#rs4-orders] @Zeus: $accept 10
+[cmd][11:34:19] [#rs4-orders] @Zeus accepted an order
+[error][11:34:39] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][11:34:42] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][11:35:18] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][11:35:51] Debug mode enabled
+[debug][11:35:51] Starting...
+[debug][11:35:51] MongoDB: Connected
+[debug][11:35:52] Discord: Ready
+[debug][11:36:53] Debug mode enabled
+[debug][11:36:53] Starting...
+[debug][11:36:53] MongoDB: Connected
+[debug][11:36:54] Discord: Ready
+[debug][11:37:35] Debug mode enabled
+[debug][11:37:35] Starting...
+[debug][11:37:35] MongoDB: Connected
+[debug][11:37:36] Discord: Ready
+[debug][11:37:52] Debug mode enabled
+[debug][11:37:52] Starting...
+[debug][11:37:52] MongoDB: Connected
+[debug][11:37:53] Discord: Ready
+[info][11:38:14] [#rs4-orders] @Zeus: $reject 10
+[cmd][11:38:15] [#rs4-orders] @Zeus rejected an order
+[info][11:38:18] [#rs4-orders] @Zeus: $accept 10
+[error][11:38:18] ReferenceError: msg is not defined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\accept.js:39:84)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)
+[debug][11:38:37] Debug mode enabled
+[debug][11:38:37] Starting...
+[debug][11:38:37] MongoDB: Connected
+[debug][11:38:38] Discord: Ready
+[info][11:38:45] [#rs4-orders] @Zeus: $order 20 3
+[cmd][11:38:46] [#rs4-orders] @Zeus created an order (20xR3 : 10xR4)
+[info][11:38:49] [#rs4-orders] @Zeus: $accept 11
+[error][11:38:49] ReferenceError: msg is not defined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\accept.js:39:84)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)
+[debug][11:39:19] Debug mode enabled
+[debug][11:39:19] Starting...
+[debug][11:39:19] MongoDB: Connected
+[debug][11:39:20] Discord: Ready
+[debug][11:39:36] Debug mode enabled
+[debug][11:39:36] Starting...
+[debug][11:39:36] MongoDB: Connected
+[debug][11:39:37] Discord: Ready
+[info][11:39:39] [#rs4-orders] @Zeus: $order 20 3
+[cmd][11:39:39] [#rs4-orders] @Zeus created an order (20xR3 : 10xR4)
+[info][11:39:44] [#rs4-orders] @Zeus: $accept 12
+[cmd][11:39:44] [#rs4-orders] @Zeus accepted an order
+[debug][11:40:25] Debug mode enabled
+[debug][11:40:25] Starting...
+[debug][11:40:25] MongoDB: Connected
+[debug][11:40:26] Discord: Ready
+[debug][11:40:35] Debug mode enabled
+[debug][11:40:35] Starting...
+[debug][11:40:35] MongoDB: Connected
+[debug][11:40:36] Discord: Ready
+[debug][11:40:39] Debug mode enabled
+[debug][11:40:39] Starting...
+[debug][11:40:39] MongoDB: Connected
+[debug][11:40:41] Reconnecting to shard
+[debug][11:40:47] Discord: Ready
+[info][11:40:54] [#rs4-orders] @Zeus: $complete 12
+[cmd][11:40:55] [#rs4-orders] @Zeus completed an order
+[info][11:41:01] [#rs4-orders] @Zeus: $order 20 3
+[cmd][11:41:02] [#rs4-orders] @Zeus created an order (20xR3 : 10xR4)
+[info][11:41:23] [#rs4-orders] @Zeus: $accept 13
+[cmd][11:41:23] [#rs4-orders] @Zeus accepted an order
+[debug][11:41:36] Debug mode enabled
+[debug][11:41:36] Starting...
+[debug][11:41:36] MongoDB: Connected
+[debug][11:41:37] Discord: Ready
+[debug][11:41:49] Debug mode enabled
+[debug][11:41:49] Starting...
+[debug][11:41:49] MongoDB: Connected
+[debug][11:41:51] Discord: Ready
+[debug][11:41:59] Debug mode enabled
+[debug][11:41:59] Starting...
+[debug][11:41:59] MongoDB: Connected
+[debug][11:42:00] Discord: Ready
+[info][11:42:13] [#rs4-orders] @Zeus: $order 20 3
+[cmd][11:42:14] [#rs4-orders] @Zeus created an order (20xR3 : 10xR4)
+[debug][11:42:47] Debug mode enabled
+[debug][11:42:47] Starting...
+[debug][11:42:47] MongoDB: Connected
+[debug][11:42:48] Discord: Ready
+[info][11:42:56] [#rs4-orders] @Zeus: $accept 14
+[cmd][11:42:57] [#rs4-orders] @Zeus accepted an order
+[info][11:43:04] [#rs4-orders] @Zeus: $cancel 14
+[cmd][11:43:05] [#rs4-orders] @Zeus cancelled an order
+[info][11:43:25] [#rs4-orders] @Zeus: $order 20 3
+[cmd][11:43:25] [#rs4-orders] @Zeus created an order (20xR3 : 10xR4)
+[info][11:43:34] [#rs4-orders] @Zeus: $accept 15
+[cmd][11:43:34] [#rs4-orders] @Zeus accepted an order
+[debug][11:43:45] Debug mode enabled
+[debug][11:43:45] Starting...
+[debug][11:43:45] MongoDB: Connected
+[debug][11:43:46] Discord: Ready
+[debug][11:44:14] Debug mode enabled
+[debug][11:44:14] Starting...
+[debug][11:44:14] MongoDB: Connected
+[debug][11:44:15] Discord: Ready
+[debug][11:44:45] Debug mode enabled
+[debug][11:44:45] Starting...
+[debug][11:44:45] MongoDB: Connected
+[debug][11:44:46] Discord: Ready
+[debug][11:45:48] Debug mode enabled
+[debug][11:45:48] Starting...
+[debug][11:45:48] MongoDB: Connected
+[debug][11:45:50] Discord: Ready
+[info][11:45:57] [#rs4-orders] @Zeus: $reject 15
+[cmd][11:45:57] [#rs4-orders] @Zeus rejected an order
+[info][11:46:08] [#rs4-orders] @Zeus: $admin clear all
+[info][11:46:15] [#rs4-orders] @Zeus: $order 20 3
+[cmd][11:46:15] [#rs4-orders] @Zeus created an order (20xR3 : 10xR4)
+[info][11:46:34] [#rs4-orders] @Zeus: $accept 16
+[cmd][11:46:34] [#rs4-orders] @Zeus accepted an order
+[info][11:46:46] [#rs4-orders] @Zeus: $reject 16
+[cmd][11:46:46] [#rs4-orders] @Zeus rejected an order
+[info][11:46:52] [#rs4-orders] @Zeus: $cancel 16
+[cmd][11:46:53] [#rs4-orders] @Zeus cancelled an order
+[error][11:46:57] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[info][11:47:04] [#rs4-orders] @Zeus: $complete 16
+[cmd][11:47:05] [#rs4-orders] @Zeus completed an order
+[error][11:47:09] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][11:47:15] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][11:47:34] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][11:47:37] Debug mode enabled
+[debug][11:47:37] Starting...
+[debug][11:47:37] MongoDB: Connected
+[debug][11:47:38] Discord: Ready
+[debug][11:47:50] Debug mode enabled
+[debug][11:47:50] Starting...
+[debug][11:47:50] MongoDB: Connected
+[debug][11:47:51] Discord: Ready
+[debug][11:48:07] Debug mode enabled
+[debug][11:48:07] Starting...
+[debug][11:48:07] MongoDB: Connected
+[debug][11:48:08] Discord: Ready
+[info][11:48:13] [#rs4-orders] @Zeus: $order 20 3
+[cmd][11:48:13] [#rs4-orders] @Zeus created an order (20xR3 : 10xR4)
+[info][11:48:18] [#rs4-orders] @Zeus: $cancel 17
+[cmd][11:48:19] [#rs4-orders] @Zeus cancelled an order
+[info][11:48:23] [#rs4-orders] @Zeus: $complete 17
+[cmd][11:48:23] [#rs4-orders] @Zeus tried to complete an order
+[debug][11:49:04] Debug mode enabled
+[debug][11:49:04] Starting...
+[debug][11:49:04] MongoDB: Connected
+[debug][11:49:05] Discord: Ready
+[debug][11:49:29] Debug mode enabled
+[debug][11:49:29] Starting...
+[debug][11:49:29] MongoDB: Connected
+[debug][11:49:30] Discord: Ready
+[debug][11:49:42] Debug mode enabled
+[debug][11:49:42] Starting...
+[debug][11:49:42] MongoDB: Connected
+[debug][11:49:43] Discord: Ready
+[debug][11:49:55] Debug mode enabled
+[debug][11:49:55] Starting...
+[debug][11:49:55] MongoDB: Connected
+[debug][11:49:56] Discord: Ready
+[debug][11:49:58] Debug mode enabled
+[debug][11:49:58] Starting...
+[debug][11:49:58] MongoDB: Connected
+[debug][11:50:01] Reconnecting to shard
+[debug][11:50:06] Discord: Ready
+[debug][11:50:09] Debug mode enabled
+[debug][11:50:09] Starting...
+[debug][11:50:09] MongoDB: Connected
+[debug][11:50:11] Reconnecting to shard
+[debug][11:50:17] Discord: Ready
+[info][11:50:22] [#rs4-orders] @Zeus: $order 20 3
+[cmd][11:50:23] [#rs4-orders] @Zeus created an order (20xR3 : 10xR4)
+[info][11:50:53] [#rs4-orders] @Zeus: $complete 18
+[cmd][11:50:53] [#rs4-orders] @Zeus tried to complete an order
+[info][11:51:08] [#rs4-orders] @Zeus: $accept 18
+[cmd][11:51:08] [#rs4-orders] @Zeus accepted an order
+[info][11:51:11] [#rs4-orders] @Zeus: $complete 18
+[cmd][11:51:11] [#rs4-orders] @Zeus completed an order
+[error][11:51:23] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][11:51:53] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][11:52:00] Debug mode enabled
+[debug][11:52:00] Starting...
+[debug][11:52:00] MongoDB: Connected
+[debug][11:52:01] Discord: Ready
+[info][11:52:08] [#rs4-orders] @Zeus: $cancel 18
+[cmd][11:52:08] [#rs4-orders] @Zeus tried to cancel an order
+[info][11:52:16] [#rs4-orders] @Zeus: $order 20 3
+[cmd][11:52:16] [#rs4-orders] @Zeus created an order (20xR3 : 10xR4)
+[info][11:52:21] [#rs4-orders] @Zeus: $accept 19
+[cmd][11:52:21] [#rs4-orders] @Zeus accepted an order
+[info][11:52:31] [#rs4-orders] @Zeus: $complete 19
+[cmd][11:52:32] [#rs4-orders] @Zeus completed an order
+[error][11:53:09] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][11:53:16] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][11:53:21] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][11:53:31] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][11:54:38] Debug mode enabled
+[debug][11:54:38] Starting...
+[debug][11:54:38] MongoDB: Connected
+[debug][11:54:39] Discord: Ready
+[info][11:54:45] [#rs4-orders] @Zeus: $order 20 3
+[cmd][11:54:45] [#rs4-orders] @Zeus created an order (20xR3 : 10xR4)
+[info][11:54:49] [#rs4-orders] @Zeus: $accept 20
+[cmd][11:54:50] [#rs4-orders] @Zeus accepted an order
+[debug][11:55:36] Debug mode enabled
+[debug][11:55:36] Starting...
+[debug][11:55:36] MongoDB: Connected
+[debug][11:55:37] Discord: Ready
+[info][11:55:43] [#rs4-orders] @Zeus: $complete 20
+[cmd][11:55:44] [#rs4-orders] @Zeus completed an order
+[info][11:55:47] [#rs4-orders] @Zeus: $stats
+[error][11:56:43] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][12:43:22] Debug mode enabled
+[debug][12:43:22] Starting...
+[debug][12:43:22] MongoDB: Connected
+[debug][12:43:24] Discord: Ready
+[debug][12:46:56] Debug mode enabled
+[debug][12:46:56] Starting...
+[debug][12:46:56] MongoDB: Connected
+[debug][12:46:57] Discord: Ready
+[error][12:46:57] ReferenceError: direct is not defined
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:73:48)
+    at Client.emit (events.js:315:20)
+    at WebSocketManager.triggerClientReady (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:431:17)
+    at WebSocketManager.checkShardsReady (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:415:10)
+    at WebSocketShard.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:197:14)
+    at WebSocketShard.emit (events.js:315:20)
+    at WebSocketShard.checkReady (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:475:12)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:447:16)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+[debug][12:47:08] Debug mode enabled
+[debug][12:47:08] Starting...
+[debug][12:47:08] MongoDB: Connected
+[debug][12:47:09] Discord: Ready
+[error][12:47:09] ReferenceError: direct is not defined
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:75:47)
+    at Client.emit (events.js:315:20)
+    at WebSocketManager.triggerClientReady (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:431:17)
+    at WebSocketManager.checkShardsReady (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:415:10)
+    at WebSocketShard.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:197:14)
+    at WebSocketShard.emit (events.js:315:20)
+    at WebSocketShard.checkReady (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:475:12)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:447:16)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+[debug][12:47:19] Debug mode enabled
+[debug][12:47:19] Starting...
+[debug][12:47:19] MongoDB: Connected
+[debug][12:47:20] Discord: Ready
+[debug][12:47:20] Loaded command: undefined
+[debug][12:47:20] Loaded command: undefined
+[debug][12:47:20] Loaded command: undefined
+[debug][12:47:20] Loaded command: undefined
+[debug][12:47:20] Loaded command: undefined
+[debug][12:47:20] Loaded command: undefined
+[debug][12:47:20] Loaded command: undefined
+[debug][12:47:20] Loaded command: undefined
+[debug][12:47:20] Loaded command: undefined
+[debug][12:47:20] Loaded command: undefined
+[debug][12:47:20] Loaded command: undefined
+[debug][12:47:20] Loaded command: undefined
+[debug][12:48:13] Debug mode enabled
+[debug][12:48:13] Starting...
+[debug][12:48:13] MongoDB: Connected
+[debug][12:48:14] Discord: Ready
+[debug][12:48:14] Loaded command: accept
+[debug][12:48:14] Loaded command: undefined
+[debug][12:48:14] Loaded command: undefined
+[debug][12:48:14] Loaded command: undefined
+[debug][12:48:14] Loaded command: undefined
+[debug][12:48:14] Loaded command: undefined
+[debug][12:48:14] Loaded command: undefined
+[debug][12:48:14] Loaded command: undefined
+[debug][12:48:14] Loaded command: undefined
+[debug][12:48:14] Loaded command: undefined
+[debug][12:48:14] Loaded command: undefined
+[debug][12:48:14] Loaded command: undefined
+[debug][12:48:56] Debug mode enabled
+[debug][12:48:56] Starting...
+[debug][12:48:56] MongoDB: Connected
+[debug][12:48:57] Discord: Ready
+[debug][12:48:57] Loaded command: accept
+[debug][12:48:57] Loaded command: undefined
+[debug][12:48:57] Loaded command: cancel
+[debug][12:48:57] Loaded command: undefined
+[debug][12:48:57] Loaded command: undefined
+[debug][12:48:57] Loaded command: undefined
+[debug][12:48:57] Loaded command: undefined
+[debug][12:48:57] Loaded command: undefined
+[debug][12:48:57] Loaded command: undefined
+[debug][12:48:57] Loaded command: undefined
+[debug][12:48:57] Loaded command: undefined
+[debug][12:48:57] Loaded command: undefined
+[debug][12:49:03] Debug mode enabled
+[debug][12:49:03] Starting...
+[debug][12:49:03] MongoDB: Connected
+[debug][12:49:04] Discord: Ready
+[debug][12:49:04] Loaded command: accept
+[debug][12:49:04] Loaded command: undefined
+[debug][12:49:04] Loaded command: cancel
+[debug][12:49:04] Loaded command: complete
+[debug][12:49:04] Loaded command: undefined
+[debug][12:49:04] Loaded command: undefined
+[debug][12:49:04] Loaded command: undefined
+[debug][12:49:04] Loaded command: undefined
+[debug][12:49:04] Loaded command: undefined
+[debug][12:49:04] Loaded command: undefined
+[debug][12:49:04] Loaded command: undefined
+[debug][12:49:04] Loaded command: undefined
+[debug][12:49:11] Debug mode enabled
+[debug][12:49:11] Starting...
+[debug][12:49:11] MongoDB: Connected
+[debug][12:49:12] Discord: Ready
+[debug][12:49:12] Loaded command: accept
+[debug][12:49:12] Loaded command: undefined
+[debug][12:49:12] Loaded command: cancel
+[debug][12:49:12] Loaded command: complete
+[debug][12:49:12] Loaded command: help
+[debug][12:49:12] Loaded command: undefined
+[debug][12:49:12] Loaded command: undefined
+[debug][12:49:12] Loaded command: undefined
+[debug][12:49:12] Loaded command: undefined
+[debug][12:49:12] Loaded command: undefined
+[debug][12:49:12] Loaded command: undefined
+[debug][12:49:12] Loaded command: undefined
+[debug][12:49:16] Debug mode enabled
+[debug][12:49:16] Starting...
+[debug][12:49:16] MongoDB: Connected
+[debug][12:49:17] Discord: Ready
+[debug][12:49:17] Loaded command: accept
+[debug][12:49:17] Loaded command: undefined
+[debug][12:49:17] Loaded command: cancel
+[debug][12:49:17] Loaded command: complete
+[debug][12:49:17] Loaded command: help
+[debug][12:49:17] Loaded command: list
+[debug][12:49:17] Loaded command: undefined
+[debug][12:49:17] Loaded command: undefined
+[debug][12:49:17] Loaded command: undefined
+[debug][12:49:17] Loaded command: undefined
+[debug][12:49:17] Loaded command: undefined
+[debug][12:49:17] Loaded command: undefined
+[debug][12:49:25] Debug mode enabled
+[debug][12:49:25] Starting...
+[debug][12:49:25] MongoDB: Connected
+[debug][12:49:26] Discord: Ready
+[debug][12:49:26] Loaded command: accept
+[debug][12:49:26] Loaded command: undefined
+[debug][12:49:26] Loaded command: cancel
+[debug][12:49:26] Loaded command: complete
+[debug][12:49:26] Loaded command: help
+[debug][12:49:26] Loaded command: list
+[debug][12:49:26] Loaded command: order
+[debug][12:49:26] Loaded command: undefined
+[debug][12:49:26] Loaded command: undefined
+[debug][12:49:26] Loaded command: undefined
+[debug][12:49:26] Loaded command: undefined
+[debug][12:49:26] Loaded command: undefined
+[debug][12:49:31] Debug mode enabled
+[debug][12:49:31] Starting...
+[debug][12:49:31] MongoDB: Connected
+[debug][12:49:32] Discord: Ready
+[debug][12:49:32] Loaded command: accept
+[debug][12:49:32] Loaded command: undefined
+[debug][12:49:32] Loaded command: cancel
+[debug][12:49:32] Loaded command: complete
+[debug][12:49:32] Loaded command: help
+[debug][12:49:32] Loaded command: list
+[debug][12:49:32] Loaded command: order
+[debug][12:49:32] Loaded command: rates
+[debug][12:49:32] Loaded command: undefined
+[debug][12:49:32] Loaded command: undefined
+[debug][12:49:32] Loaded command: undefined
+[debug][12:49:32] Loaded command: undefined
+[debug][12:49:38] Debug mode enabled
+[debug][12:49:38] Starting...
+[debug][12:49:38] MongoDB: Connected
+[debug][12:49:39] Discord: Ready
+[debug][12:49:39] Loaded command: accept
+[debug][12:49:39] Loaded command: undefined
+[debug][12:49:39] Loaded command: cancel
+[debug][12:49:39] Loaded command: complete
+[debug][12:49:39] Loaded command: help
+[debug][12:49:39] Loaded command: list
+[debug][12:49:39] Loaded command: order
+[debug][12:49:39] Loaded command: rates
+[debug][12:49:39] Loaded command: reject
+[debug][12:49:39] Loaded command: undefined
+[debug][12:49:39] Loaded command: undefined
+[debug][12:49:39] Loaded command: undefined
+[debug][12:49:44] Debug mode enabled
+[debug][12:49:44] Starting...
+[debug][12:49:44] MongoDB: Connected
+[debug][12:49:45] Discord: Ready
+[debug][12:49:45] Loaded command: accept
+[debug][12:49:45] Loaded command: undefined
+[debug][12:49:45] Loaded command: cancel
+[debug][12:49:45] Loaded command: complete
+[debug][12:49:45] Loaded command: help
+[debug][12:49:45] Loaded command: list
+[debug][12:49:45] Loaded command: order
+[debug][12:49:45] Loaded command: rates
+[debug][12:49:45] Loaded command: reject
+[debug][12:49:45] Loaded command: remind
+[debug][12:49:45] Loaded command: undefined
+[debug][12:49:45] Loaded command: undefined
+[debug][12:49:52] Debug mode enabled
+[debug][12:49:52] Starting...
+[debug][12:49:52] MongoDB: Connected
+[debug][12:49:53] Discord: Ready
+[debug][12:49:53] Loaded command: accept
+[debug][12:49:53] Loaded command: undefined
+[debug][12:49:53] Loaded command: cancel
+[debug][12:49:53] Loaded command: complete
+[debug][12:49:53] Loaded command: help
+[debug][12:49:53] Loaded command: list
+[debug][12:49:53] Loaded command: order
+[debug][12:49:53] Loaded command: rates
+[debug][12:49:53] Loaded command: reject
+[debug][12:49:53] Loaded command: remind
+[debug][12:49:53] Loaded command: stats
+[debug][12:49:53] Loaded command: undefined
+[debug][12:49:58] Debug mode enabled
+[debug][12:49:58] Starting...
+[debug][12:49:58] MongoDB: Connected
+[debug][12:49:59] Discord: Ready
+[debug][12:49:59] Loaded command: accept
+[debug][12:49:59] Loaded command: undefined
+[debug][12:49:59] Loaded command: cancel
+[debug][12:49:59] Loaded command: complete
+[debug][12:49:59] Loaded command: help
+[debug][12:49:59] Loaded command: list
+[debug][12:49:59] Loaded command: order
+[debug][12:49:59] Loaded command: rates
+[debug][12:49:59] Loaded command: reject
+[debug][12:49:59] Loaded command: remind
+[debug][12:49:59] Loaded command: stats
+[debug][12:49:59] Loaded command: test
+[debug][12:50:01] [CRON] Deleted 3 messages from order channels
+[debug][12:51:30] Debug mode enabled
+[debug][12:51:30] Starting...
+[debug][12:51:30] MongoDB: Connected
+[debug][12:51:31] Discord: Ready
+[debug][12:51:31] Loaded command: accept
+[debug][12:51:31] Loaded command: undefined
+[debug][12:51:31] Loaded command: cancel
+[debug][12:51:31] Loaded command: complete
+[debug][12:51:31] Loaded command: help
+[debug][12:51:31] Loaded command: list
+[debug][12:51:31] Loaded command: order
+[debug][12:51:31] Loaded command: rates
+[debug][12:51:31] Loaded command: reject
+[debug][12:51:31] Loaded command: remind
+[debug][12:51:31] Loaded command: stats
+[debug][12:51:31] Loaded command: test
+[info][12:51:38] [#rs4-orders] @Zeus: $stats
+[debug][12:51:59] Debug mode enabled
+[debug][12:51:59] Starting...
+[debug][12:51:59] MongoDB: Connected
+[debug][12:52:00] Discord: Ready
+[debug][12:52:00] Loaded command: accept
+[debug][12:52:00] Loaded command: undefined
+[debug][12:52:00] Loaded command: cancel
+[debug][12:52:00] Loaded command: complete
+[debug][12:52:00] Loaded command: help
+[debug][12:52:00] Loaded command: list
+[debug][12:52:00] Loaded command: order
+[debug][12:52:00] Loaded command: rates
+[debug][12:52:00] Loaded command: reject
+[debug][12:52:00] Loaded command: remind
+[debug][12:52:00] Loaded command: stats
+[debug][12:52:00] Loaded command: test
+[info][12:52:05] [#rs4-orders] @Zeus: $stats
+[debug][12:52:15] Debug mode enabled
+[debug][12:52:15] Starting...
+[debug][12:52:15] MongoDB: Connected
+[debug][12:52:16] Discord: Ready
+[debug][12:52:16] Loaded command: accept
+[debug][12:52:16] Loaded command: undefined
+[debug][12:52:16] Loaded command: cancel
+[debug][12:52:16] Loaded command: complete
+[debug][12:52:16] Loaded command: help
+[debug][12:52:16] Loaded command: list
+[debug][12:52:16] Loaded command: order
+[debug][12:52:16] Loaded command: rates
+[debug][12:52:16] Loaded command: reject
+[debug][12:52:16] Loaded command: remind
+[debug][12:52:16] Loaded command: stats
+[debug][12:52:16] Loaded command: test
+[debug][12:52:27] Debug mode enabled
+[debug][12:52:27] Starting...
+[debug][12:52:27] MongoDB: Connected
+[debug][12:52:29] Discord: Ready
+[debug][12:52:29] Loaded command: accept
+[debug][12:52:29] Loaded command: admin
+[debug][12:52:29] Loaded command: cancel
+[debug][12:52:29] Loaded command: complete
+[debug][12:52:29] Loaded command: help
+[debug][12:52:29] Loaded command: list
+[debug][12:52:29] Loaded command: order
+[debug][12:52:29] Loaded command: rates
+[debug][12:52:29] Loaded command: reject
+[debug][12:52:29] Loaded command: remind
+[debug][12:52:29] Loaded command: stats
+[debug][12:52:29] Loaded command: test
+[debug][12:52:58] Debug mode enabled
+[debug][12:52:58] Starting...
+[debug][12:52:58] MongoDB: Connected
+[debug][12:52:59] Discord: Ready
+[debug][12:52:59] Loaded command: accept
+[debug][12:52:59] Loaded command: admin
+[debug][12:52:59] Loaded command: cancel
+[debug][12:52:59] Loaded command: complete
+[debug][12:52:59] Loaded command: help
+[debug][12:52:59] Loaded command: list
+[debug][12:52:59] Loaded command: order
+[debug][12:52:59] Loaded command: rates
+[debug][12:52:59] Loaded command: reject
+[debug][12:52:59] Loaded command: remind
+[debug][12:52:59] Loaded command: stats
+[debug][12:52:59] Loaded command: test
+[debug][12:54:03] Debug mode enabled
+[debug][12:54:03] Starting...
+[debug][12:54:03] MongoDB: Connected
+[debug][12:54:04] Discord: Ready
+[debug][12:54:04] Loaded 12 commands
+[debug][12:54:59] Debug mode enabled
+[debug][12:54:59] Starting...
+[debug][12:54:59] MongoDB: Connected
+[debug][12:55:00] Discord: Ready
+[debug][12:55:00] Loaded 12 commands
+[debug][12:56:46] Debug mode enabled
+[debug][12:56:46] Starting...
+[debug][12:56:46] MongoDB: Connected
+[debug][12:56:47] Discord: Ready
+[debug][12:56:47] Loaded 12 commands
+[debug][12:56:53] Debug mode enabled
+[debug][12:56:53] Starting...
+[debug][12:56:53] MongoDB: Connected
+[debug][12:56:54] Discord: Ready
+[debug][12:56:54] Loaded 12 commands
+[debug][13:00:01] [CRON] Deleted 5 messages from order channels
+[info][13:46:48] [#rs4-orders] @Zeus: $order 20 3
+[cmd][13:46:49] [#rs4-orders] @Zeus created an order (20xR3 : 10xR4)
+[error][13:47:49] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][13:48:48] Debug mode enabled
+[debug][13:48:48] Starting...
+[debug][13:48:49] MongoDB: Connected
+[debug][13:48:50] Discord: Ready
+[debug][13:48:50] Loaded 12 commands
+[debug][13:51:04] Debug mode enabled
+[debug][13:51:04] MongoDB: Connected
+[debug][13:51:05] Discord: Ready
+[debug][13:51:05] Loaded 12 commands
+[debug][13:51:31] Debug mode enabled
+[debug][13:51:31] MongoDB: Connected
+[debug][13:51:33] Debug mode enabled
+[debug][13:51:33] MongoDB: Connected
+[debug][13:51:37] Reconnecting to shard
+[debug][13:51:43] Discord: Ready
+[debug][13:51:43] Loaded 12 commands
+[info][13:52:27] [#rs4-orders] @Zeus: $stats
+[debug][13:52:44] Debug mode enabled
+[debug][13:52:44] MongoDB: Connected
+[debug][13:52:45] Discord: Ready
+[debug][13:52:45] Loaded 12 commands
+[debug][13:55:50] Debug mode enabled
+[debug][13:55:50] MongoDB: Connected
+[debug][13:55:51] Discord: Ready
+[debug][13:55:51] Loaded 12 commands
+[info][13:57:28] [#rs4-orders] @Zeus: $stats
+[info][13:57:47] [#rs4-orders] @Zeus: $order 20 3
+[cmd][13:57:48] [#rs4-orders] @Zeus created an order (20xR3 : 10xR4)
+[error][13:58:48] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][14:00:01] [CRON] Deleted 3 messages from order channels
+[info][14:02:55] [#rs4-orders] @Zeus: $accept 1
+[cmd][14:02:55] [#rs4-orders] @Zeus accepted an order
+[info][14:03:07] [#rs4-orders] @Zeus: $complete 1
+[cmd][14:03:07] [#rs4-orders] @Zeus completed an order
+[info][14:03:12] [#rs4-orders] @Zeus: $stats
+[error][14:03:55] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][14:04:07] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][14:18:56] Reconnecting to shard
+[debug][14:18:57] Connected to shard
+[debug][14:48:43] Reconnecting to shard
+[debug][14:48:44] Connected to shard
+[debug][14:50:01] [CRON] Deleted 1 messages from order channels
+[debug][15:00:01] [CRON] Deleted 3 messages from order channels
+[debug][15:10:01] [CRON] Deleted 2 messages from order channels
+[info][15:13:34] [#rs4-orders] @Zeus: $order 20 3
+[cmd][15:13:35] [#rs4-orders] @Zeus created an order (20xR3 : 10xR4)
+[info][15:14:30] [#rs4-orders] @Zeus: $help
+[error][15:14:30] ReferenceError: channels is not defined
+    at C:\Users\Cody\Desktop\SALBOT\test\commands\help.js:15:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][15:14:35] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][15:42:41] Reconnecting to shard
+[debug][15:42:42] Connected to shard
+[debug][16:00:20] Reconnecting to shard
+[debug][16:00:21] Connected to shard
+[debug][16:20:01] [CRON] Deleted 2 messages from order channels
+[info][16:36:42] [#rs4-orders] @Zeus: $order 20 3
+[cmd][16:36:42] [#rs4-orders] @Zeus created an order (20xR3 : 10xR4)
+[error][16:37:42] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[info][16:51:12] [#rs4-orders] @Zeus: $order 20 3
+[cmd][16:51:12] [#rs4-orders] @Zeus created an order (20xR3 : 10xR4)
+[error][16:52:12] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][16:55:52] Reconnecting to shard
+[debug][16:55:53] Connected to shard
+[info][16:55:57] [#rs4-orders] @Zeus: $order 20 3
+[cmd][16:55:57] [#rs4-orders] @Zeus created an order (20xR3 : 10xR4)
+[info][16:56:17] [#rs4-orders] @Zeus: $admin clear all
+[info][16:56:48] [#rs6-orders] @Zeus: $order 20 5
+[cmd][16:56:49] [#rs6-orders] @Zeus created an order (20xR5 : 14xR6)
+[error][16:56:57] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][16:57:17] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[info][16:57:29] [#rs6-orders] @Zeus: $stats
+[error][16:57:49] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][17:14:55] Reconnecting to shard
+[debug][17:14:56] Connected to shard
+[debug][17:52:47] Reconnecting to shard
+[debug][17:52:48] Connected to shard
+[debug][18:00:01] [CRON] Deleted 2 messages from order channels
+[debug][20:29:14] Reconnecting to shard
+[debug][20:29:15] Connected to shard
+[debug][22:01:04] Reconnecting to shard
+[debug][22:01:05] Connected to shard
+[debug][23:57:18] Reconnecting to shard
+[debug][23:57:19] Connected to shard

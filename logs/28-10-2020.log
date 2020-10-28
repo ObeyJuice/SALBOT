@@ -1,0 +1,2979 @@
+[debug][00:14:58] Reconnecting to shard
+[debug][00:14:58] Connected to shard
+[info][01:17:18] [#rs8-orders] @Zeus: $order 20 5
+[cmd][01:17:19] [#rs8-orders] @Zeus created an order (20xR5 : 7xR8)
+[info][01:18:10] [#rs8-orders] @Zeus: $stats
+[error][01:18:19] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][02:01:22] Reconnecting to shard
+[debug][02:01:23] Connected to shard
+[debug][02:20:01] [CRON] Deleted 2 messages from order channels
+[debug][03:22:34] Reconnecting to shard
+[debug][03:22:35] Connected to shard
+[debug][03:30:50] Reconnecting to shard
+[debug][03:30:50] Connected to shard
+[debug][03:54:49] Reconnecting to shard
+[debug][03:54:50] Connected to shard
+[debug][04:38:23] Reconnecting to shard
+[debug][04:38:23] Connected to shard
+[debug][07:05:51] Reconnecting to shard
+[debug][07:05:51] Connected to shard
+[debug][07:31:41] Reconnecting to shard
+[debug][07:31:41] Connected to shard
+[debug][10:22:27] Reconnecting to shard
+[debug][10:22:28] Connected to shard
+[debug][12:10:34] Debug mode enabled
+[debug][12:10:34] MongoDB: Connected
+[debug][12:10:35] Discord: Ready
+[debug][12:10:35] Loaded 12 commands
+[info][12:53:20] [#rs6-orders] @Zeus: $order 20 4
+[cmd][12:53:20] [#rs6-orders] @Zeus created an order (20xR4 : 8xR6)
+[error][12:54:20] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][12:54:55] Debug mode enabled
+[debug][12:54:55] MongoDB: Connected
+[debug][12:54:56] Discord: Ready
+[debug][12:54:56] Loaded 12 commands
+[info][12:55:09] [#rs6-orders] @Zeus: $order 20 4
+[cmd][12:55:09] [#rs6-orders] @Zeus created an order (20xR4 : 8xR6)
+[info][12:55:18] [#rs6-orders] @Zeus: $order 25 4
+[cmd][12:55:18] [#rs6-orders] @Zeus created an order (25xR4 : 10xR6)
+[info][12:55:23] [#rs6-orders] @Zeus: $order 6 8
+[cmd][12:55:23] [#rs6-orders] @Zeus created an order (6xR8 : 12xR6)
+[info][12:55:31] [#rs6-orders] @Zeus: $order 13 4
+[cmd][12:55:31] [#rs6-orders] @Zeus created an order (13xR4 : 6xR6)
+[error][12:56:09] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][12:56:18] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][12:56:23] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][12:56:27] Debug mode enabled
+[debug][12:56:27] MongoDB: Connected
+[debug][12:56:28] Discord: Ready
+[debug][12:56:28] Loaded 12 commands
+[info][12:56:37] [#rs6-orders] @Zeus: $order 13 4
+[cmd][12:56:37] [#rs6-orders] @Zeus created an order (13xR4 : 6xR6)
+[error][12:57:37] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[info][13:20:24] [#rs8-orders] @Zeus: $order 20 4
+[cmd][13:20:24] [#rs8-orders] @Zeus created an order (20xR4 : 5xR8)
+[info][13:20:28] [#rs8-orders] @Zeus: $stats
+[error][13:21:24] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][13:28:22] Debug mode enabled
+[debug][13:28:22] MongoDB: Connected
+[debug][13:28:23] Discord: Ready
+[debug][13:28:23] Loaded 12 commands
+[debug][13:37:51] Debug mode enabled
+[debug][13:37:51] MongoDB: Connected
+[debug][13:37:52] Discord: Ready
+[debug][13:37:52] Loaded 12 commands
+[debug][13:38:33] Debug mode enabled
+[debug][13:38:33] MongoDB: Connected
+[debug][13:38:34] Discord: Ready
+[debug][13:38:34] Loaded 12 commands
+[debug][13:39:02] Debug mode enabled
+[debug][13:39:02] MongoDB: Connected
+[debug][13:39:03] Discord: Ready
+[debug][13:39:03] Loaded 12 commands
+[debug][13:39:49] Debug mode enabled
+[debug][13:39:49] MongoDB: Connected
+[debug][13:39:50] Discord: Ready
+[debug][13:39:50] Loaded 12 commands
+[debug][13:45:29] Debug mode enabled
+[debug][13:45:29] MongoDB: Connected
+[debug][13:45:30] Discord: Ready
+[debug][13:45:30] Loaded 12 commands
+[debug][13:45:42] Debug mode enabled
+[debug][13:45:42] MongoDB: Connected
+[debug][13:45:44] Discord: Ready
+[debug][13:45:44] Loaded 12 commands
+[debug][13:46:24] Debug mode enabled
+[debug][13:46:24] MongoDB: Connected
+[debug][13:46:25] Discord: Ready
+[debug][13:46:25] Loaded 12 commands
+[info][13:46:32] [#rs6-orders] @Zeus: $list
+[debug][13:46:45] Debug mode enabled
+[debug][13:46:45] MongoDB: Connected
+[debug][13:46:46] Discord: Ready
+[debug][13:46:46] Loaded 12 commands
+[info][13:46:50] [#rs6-orders] @Zeus: $list
+[info][13:47:03] [#rs6-orders] @Zeus: $list 6
+[debug][13:55:19] Debug mode enabled
+[debug][13:55:19] MongoDB: Connected
+[debug][13:55:21] Discord: Ready
+[debug][13:55:21] Loaded 12 commands
+[info][13:55:27] [#rs6-orders] @Zeus: $list
+[error][13:55:27] ReferenceError: botData is not defined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:9:37)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:74:21)
+    at Client.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+[debug][13:56:00] Debug mode enabled
+[debug][13:56:00] MongoDB: Connected
+[debug][13:56:01] Discord: Ready
+[error][13:56:01] Error: Cannot find module './data.json'
+Require stack:
+- C:\Users\Cody\Desktop\SALBOT\test\commands\list.js
+- C:\Users\Cody\Desktop\SALBOT\test\main.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:56:25)
+    at Client.emit (events.js:315:20)
+    at WebSocketManager.triggerClientReady (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:431:17)
+    at WebSocketManager.checkShardsReady (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:415:10)
+    at WebSocketShard.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:197:14)
+[debug][13:56:08] Debug mode enabled
+[debug][13:56:08] MongoDB: Connected
+[debug][13:56:09] Discord: Ready
+[error][13:56:09] Error: Cannot find module '..data.json'
+Require stack:
+- C:\Users\Cody\Desktop\SALBOT\test\commands\list.js
+- C:\Users\Cody\Desktop\SALBOT\test\main.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:56:25)
+    at Client.emit (events.js:315:20)
+    at WebSocketManager.triggerClientReady (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:431:17)
+    at WebSocketManager.checkShardsReady (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:415:10)
+    at WebSocketShard.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:197:14)
+[debug][13:56:15] Debug mode enabled
+[debug][13:56:15] MongoDB: Connected
+[debug][13:56:16] Discord: Ready
+[debug][13:56:16] Loaded 12 commands
+[info][13:56:19] [#rs6-orders] @Zeus: $list
+[error][13:56:19] ReferenceError: channel is not defined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:11:54)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:74:21)
+    at Client.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+[debug][13:56:40] Debug mode enabled
+[debug][13:56:40] MongoDB: Connected
+[debug][13:56:41] Discord: Ready
+[debug][13:56:41] Loaded 12 commands
+[info][13:56:44] [#rs6-orders] @Zeus: $list
+[info][13:56:50] [#rs8-orders] @Zeus: $list
+[debug][13:59:12] Debug mode enabled
+[debug][13:59:12] MongoDB: Connected
+[debug][13:59:13] Discord: Ready
+[debug][13:59:13] Loaded 12 commands
+[debug][13:59:16] Debug mode enabled
+[debug][13:59:16] MongoDB: Connected
+[debug][13:59:18] Reconnecting to shard
+[debug][13:59:24] Discord: Ready
+[debug][13:59:24] Loaded 12 commands
+[info][13:59:28] [#rs8-orders] @Zeus: $list
+[debug][13:59:59] Debug mode enabled
+[debug][13:59:59] MongoDB: Connected
+[debug][14:00:00] Discord: Ready
+[debug][14:00:00] Loaded 12 commands
+[debug][14:01:34] Debug mode enabled
+[debug][14:01:35] MongoDB: Connected
+[debug][14:01:36] Discord: Ready
+[debug][14:01:36] Loaded 12 commands
+[info][14:01:39] [#rs8-orders] @Zeus: $list
+[debug][14:02:03] Debug mode enabled
+[debug][14:02:04] MongoDB: Connected
+[debug][14:02:04] Discord: Ready
+[debug][14:02:04] Loaded 12 commands
+[debug][14:02:24] Debug mode enabled
+[debug][14:02:24] MongoDB: Connected
+[debug][14:02:25] Discord: Ready
+[debug][14:02:25] Loaded 12 commands
+[info][14:02:30] [#rs8-orders] @Zeus: $list
+[debug][14:03:40] Debug mode enabled
+[debug][14:03:40] MongoDB: Connected
+[debug][14:03:41] Discord: Ready
+[debug][14:03:41] Loaded 12 commands
+[debug][14:03:58] Debug mode enabled
+[debug][14:03:58] MongoDB: Connected
+[debug][14:03:59] Discord: Ready
+[debug][14:03:59] Loaded 12 commands
+[info][14:04:03] [#rs8-orders] @Zeus: $list
+[debug][14:04:54] Debug mode enabled
+[debug][14:04:54] MongoDB: Connected
+[debug][14:04:55] Discord: Ready
+[debug][14:04:55] Loaded 12 commands
+[info][14:04:59] [#rs8-orders] @Zeus: $list
+[info][14:05:52] [#rs8-orders] @Zeus: $order 25 5 mix
+[cmd][14:05:52] [#rs8-orders] @Zeus created an order (25xR5 : 9xR8)
+[info][14:05:56] [#rs8-orders] @Zeus: $list
+[debug][14:06:51] Debug mode enabled
+[debug][14:06:51] MongoDB: Connected
+[debug][14:06:52] Debug mode enabled
+[debug][14:06:52] MongoDB: Connected
+[debug][14:06:57] Reconnecting to shard
+[debug][14:07:03] Discord: Ready
+[debug][14:07:03] Loaded 12 commands
+[debug][14:07:26] Debug mode enabled
+[debug][14:07:26] MongoDB: Connected
+[debug][14:07:27] Discord: Ready
+[debug][14:07:27] Loaded 12 commands
+[debug][14:07:55] Debug mode enabled
+[debug][14:07:55] MongoDB: Connected
+[debug][14:07:56] Discord: Ready
+[debug][14:07:56] Loaded 12 commands
+[info][14:08:01] [#rs8-orders] @Zeus: $test
+[debug][14:08:48] Debug mode enabled
+[debug][14:08:48] MongoDB: Connected
+[debug][14:08:49] Discord: Ready
+[debug][14:08:49] Loaded 12 commands
+[info][14:08:55] [#rs8-orders] @Zeus: $test
+[debug][14:09:50] Debug mode enabled
+[debug][14:09:50] MongoDB: Connected
+[debug][14:09:51] Discord: Ready
+[debug][14:09:51] Loaded 12 commands
+[info][14:09:55] [#rs8-orders] @Zeus: $list
+[debug][14:54:40] Debug mode enabled
+[debug][14:54:40] MongoDB: Connected
+[debug][14:54:41] Discord: Ready
+[debug][14:54:41] Loaded 12 commands
+[info][14:56:11] [#general] @Zeus: $list
+[error][14:56:11] CastError: Cast to Number failed for value "NaN" at path "requestLevel" for model "Order"
+    at model.Query.exec (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\query.js:4380:21)
+    at model.Query.Query.then (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\query.js:4472:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][14:56:23] Debug mode enabled
+[debug][14:56:23] MongoDB: Connected
+[debug][14:56:24] Discord: Ready
+[debug][14:56:24] Loaded 12 commands
+[info][14:56:28] [#general] @Zeus: $list
+[error][14:56:28] CastError: Cast to Number failed for value "NaN" at path "requestLevel" for model "Order"
+    at model.Query.exec (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\query.js:4380:21)
+    at model.Query.Query.then (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\query.js:4472:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][14:56:45] Debug mode enabled
+[debug][14:56:45] MongoDB: Connected
+[debug][14:56:46] Discord: Ready
+[debug][14:56:46] Loaded 12 commands
+[info][14:56:50] [#general] @Zeus: $list
+[error][14:56:50] CastError: Cast to Number failed for value "NaN" at path "requestLevel" for model "Order"
+    at model.Query.exec (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\query.js:4380:21)
+    at model.Query.Query.then (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\query.js:4472:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[info][14:57:07] [#rs7-orders] @Zeus: $list
+[debug][14:57:33] Debug mode enabled
+[debug][14:57:33] MongoDB: Connected
+[debug][14:57:34] Discord: Ready
+[debug][14:57:34] Loaded 12 commands
+[info][15:28:05] [#rs7-orders] @Zeus: $list
+[debug][15:28:48] Debug mode enabled
+[debug][15:28:48] MongoDB: Connected
+[debug][15:28:49] Discord: Ready
+[debug][15:28:49] Loaded 12 commands
+[info][15:28:53] [#rs7-orders] @Zeus: $list
+[info][15:29:16] [#rs8-orders] @Zeus: $list
+[debug][15:29:48] Debug mode enabled
+[debug][15:29:48] MongoDB: Connected
+[debug][15:29:49] Discord: Ready
+[debug][15:29:49] Loaded 12 commands
+[debug][15:30:11] Debug mode enabled
+[debug][15:30:11] MongoDB: Connected
+[debug][15:30:12] Discord: Ready
+[debug][15:30:12] Loaded 12 commands
+[info][15:30:15] [#rs8-orders] @Zeus: $list
+[debug][15:30:40] Debug mode enabled
+[debug][15:30:40] MongoDB: Connected
+[debug][15:30:41] Discord: Ready
+[debug][15:30:42] Loaded 12 commands
+[debug][15:30:54] Debug mode enabled
+[debug][15:30:54] MongoDB: Connected
+[debug][15:30:55] Discord: Ready
+[debug][15:30:55] Loaded 12 commands
+[info][15:30:58] [#rs8-orders] @Zeus: $list
+[debug][15:33:41] Debug mode enabled
+[debug][15:33:41] MongoDB: Connected
+[debug][15:33:42] Discord: Ready
+[error][15:33:42] C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:28
+            var user = await data.guild.users.fetch(order.buyerId);
+                       ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1053:16)
+    at Module._compile (internal/modules/cjs/loader.js:1101:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:56:25)
+    at Client.emit (events.js:315:20)
+    at WebSocketManager.triggerClientReady (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:431:17)
+    at WebSocketManager.checkShardsReady (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:415:10)
+    at WebSocketShard.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:197:14)
+    at WebSocketShard.emit (events.js:315:20)
+    at WebSocketShard.checkReady (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:475:12)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:447:16)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+[info][15:33:44] [#rs8-orders] @Zeus: $list
+[debug][15:34:07] Debug mode enabled
+[debug][15:34:07] MongoDB: Connected
+[debug][15:34:08] Discord: Ready
+[debug][15:34:08] Loaded 12 commands
+[info][15:34:10] [#rs8-orders] @Zeus: $list
+[error][15:34:10] TypeError: Cannot read property 'fetch' of undefined
+    at C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:28:47
+    at Array.forEach (<anonymous>)
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:26:16)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][15:34:10] TypeError: Cannot read property 'fetch' of undefined
+    at C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:28:47
+    at Array.forEach (<anonymous>)
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:26:16)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][15:34:10] TypeError: Cannot read property 'fetch' of undefined
+    at C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:28:47
+    at Array.forEach (<anonymous>)
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:26:16)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][15:34:22] Debug mode enabled
+[debug][15:34:22] MongoDB: Connected
+[debug][15:34:23] Discord: Ready
+[debug][15:34:23] Loaded 12 commands
+[info][15:34:26] [#rs8-orders] @Zeus: $list
+[error][15:34:26] TypeError: Cannot read property 'get' of undefined
+    at C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:28:47
+    at Array.forEach (<anonymous>)
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:26:16)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][15:34:26] TypeError: Cannot read property 'get' of undefined
+    at C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:28:47
+    at Array.forEach (<anonymous>)
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:26:16)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][15:34:26] TypeError: Cannot read property 'get' of undefined
+    at C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:28:47
+    at Array.forEach (<anonymous>)
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:26:16)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][15:35:04] Debug mode enabled
+[debug][15:35:04] MongoDB: Connected
+[debug][15:35:05] Discord: Ready
+[debug][15:35:05] Loaded 12 commands
+[debug][15:35:54] Debug mode enabled
+[debug][15:35:54] MongoDB: Connected
+[debug][15:35:55] Discord: Ready
+[debug][15:35:55] Loaded 12 commands
+[info][15:35:57] [#rs8-orders] @Zeus: $list
+[error][15:35:57] TypeError: Cannot read property 'cache' of undefined
+    at C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:28:47
+    at Array.forEach (<anonymous>)
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:26:16)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][15:35:57] TypeError: Cannot read property 'cache' of undefined
+    at C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:28:47
+    at Array.forEach (<anonymous>)
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:26:16)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][15:35:57] TypeError: Cannot read property 'cache' of undefined
+    at C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:28:47
+    at Array.forEach (<anonymous>)
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:26:16)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][15:37:09] Debug mode enabled
+[debug][15:37:09] MongoDB: Connected
+[debug][15:37:10] Discord: Ready
+[debug][15:37:10] Loaded 12 commands
+[info][15:37:12] [#rs8-orders] @Zeus: $list
+[error][15:37:12] TypeError: data.guild.members.cache.fetch is not a function
+    at C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:28:55
+    at Array.forEach (<anonymous>)
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:26:16)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][15:37:12] TypeError: data.guild.members.cache.fetch is not a function
+    at C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:28:55
+    at Array.forEach (<anonymous>)
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:26:16)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][15:37:12] TypeError: data.guild.members.cache.fetch is not a function
+    at C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:28:55
+    at Array.forEach (<anonymous>)
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\list.js:26:16)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][15:37:19] Debug mode enabled
+[debug][15:37:19] MongoDB: Connected
+[debug][15:37:20] Discord: Ready
+[debug][15:37:20] Loaded 12 commands
+[info][15:37:21] [#rs8-orders] @Zeus: $list
+[debug][15:38:35] Debug mode enabled
+[debug][15:38:35] MongoDB: Connected
+[debug][15:38:36] Discord: Ready
+[debug][15:38:36] Loaded 12 commands
+[info][15:38:39] [#rs8-orders] @Zeus: $list
+[debug][15:39:03] Debug mode enabled
+[debug][15:39:03] MongoDB: Connected
+[debug][15:39:04] Discord: Ready
+[debug][15:39:04] Loaded 12 commands
+[debug][15:40:40] Debug mode enabled
+[debug][15:40:40] MongoDB: Connected
+[debug][15:40:41] Discord: Ready
+[debug][15:40:41] Loaded 12 commands
+[info][15:40:43] [#rs8-orders] @Zeus: $list
+[debug][15:41:01] Debug mode enabled
+[debug][15:41:01] MongoDB: Connected
+[debug][15:41:02] Discord: Ready
+[debug][15:41:02] Loaded 12 commands
+[info][15:41:05] [#rs8-orders] @Zeus: $list
+[debug][15:41:36] Debug mode enabled
+[debug][15:41:36] MongoDB: Connected
+[debug][15:41:37] Discord: Ready
+[debug][15:41:37] Loaded 12 commands
+[debug][15:41:46] Debug mode enabled
+[debug][15:41:46] MongoDB: Connected
+[debug][15:41:47] Discord: Ready
+[debug][15:41:47] Loaded 12 commands
+[info][15:41:51] [#rs8-orders] @Zeus: $list
+[debug][15:42:04] Debug mode enabled
+[debug][15:42:04] MongoDB: Connected
+[debug][15:42:05] Discord: Ready
+[debug][15:42:05] Loaded 12 commands
+[info][15:42:07] [#rs8-orders] @Zeus: $list
+[debug][15:42:29] Debug mode enabled
+[debug][15:42:29] MongoDB: Connected
+[debug][15:42:30] Discord: Ready
+[debug][15:42:30] Loaded 12 commands
+[info][15:42:32] [#rs8-orders] @Zeus: $list
+[debug][15:42:57] Debug mode enabled
+[debug][15:42:57] MongoDB: Connected
+[debug][15:42:58] Discord: Ready
+[debug][15:42:58] Loaded 12 commands
+[info][15:42:59] [#rs8-orders] @Zeus: $list
+[debug][15:43:56] Debug mode enabled
+[debug][15:43:56] MongoDB: Connected
+[debug][15:43:57] Discord: Ready
+[debug][15:43:57] Loaded 12 commands
+[info][15:43:59] [#rs8-orders] @Zeus: $list
+[debug][15:45:40] Debug mode enabled
+[debug][15:45:40] MongoDB: Connected
+[debug][15:45:41] Discord: Ready
+[debug][15:45:41] Loaded 12 commands
+[info][15:45:45] [#rs8-orders] @Zeus: $list
+[debug][15:46:23] Debug mode enabled
+[debug][15:46:24] MongoDB: Connected
+[debug][15:46:24] Discord: Ready
+[debug][15:46:24] Loaded 12 commands
+[info][15:46:29] [#rs8-orders] @Zeus: $test
+[debug][15:47:19] Debug mode enabled
+[debug][15:47:19] MongoDB: Connected
+[debug][15:47:20] Discord: Ready
+[debug][15:47:20] Loaded 12 commands
+[info][15:47:21] [#rs8-orders] @Zeus: $test
+[debug][15:48:44] Debug mode enabled
+[debug][15:48:44] MongoDB: Connected
+[debug][15:48:46] Discord: Ready
+[debug][15:48:46] Loaded 12 commands
+[info][15:48:49] [#rs8-orders] @Zeus: $list
+[debug][15:49:03] Debug mode enabled
+[debug][15:49:03] MongoDB: Connected
+[debug][15:49:04] Discord: Ready
+[debug][15:49:04] Loaded 12 commands
+[info][15:49:13] [#rs8-orders] @Zeus: $list
+[debug][15:49:28] Debug mode enabled
+[debug][15:49:28] MongoDB: Connected
+[debug][15:49:29] Discord: Ready
+[debug][15:49:29] Loaded 12 commands
+[info][15:49:39] [#rs8-orders] @Zeus: $list
+[debug][15:50:01] Debug mode enabled
+[debug][15:50:01] MongoDB: Connected
+[debug][15:50:02] Discord: Ready
+[debug][15:50:02] Loaded 12 commands
+[info][15:50:03] [#rs8-orders] @Zeus: $list
+[debug][15:50:32] Debug mode enabled
+[debug][15:50:32] MongoDB: Connected
+[debug][15:50:33] Discord: Ready
+[debug][15:50:33] Loaded 12 commands
+[info][15:50:36] [#rs8-orders] @Zeus: $list
+[debug][15:51:08] Debug mode enabled
+[debug][15:51:08] MongoDB: Connected
+[debug][15:51:09] Discord: Ready
+[debug][15:51:09] Loaded 12 commands
+[info][15:51:13] [#rs8-orders] @Zeus: $list
+[info][15:51:24] [#rs8-orders] @Zeus: $list
+[info][15:51:30] [#rs8-orders] @Zeus: $list
+[debug][15:51:39] Debug mode enabled
+[debug][15:51:39] MongoDB: Connected
+[debug][15:51:40] Discord: Ready
+[debug][15:51:40] Loaded 12 commands
+[info][15:51:49] [#rs8-orders] @Zeus: $list
+[debug][15:52:09] Debug mode enabled
+[debug][15:52:09] MongoDB: Connected
+[debug][15:52:10] Discord: Ready
+[debug][15:52:10] Loaded 12 commands
+[info][15:52:12] [#rs8-orders] @Zeus: $list
+[debug][15:52:24] Debug mode enabled
+[debug][15:52:24] MongoDB: Connected
+[debug][15:52:26] Discord: Ready
+[debug][15:52:26] Loaded 12 commands
+[debug][15:52:28] Debug mode enabled
+[debug][15:52:28] MongoDB: Connected
+[debug][15:52:30] Reconnecting to shard
+[debug][15:52:35] Debug mode enabled
+[debug][15:52:35] MongoDB: Connected
+[debug][15:52:36] Discord: Ready
+[debug][15:52:36] Loaded 12 commands
+[debug][15:52:39] Debug mode enabled
+[debug][15:52:39] MongoDB: Connected
+[debug][15:52:41] Reconnecting to shard
+[debug][15:52:47] Discord: Ready
+[debug][15:52:47] Loaded 12 commands
+[debug][15:52:48] Debug mode enabled
+[debug][15:52:48] MongoDB: Connected
+[debug][15:52:52] Reconnecting to shard
+[debug][15:52:57] Discord: Ready
+[debug][15:52:57] Loaded 12 commands
+[info][15:53:02] [#rs8-orders] @Zeus: $list
+[debug][15:55:18] Debug mode enabled
+[debug][15:55:18] MongoDB: Connected
+[debug][15:55:19] Discord: Ready
+[debug][15:55:19] Loaded 12 commands
+[debug][15:55:27] Debug mode enabled
+[debug][15:55:27] MongoDB: Connected
+[debug][15:55:28] Discord: Ready
+[debug][15:55:28] Loaded 12 commands
+[debug][15:55:50] Debug mode enabled
+[debug][15:55:50] MongoDB: Connected
+[debug][15:55:51] Discord: Ready
+[debug][15:55:51] Loaded 12 commands
+[info][15:55:54] [#rs8-orders] @Zeus: $list
+[debug][15:56:32] Debug mode enabled
+[debug][15:56:33] MongoDB: Connected
+[debug][15:56:33] Discord: Ready
+[debug][15:56:33] Loaded 12 commands
+[info][15:56:35] [#rs8-orders] @Zeus: $list
+[debug][16:03:08] Debug mode enabled
+[debug][16:03:08] MongoDB: Connected
+[debug][16:03:10] Discord: Ready
+[debug][16:03:10] Loaded 12 commands
+[info][16:03:15] [#rs8-orders] @Zeus: $list
+[debug][16:03:42] Debug mode enabled
+[debug][16:03:42] MongoDB: Connected
+[debug][16:03:43] Discord: Ready
+[debug][16:03:43] Loaded 12 commands
+[debug][16:06:24] Debug mode enabled
+[debug][16:06:24] MongoDB: Connected
+[debug][16:06:25] Discord: Ready
+[debug][16:06:25] Loaded 12 commands
+[info][16:06:29] [#rs8-orders] @Zeus: $list
+[debug][16:19:24] Debug mode enabled
+[debug][16:19:24] MongoDB: Connected
+[debug][16:19:25] Discord: Ready
+[debug][16:19:25] Loaded 12 commands
+[info][16:19:28] [#rs8-orders] @Zeus: $list
+[debug][16:19:50] Debug mode enabled
+[debug][16:19:50] MongoDB: Connected
+[debug][16:19:51] Discord: Ready
+[debug][16:19:51] Loaded 12 commands
+[info][16:19:53] [#rs8-orders] @Zeus: $list
+[debug][16:21:32] Debug mode enabled
+[debug][16:21:32] MongoDB: Connected
+[debug][16:21:33] Discord: Ready
+[debug][16:21:33] Loaded 12 commands
+[debug][16:21:54] Debug mode enabled
+[debug][16:21:54] MongoDB: Connected
+[debug][16:21:55] Discord: Ready
+[debug][16:21:55] Loaded 12 commands
+[debug][16:22:49] Debug mode enabled
+[debug][16:22:49] MongoDB: Connected
+[debug][16:22:50] Discord: Ready
+[debug][16:22:50] Loaded 12 commands
+[info][16:22:54] [#rs8-orders] @Zeus: $list
+[debug][16:23:05] Debug mode enabled
+[debug][16:23:05] MongoDB: Connected
+[debug][16:23:06] Discord: Ready
+[debug][16:23:06] Loaded 12 commands
+[info][16:23:09] [#rs8-orders] @Zeus: $list
+[debug][16:23:32] Debug mode enabled
+[debug][16:23:32] MongoDB: Connected
+[debug][16:23:33] Discord: Ready
+[debug][16:23:33] Loaded 12 commands
+[info][16:23:42] [#rs8-orders] @Zeus: $list
+[debug][16:23:54] Debug mode enabled
+[debug][16:23:54] MongoDB: Connected
+[debug][16:23:55] Discord: Ready
+[debug][16:23:55] Loaded 12 commands
+[debug][16:24:02] Debug mode enabled
+[debug][16:24:02] MongoDB: Connected
+[debug][16:24:03] Discord: Ready
+[debug][16:24:03] Loaded 12 commands
+[info][16:24:06] [#rs8-orders] @Zeus: $list
+[debug][16:24:14] Debug mode enabled
+[debug][16:24:14] MongoDB: Connected
+[debug][16:24:15] Discord: Ready
+[debug][16:24:15] Loaded 12 commands
+[debug][16:24:18] Debug mode enabled
+[debug][16:24:18] MongoDB: Connected
+[debug][16:24:20] Reconnecting to shard
+[debug][16:24:26] Discord: Ready
+[debug][16:24:26] Loaded 12 commands
+[info][16:24:30] [#rs8-orders] @Zeus: $list
+[debug][16:24:52] Debug mode enabled
+[debug][16:24:52] MongoDB: Connected
+[debug][16:24:53] Discord: Ready
+[debug][16:24:53] Loaded 12 commands
+[info][16:24:58] [#rs8-orders] @Zeus: $list
+[debug][16:25:17] Debug mode enabled
+[debug][16:25:17] MongoDB: Connected
+[debug][16:25:18] Discord: Ready
+[debug][16:25:18] Loaded 12 commands
+[info][16:25:21] [#rs8-orders] @Zeus: $list
+[debug][16:26:13] Debug mode enabled
+[debug][16:26:13] MongoDB: Connected
+[debug][16:26:14] Discord: Ready
+[debug][16:26:14] Loaded 12 commands
+[debug][16:26:30] Debug mode enabled
+[debug][16:26:30] MongoDB: Connected
+[debug][16:26:31] Discord: Ready
+[debug][16:26:31] Loaded 12 commands
+[info][16:26:32] [#rs8-orders] @Zeus: $list
+[debug][16:26:47] Debug mode enabled
+[debug][16:26:47] MongoDB: Connected
+[debug][16:26:48] Discord: Ready
+[debug][16:26:48] Loaded 12 commands
+[info][16:26:51] [#rs8-orders] @Zeus: $list
+[info][16:27:12] [#rs8-orders] @Zeus: $order 20 4 preferably tets but mix is fine
+[cmd][16:27:12] [#rs8-orders] @Zeus created an order (20xR4 : 5xR8)
+[info][16:27:16] [#rs8-orders] @Zeus: $list
+[debug][16:27:34] Debug mode enabled
+[debug][16:27:34] MongoDB: Connected
+[debug][16:27:35] Discord: Ready
+[debug][16:27:35] Loaded 12 commands
+[info][16:27:38] [#rs8-orders] @Zeus: $list
+[debug][16:27:53] Debug mode enabled
+[debug][16:27:53] MongoDB: Connected
+[debug][16:27:54] Discord: Ready
+[debug][16:27:54] Loaded 12 commands
+[info][16:27:56] [#rs8-orders] @Zeus: $list
+[debug][16:28:19] Debug mode enabled
+[debug][16:28:19] MongoDB: Connected
+[debug][16:28:20] Discord: Ready
+[debug][16:28:20] Loaded 12 commands
+[info][16:28:22] [#rs8-orders] @Zeus: $list
+[debug][16:30:48] Debug mode enabled
+[debug][16:30:48] MongoDB: Connected
+[debug][16:30:49] Discord: Ready
+[debug][16:30:49] Loaded 12 commands
+[info][16:30:51] [#rs8-orders] @Zeus: $list
+[debug][16:31:15] Debug mode enabled
+[debug][16:31:15] MongoDB: Connected
+[debug][16:31:16] Discord: Ready
+[debug][16:31:16] Loaded 12 commands
+[info][16:31:18] [#rs8-orders] @Zeus: $list
+[debug][16:31:57] Debug mode enabled
+[debug][16:31:57] MongoDB: Connected
+[debug][16:31:58] Discord: Ready
+[debug][16:31:58] Loaded 12 commands
+[info][16:32:00] [#rs8-orders] @Zeus: $list
+[debug][16:32:09] Debug mode enabled
+[debug][16:32:09] MongoDB: Connected
+[debug][16:32:10] Discord: Ready
+[debug][16:32:11] Loaded 12 commands
+[info][16:34:47] [#rs8-orders] @Zeus: $list
+[debug][16:35:15] Debug mode enabled
+[debug][16:35:15] MongoDB: Connected
+[debug][16:35:16] Discord: Ready
+[debug][16:35:16] Loaded 12 commands
+[info][16:35:24] [#rs8-orders] @Zeus: $list
+[debug][16:35:59] Debug mode enabled
+[debug][16:35:59] MongoDB: Connected
+[debug][16:36:00] Discord: Ready
+[debug][16:36:00] Loaded 12 commands
+[info][16:36:04] [#rs8-orders] @Zeus: $list
+[debug][16:36:53] Debug mode enabled
+[debug][16:36:53] MongoDB: Connected
+[debug][16:36:54] Discord: Ready
+[debug][16:36:54] Loaded 12 commands
+[info][16:36:57] [#rs8-orders] @Zeus: $list
+[debug][16:37:34] Debug mode enabled
+[debug][16:37:34] MongoDB: Connected
+[debug][16:37:35] Discord: Ready
+[debug][16:37:35] Loaded 12 commands
+[info][16:37:38] [#rs8-orders] @Zeus: $list
+[debug][16:37:53] Debug mode enabled
+[debug][16:37:53] MongoDB: Connected
+[debug][16:37:54] Discord: Ready
+[debug][16:37:54] Loaded 12 commands
+[info][16:37:56] [#rs8-orders] @Zeus: $list
+[debug][16:38:19] Debug mode enabled
+[debug][16:38:19] MongoDB: Connected
+[debug][16:38:20] Discord: Ready
+[debug][16:38:20] Loaded 12 commands
+[debug][16:38:28] Debug mode enabled
+[debug][16:38:28] MongoDB: Connected
+[debug][16:38:29] Discord: Ready
+[debug][16:38:29] Loaded 12 commands
+[debug][16:38:36] Debug mode enabled
+[debug][16:38:36] MongoDB: Connected
+[debug][16:38:36] Discord: Ready
+[debug][16:38:37] Loaded 12 commands
+[info][16:38:45] [#rs8-orders] @Zeus: $list
+[info][16:38:48] [#rs8-orders] @Zeus: $stats
+[debug][16:39:53] Debug mode enabled
+[debug][16:39:53] MongoDB: Connected
+[debug][16:39:54] Discord: Ready
+[debug][16:39:54] Loaded 12 commands
+[info][16:39:57] [#rs8-orders] @Zeus: $stats
+[debug][16:40:36] Debug mode enabled
+[debug][16:40:36] MongoDB: Connected
+[debug][16:40:37] Discord: Ready
+[debug][16:40:37] Loaded 12 commands
+[debug][16:40:40] Debug mode enabled
+[debug][16:40:40] MongoDB: Connected
+[debug][16:40:42] Reconnecting to shard
+[debug][16:40:48] Discord: Ready
+[debug][16:40:48] Loaded 12 commands
+[info][16:40:51] [#rs8-orders] @Zeus: $list
+[info][16:40:55] [#rs8-orders] @Zeus: $stats
+[info][16:43:24] [#rs8-orders] @Zeus: $admin clear all
+[info][16:43:32] [#rs8-orders] @Zeus: $admin clear all
+[info][16:43:36] [#rs7-orders] @Zeus: $admin clear all
+[info][16:43:38] [#rs6-orders] @Zeus: $admin clear all
+[info][16:43:40] [#rs5-orders] @Zeus: $admin clear all
+[info][16:44:02] [#rs8-orders] @Zeus: $list
+[info][16:44:10] [#rs8-orders] @Zeus: $order 20 5
+[cmd][16:44:10] [#rs8-orders] @Zeus created an order (20xR5 : 7xR8)
+[info][16:44:17] [#rs8-orders] @Zeus: $list
+[error][16:44:24] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][16:44:32] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][16:44:36] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][16:44:39] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][16:44:40] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][16:45:10] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][16:46:12] Debug mode enabled
+[debug][16:46:12] MongoDB: Connected
+[debug][16:46:13] Discord: Ready
+[debug][16:46:13] Loaded 12 commands
+[debug][16:47:35] Debug mode enabled
+[debug][16:47:35] MongoDB: Connected
+[debug][16:47:37] Discord: Ready
+[debug][16:47:37] Loaded 12 commands
+[debug][16:47:57] Debug mode enabled
+[debug][16:47:57] MongoDB: Connected
+[debug][16:47:58] Discord: Ready
+[debug][16:47:58] Loaded 12 commands
+[debug][16:48:17] Debug mode enabled
+[debug][16:48:17] MongoDB: Connected
+[debug][16:48:18] Discord: Ready
+[debug][16:48:18] Loaded 12 commands
+[debug][16:48:21] Debug mode enabled
+[debug][16:48:21] MongoDB: Connected
+[debug][16:48:23] Reconnecting to shard
+[debug][16:48:28] Debug mode enabled
+[debug][16:48:28] MongoDB: Connected
+[debug][16:48:29] Discord: Ready
+[debug][16:48:29] Loaded 12 commands
+[debug][16:48:37] Debug mode enabled
+[debug][16:48:37] MongoDB: Connected
+[debug][16:48:38] Discord: Ready
+[debug][16:48:38] Loaded 12 commands
+[debug][16:49:03] Debug mode enabled
+[debug][16:49:03] MongoDB: Connected
+[debug][16:49:04] Discord: Ready
+[debug][16:49:04] Loaded 12 commands
+[info][16:49:08] [#rs8-orders] @Zeus: $help
+[debug][16:50:21] Debug mode enabled
+[debug][16:50:21] MongoDB: Connected
+[debug][16:50:22] Discord: Ready
+[debug][16:50:22] Loaded 12 commands
+[info][16:50:34] [#rs8-orders] @Zeus: $help
+[info][16:50:40] [#rs8-orders] @Zeus: $order 20 5
+[cmd][16:50:40] [#rs8-orders] @Zeus created an order (20xR5 : 7xR8)
+[debug][16:50:54] Debug mode enabled
+[debug][16:50:54] MongoDB: Connected
+[debug][16:50:55] Discord: Ready
+[debug][16:50:55] Loaded 12 commands
+[info][16:50:58] [#rs8-orders] @Zeus: $order 20 5
+[cmd][16:50:59] [#rs8-orders] @Zeus created an order (20xR5 : 7xR8)
+[info][16:51:14] [#rs8-orders] @Zeus: $list
+[debug][16:51:56] Debug mode enabled
+[debug][16:51:56] MongoDB: Connected
+[debug][16:51:57] Discord: Ready
+[debug][16:51:57] Loaded 12 commands
+[info][16:52:00] [#rs8-orders] @Zeus: $admin clear
+[info][16:52:05] [#rs8-orders] @Zeus: $admin clear all
+[info][16:52:11] [#rs8-orders] @Zeus: $order 20 5
+[cmd][16:52:11] [#rs8-orders] @Zeus created an order (20xR5 : 7xR8)
+[info][16:52:17] [#rs8-orders] @Zeus: $list
+[debug][16:52:25] Debug mode enabled
+[debug][16:52:25] MongoDB: Connected
+[debug][16:52:26] Discord: Ready
+[debug][16:52:26] Loaded 12 commands
+[info][16:52:33] [#rs8-orders] @Zeus: $stats
+[info][16:52:59] [#rs8-orders] @Zeus: $accept 20
+[cmd][16:52:59] [#rs8-orders] @Zeus tried to accept their own order
+[debug][17:14:07] Debug mode enabled
+[debug][17:14:07] MongoDB: Connected
+[debug][17:14:08] Discord: Ready
+[debug][17:14:08] Loaded 12 commands
+[debug][17:17:04] Debug mode enabled
+[debug][17:17:04] MongoDB: Connected
+[debug][17:17:05] Discord: Ready
+[debug][17:17:05] Loaded 12 commands
+[debug][17:17:52] Debug mode enabled
+[debug][17:17:52] MongoDB: Connected
+[debug][17:17:53] Discord: Ready
+[debug][17:17:53] Loaded 12 commands
+[debug][17:19:45] Debug mode enabled
+[debug][17:19:45] MongoDB: Connected
+[debug][17:19:46] Discord: Ready
+[error][17:19:46] TypeError: client.guilds.forEach is not a function
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:50:19)
+    at Client.emit (events.js:315:20)
+    at WebSocketManager.triggerClientReady (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:431:17)
+    at WebSocketManager.checkShardsReady (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:415:10)
+    at WebSocketShard.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:197:14)
+    at WebSocketShard.emit (events.js:315:20)
+    at WebSocketShard.checkReady (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:475:12)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:447:16)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+[debug][17:19:59] Debug mode enabled
+[debug][17:19:59] MongoDB: Connected
+[debug][17:20:00] Discord: Ready
+[debug][17:20:00] Loaded 12 commands
+[debug][17:21:05] Debug mode enabled
+[debug][17:21:05] MongoDB: Connected
+[debug][17:21:06] Discord: Ready
+[debug][17:21:06] Connected to mapValues(fn, thisArg) {
+        if (typeof thisArg !== 'undefined')
+            fn = fn.bind(thisArg);
+        const coll = new this.constructor[Symbol.species]();
+        for (const [key, val] of this)
+            coll.set(key, fn(val, key, this));
+        return coll;
+    }
+[debug][17:21:06] Loaded 12 commands
+[debug][17:21:30] Debug mode enabled
+[debug][17:21:30] MongoDB: Connected
+[debug][17:21:31] Discord: Ready
+[error][17:21:31] TypeError: fn is not a function
+    at Map.mapValues (C:\Users\Cody\Desktop\SALBOT\test\node_modules\@discordjs\collection\dist\index.js:228:27)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:51:65)
+    at Client.emit (events.js:315:20)
+    at WebSocketManager.triggerClientReady (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:431:17)
+    at WebSocketManager.checkShardsReady (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:415:10)
+    at WebSocketShard.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:197:14)
+    at WebSocketShard.emit (events.js:315:20)
+    at WebSocketShard.checkReady (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:475:12)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:447:16)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+[debug][17:23:05] Debug mode enabled
+[debug][17:23:05] MongoDB: Connected
+[debug][17:23:06] Discord: Ready
+[debug][17:23:06] Connected to Zeus's Sandbox
+[debug][17:23:06] Loaded 12 commands
+[debug][17:23:24] Debug mode enabled
+[debug][17:23:24] MongoDB: Connected
+[debug][17:23:25] Discord: Ready
+[error][17:23:25] TypeError: client.guilds.cache.mapValues.forEach is not a function
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:50:35)
+    at Client.emit (events.js:315:20)
+    at WebSocketManager.triggerClientReady (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:431:17)
+    at WebSocketManager.checkShardsReady (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:415:10)
+    at WebSocketShard.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:197:14)
+    at WebSocketShard.emit (events.js:315:20)
+    at WebSocketShard.checkReady (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:475:12)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:447:16)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+[debug][17:23:40] Debug mode enabled
+[debug][17:23:40] MongoDB: Connected
+[debug][17:23:41] Discord: Ready
+[debug][17:23:41] Connected to Zeus's Sandbox
+[debug][17:23:41] Loaded 12 commands
+[debug][17:26:11] Debug mode enabled
+[debug][17:26:11] MongoDB: Connected
+[debug][17:26:12] Discord: Ready
+[debug][17:26:12] Connected to Zeus's Sandbox
+[debug][17:26:12] Loaded 12 commands
+[debug][17:28:30] Debug mode enabled
+[debug][17:28:30] MongoDB: Connected
+[error][17:28:31] ReferenceError: events is not defined
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:93:2)
+    at Client.emit (events.js:315:20)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:295:27)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Receiver.Writable.write (_stream_writable.js:318:11)
+    at TLSSocket.socketOnData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:872:35)
+    at TLSSocket.emit (events.js:315:20)
+[error][17:28:31] ReferenceError: events is not defined
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:93:2)
+    at Client.emit (events.js:315:20)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:295:27)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Receiver.Writable.write (_stream_writable.js:318:11)
+    at TLSSocket.socketOnData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:872:35)
+    at TLSSocket.emit (events.js:315:20)
+[debug][17:28:31] Discord: Ready
+[debug][17:28:31] Connected to Zeus's Sandbox
+[debug][17:28:31] Loaded 12 commands
+[error][17:28:31] ReferenceError: events is not defined
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:93:2)
+    at Client.emit (events.js:315:20)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:295:27)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Receiver.Writable.write (_stream_writable.js:318:11)
+    at TLSSocket.socketOnData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:872:35)
+    at TLSSocket.emit (events.js:315:20)
+[error][17:28:31] ReferenceError: events is not defined
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:93:2)
+    at Client.emit (events.js:315:20)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:295:27)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Receiver.Writable.write (_stream_writable.js:318:11)
+    at TLSSocket.socketOnData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:872:35)
+    at TLSSocket.emit (events.js:315:20)
+[error][17:29:12] ReferenceError: events is not defined
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:93:2)
+    at Client.emit (events.js:315:20)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:295:27)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Receiver.Writable.write (_stream_writable.js:318:11)
+    at TLSSocket.socketOnData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:872:35)
+    at TLSSocket.emit (events.js:315:20)
+[error][17:29:54] ReferenceError: events is not defined
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:93:2)
+    at Client.emit (events.js:315:20)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:295:27)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Receiver.Writable.write (_stream_writable.js:318:11)
+    at TLSSocket.socketOnData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:872:35)
+    at TLSSocket.emit (events.js:315:20)
+[error][17:30:35] ReferenceError: events is not defined
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:93:2)
+    at Client.emit (events.js:315:20)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:295:27)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Receiver.Writable.write (_stream_writable.js:318:11)
+    at TLSSocket.socketOnData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:872:35)
+    at TLSSocket.emit (events.js:315:20)
+[error][17:31:16] ReferenceError: events is not defined
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:93:2)
+    at Client.emit (events.js:315:20)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:295:27)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Receiver.Writable.write (_stream_writable.js:318:11)
+    at TLSSocket.socketOnData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:872:35)
+    at TLSSocket.emit (events.js:315:20)
+[error][17:31:57] ReferenceError: events is not defined
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:93:2)
+    at Client.emit (events.js:315:20)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:295:27)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Receiver.Writable.write (_stream_writable.js:318:11)
+    at TLSSocket.socketOnData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:872:35)
+    at TLSSocket.emit (events.js:315:20)
+[error][17:32:39] ReferenceError: events is not defined
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:93:2)
+    at Client.emit (events.js:315:20)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:295:27)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Receiver.Writable.write (_stream_writable.js:318:11)
+    at TLSSocket.socketOnData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:872:35)
+    at TLSSocket.emit (events.js:315:20)
+[error][17:33:20] ReferenceError: events is not defined
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:93:2)
+    at Client.emit (events.js:315:20)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:295:27)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Receiver.Writable.write (_stream_writable.js:318:11)
+    at TLSSocket.socketOnData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:872:35)
+    at TLSSocket.emit (events.js:315:20)
+[error][17:34:01] ReferenceError: events is not defined
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:93:2)
+    at Client.emit (events.js:315:20)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:295:27)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Receiver.Writable.write (_stream_writable.js:318:11)
+    at TLSSocket.socketOnData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:872:35)
+    at TLSSocket.emit (events.js:315:20)
+[error][17:34:42] ReferenceError: events is not defined
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:93:2)
+    at Client.emit (events.js:315:20)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:295:27)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Receiver.Writable.write (_stream_writable.js:318:11)
+    at TLSSocket.socketOnData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:872:35)
+    at TLSSocket.emit (events.js:315:20)
+[error][17:35:24] ReferenceError: events is not defined
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:93:2)
+    at Client.emit (events.js:315:20)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:295:27)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Receiver.Writable.write (_stream_writable.js:318:11)
+    at TLSSocket.socketOnData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:872:35)
+    at TLSSocket.emit (events.js:315:20)
+[error][17:36:05] ReferenceError: events is not defined
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:93:2)
+    at Client.emit (events.js:315:20)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:295:27)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Receiver.Writable.write (_stream_writable.js:318:11)
+    at TLSSocket.socketOnData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:872:35)
+    at TLSSocket.emit (events.js:315:20)
+[error][17:36:46] ReferenceError: events is not defined
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:93:2)
+    at Client.emit (events.js:315:20)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:295:27)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Receiver.Writable.write (_stream_writable.js:318:11)
+    at TLSSocket.socketOnData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:872:35)
+    at TLSSocket.emit (events.js:315:20)
+[error][17:37:27] ReferenceError: events is not defined
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:93:2)
+    at Client.emit (events.js:315:20)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:295:27)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Receiver.Writable.write (_stream_writable.js:318:11)
+    at TLSSocket.socketOnData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:872:35)
+    at TLSSocket.emit (events.js:315:20)
+[error][17:38:09] ReferenceError: events is not defined
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:93:2)
+    at Client.emit (events.js:315:20)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:295:27)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Receiver.Writable.write (_stream_writable.js:318:11)
+    at TLSSocket.socketOnData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:872:35)
+    at TLSSocket.emit (events.js:315:20)
+[debug][17:38:35] Debug mode enabled
+[debug][17:38:35] MongoDB: Connected
+[debug][17:38:36] Discord: Ready
+[debug][17:38:36] Connected to Zeus's Sandbox
+[debug][17:38:36] Loaded 12 commands
+[error][17:38:39] TypeError: client.users.get is not a function
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:102:28)
+    at Client.emit (events.js:315:20)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:295:27)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Receiver.Writable.write (_stream_writable.js:318:11)
+    at TLSSocket.socketOnData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:872:35)
+    at TLSSocket.emit (events.js:315:20)
+[debug][17:39:01] Debug mode enabled
+[debug][17:39:01] MongoDB: Connected
+[debug][17:39:02] Discord: Ready
+[debug][17:39:02] Connected to Zeus's Sandbox
+[debug][17:39:02] Loaded 12 commands
+[debug][17:39:06] Debug mode enabled
+[debug][17:39:06] MongoDB: Connected
+[debug][17:39:07] Reconnecting to shard
+[debug][17:39:13] Discord: Ready
+[debug][17:39:13] Connected to Zeus's Sandbox
+[debug][17:39:13] Loaded 12 commands
+[error][17:39:15] TypeError: channel.messages.has is not a function
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:106:23)
+    at Client.emit (events.js:315:20)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:295:27)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Receiver.Writable.write (_stream_writable.js:318:11)
+    at TLSSocket.socketOnData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:872:35)
+    at TLSSocket.emit (events.js:315:20)
+[error][17:39:16] TypeError: channel.messages.has is not a function
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:106:23)
+    at Client.emit (events.js:315:20)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:295:27)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Receiver.Writable.write (_stream_writable.js:318:11)
+    at TLSSocket.socketOnData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:872:35)
+    at TLSSocket.emit (events.js:315:20)
+[debug][17:40:12] Debug mode enabled
+[debug][17:40:12] MongoDB: Connected
+[debug][17:40:13] Discord: Ready
+[debug][17:40:13] Connected to Zeus's Sandbox
+[debug][17:40:13] Loaded 12 commands
+[error][17:40:15] TypeError: channel.messages.fetchMessage is not a function
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:106:23)
+    at Client.emit (events.js:315:20)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:295:27)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Receiver.Writable.write (_stream_writable.js:318:11)
+    at TLSSocket.socketOnData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:872:35)
+    at TLSSocket.emit (events.js:315:20)
+[error][17:40:16] TypeError: channel.messages.fetchMessage is not a function
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:106:23)
+    at Client.emit (events.js:315:20)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:295:27)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Receiver.Writable.write (_stream_writable.js:318:11)
+    at TLSSocket.socketOnData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:872:35)
+    at TLSSocket.emit (events.js:315:20)
+[debug][17:40:47] Debug mode enabled
+[debug][17:40:47] MongoDB: Connected
+[debug][17:40:48] Discord: Ready
+[debug][17:40:48] Connected to Zeus's Sandbox
+[debug][17:40:48] Loaded 12 commands
+[error][17:40:50] TypeError: client.channels.get is not a function
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:103:34)
+    at Client.emit (events.js:315:20)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:295:27)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Receiver.Writable.write (_stream_writable.js:318:11)
+    at TLSSocket.socketOnData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:872:35)
+    at TLSSocket.emit (events.js:315:20)
+[debug][17:41:09] Debug mode enabled
+[debug][17:41:09] MongoDB: Connected
+[debug][17:41:10] Discord: Ready
+[debug][17:41:10] Connected to Zeus's Sandbox
+[debug][17:41:10] Loaded 12 commands
+[error][17:41:12] TypeError: client.channels.fetch.get is not a function
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:103:40)
+    at Client.emit (events.js:315:20)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:295:27)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Receiver.Writable.write (_stream_writable.js:318:11)
+    at TLSSocket.socketOnData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:872:35)
+    at TLSSocket.emit (events.js:315:20)
+[debug][17:41:48] Debug mode enabled
+[debug][17:41:48] MongoDB: Connected
+[debug][17:41:49] Discord: Ready
+[debug][17:41:49] Connected to Zeus's Sandbox
+[debug][17:41:49] Loaded 12 commands
+[error][17:41:51] TypeError: Cannot read property 'get' of undefined
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:103:46)
+    at Client.emit (events.js:315:20)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:295:27)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Receiver.Writable.write (_stream_writable.js:318:11)
+    at TLSSocket.socketOnData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:872:35)
+    at TLSSocket.emit (events.js:315:20)
+[debug][17:46:13] Debug mode enabled
+[debug][17:46:14] MongoDB: Connected
+[debug][17:46:15] Discord: Ready
+[debug][17:46:15] Connected to Zeus's Sandbox
+[debug][17:46:15] Loaded 12 commands
+[debug][17:46:57] Debug mode enabled
+[debug][17:46:58] MongoDB: Connected
+[debug][17:46:59] Discord: Ready
+[debug][17:46:59] Connected to Zeus's Sandbox
+[debug][17:46:59] Loaded 12 commands
+[debug][17:48:06] Debug mode enabled
+[debug][17:48:06] MongoDB: Connected
+[debug][17:48:07] Discord: Ready
+[debug][17:48:07] Connected to Zeus's Sandbox
+[debug][17:48:07] Loaded 12 commands
+[debug][17:48:45] Debug mode enabled
+[debug][17:48:45] MongoDB: Connected
+[debug][17:48:46] Reconnecting to shard
+[debug][17:48:52] Discord: Ready
+[debug][17:48:52] Connected to Zeus's Sandbox
+[debug][17:48:52] Loaded 12 commands
+[debug][17:52:19] Debug mode enabled
+[debug][17:52:19] MongoDB: Connected
+[debug][17:52:20] Discord: Ready
+[debug][17:52:20] Connected to Zeus's Sandbox
+[debug][17:52:20] Loaded 12 commands
+[debug][17:53:27] Debug mode enabled
+[debug][17:53:27] MongoDB: Connected
+[debug][17:53:28] Discord: Ready
+[debug][17:53:28] Connected to Zeus's Sandbox
+[debug][17:53:28] Loaded 12 commands
+[debug][17:53:34] Debug mode enabled
+[debug][17:53:34] MongoDB: Connected
+[debug][17:53:35] Discord: Ready
+[debug][17:53:35] Connected to Zeus's Sandbox
+[debug][17:53:35] Loaded 12 commands
+[debug][17:53:59] Debug mode enabled
+[debug][17:53:59] Loaded 12 commands
+[debug][17:53:59] MongoDB: Connected
+[debug][17:54:00] Discord: Ready
+[debug][17:54:00] Connected to Zeus's Sandbox
+[debug][17:54:54] Debug mode enabled
+[debug][17:54:54] Loaded 12 commands
+[debug][17:54:54] MongoDB: Connected
+[debug][17:54:55] Discord: Ready
+[debug][17:54:55] Connected to Zeus's Sandbox
+[debug][17:59:00] Debug mode enabled
+[debug][17:59:00] Loaded 12 commands
+[debug][17:59:00] MongoDB: Connected
+[debug][17:59:02] Discord: Ready
+[debug][17:59:02] Connected to Zeus's Sandbox
+[debug][18:00:13] Debug mode enabled
+[debug][18:00:13] Loaded 12 commands
+[debug][18:00:14] MongoDB: Connected
+[debug][18:00:15] Discord: Ready
+[debug][18:00:15] Connected to Zeus's Sandbox
+[debug][18:00:32] Debug mode enabled
+[debug][18:00:32] Loaded 12 commands
+[debug][18:00:32] MongoDB: Connected
+[debug][18:00:33] Discord: Ready
+[debug][18:00:33] Connected to Zeus's Sandbox
+[info][18:00:42] [#rs8-orders] @Zeus: $test <@!763221581164970024>
+[error][18:00:42] TypeError: Cannot read property '1' of null
+    at Object.getUserIdFromMention (C:\Users\Cody\Desktop\SALBOT\test\modules\functions.js:17:22)
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\test.js:14:33)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:62:21)
+    at Client.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+[debug][18:01:03] Debug mode enabled
+[debug][18:01:03] Loaded 12 commands
+[debug][18:01:03] MongoDB: Connected
+[debug][18:01:04] Discord: Ready
+[debug][18:01:04] Connected to Zeus's Sandbox
+[info][18:01:11] [#rs8-orders] @Zeus: $test <@!763221581164970024>
+[error][18:01:11] TypeError: Cannot read property '1' of null
+    at Object.getUserIdFromMention (C:\Users\Cody\Desktop\SALBOT\test\modules\functions.js:18:22)
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\test.js:14:33)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:62:21)
+    at Client.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+[debug][18:01:24] Debug mode enabled
+[debug][18:01:24] Loaded 12 commands
+[debug][18:01:24] MongoDB: Connected
+[debug][18:01:25] Discord: Ready
+[debug][18:01:25] Connected to Zeus's Sandbox
+[info][18:01:33] [#rs8-orders] @Zeus: $test <@!720574566761496596>
+[error][18:01:33] TypeError: Cannot read property '1' of null
+    at Object.getUserIdFromMention (C:\Users\Cody\Desktop\SALBOT\test\modules\functions.js:18:22)
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\test.js:14:33)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:62:21)
+    at Client.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+[debug][18:01:49] Debug mode enabled
+[debug][18:01:49] Loaded 12 commands
+[debug][18:01:49] MongoDB: Connected
+[debug][18:01:50] Discord: Ready
+[debug][18:01:50] Connected to Zeus's Sandbox
+[info][18:01:57] [#rs8-orders] @Zeus: $test <@!763221581164970024>
+[error][18:01:57] TypeError: Cannot read property '1' of null
+    at Object.getUserIdFromMention (C:\Users\Cody\Desktop\SALBOT\test\modules\functions.js:18:22)
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\test.js:14:33)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:62:21)
+    at Client.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+[debug][18:02:17] Debug mode enabled
+[debug][18:02:17] Loaded 12 commands
+[debug][18:02:17] MongoDB: Connected
+[debug][18:02:18] Discord: Ready
+[debug][18:02:18] Connected to Zeus's Sandbox
+[debug][18:02:30] Debug mode enabled
+[debug][18:02:30] Loaded 12 commands
+[debug][18:02:30] MongoDB: Connected
+[debug][18:02:31] Discord: Ready
+[debug][18:02:31] Connected to Zeus's Sandbox
+[info][18:02:52] [#rs8-orders] @Zeus: $test <@!763221581164970024>
+[error][18:02:52] TypeError: Cannot read property '1' of null
+    at Object.getUserIdFromMention (C:\Users\Cody\Desktop\SALBOT\test\modules\functions.js:18:22)
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\test.js:14:33)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:62:21)
+    at Client.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+[debug][18:04:24] Debug mode enabled
+[debug][18:04:24] Loaded 12 commands
+[debug][18:04:24] MongoDB: Connected
+[debug][18:04:25] Discord: Ready
+[debug][18:04:25] Connected to Zeus's Sandbox
+[info][18:04:33] [#rs8-orders] @Zeus: $test <@!763221581164970024>
+[error][18:04:33] DiscordAPIError: Cannot send an empty message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][18:05:39] Debug mode enabled
+[debug][18:05:39] Loaded 12 commands
+[debug][18:05:39] MongoDB: Connected
+[debug][18:05:40] Discord: Ready
+[debug][18:05:40] Connected to Zeus's Sandbox
+[info][18:05:46] [#rs8-orders] @Zeus: $test <@!763221581164970024>
+[debug][18:09:53] Debug mode enabled
+[debug][18:09:53] Loaded 12 commands
+[debug][18:09:53] MongoDB: Connected
+[debug][18:09:54] Discord: Ready
+[debug][18:09:54] Connected to Zeus's Sandbox
+[info][18:10:00] [#rs8-orders] @Zeus: $order 20 5
+[error][18:10:00] TypeError: Cannot read property '1' of null
+    at Object.getUserIdFromMention (C:\Users\Cody\Desktop\SALBOT\test\modules\functions.js:18:22)
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\order.js:13:33)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:62:21)
+    at Client.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+[debug][18:11:10] Debug mode enabled
+[debug][18:11:10] Loaded 12 commands
+[debug][18:11:10] MongoDB: Connected
+[debug][18:11:11] Discord: Ready
+[debug][18:11:11] Connected to Zeus's Sandbox
+[info][18:11:15] [#rs8-orders] @Zeus: $order 20 5
+[cmd][18:11:16] [#rs8-orders] @Zeus created an order (20xR5 : 7xR8)
+[info][18:11:27] [#rs8-orders] @Zeus: $order <@!720574566761496596> 20 5
+[cmd][18:11:27] [#rs8-orders] @Zeus created an order (20xR5 : 7xR8)
+[debug][18:14:24] Debug mode enabled
+[debug][18:14:24] Loaded 12 commands
+[debug][18:14:24] MongoDB: Connected
+[debug][18:14:25] Discord: Ready
+[debug][18:14:25] Connected to Zeus's Sandbox
+[debug][18:14:28] Debug mode enabled
+[debug][18:14:28] Loaded 12 commands
+[debug][18:14:28] MongoDB: Connected
+[debug][18:14:30] Reconnecting to shard
+[debug][18:14:36] Discord: Ready
+[debug][18:14:36] Connected to Zeus's Sandbox
+[info][18:14:37] [#rs8-orders] @Zeus: $order <@!720574566761496596> 20 5
+[error][18:14:37] ReferenceError: user is not defined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\order.js:13:52)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:62:21)
+    at Client.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+[debug][18:14:55] Debug mode enabled
+[debug][18:14:55] Loaded 12 commands
+[debug][18:14:55] MongoDB: Connected
+[debug][18:14:56] Discord: Ready
+[debug][18:14:56] Connected to Zeus's Sandbox
+[info][18:15:02] [#rs8-orders] @Zeus: $order <@!720574566761496596> 20 5
+[error][18:15:02] TypeError: Cannot read property 'id' of undefined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\order.js:13:62)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:62:21)
+    at Client.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+[debug][18:15:40] Debug mode enabled
+[debug][18:15:40] Loaded 12 commands
+[debug][18:15:40] MongoDB: Connected
+[debug][18:15:41] Discord: Ready
+[debug][18:15:41] Connected to Zeus's Sandbox
+[info][18:15:48] [#rs8-orders] @Zeus: $order <@!720574566761496596> 20 5
+[error][18:15:48] TypeError: Cannot read property 'hasPermission' of undefined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\order.js:13:33)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:62:21)
+    at Client.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+[debug][18:16:19] Debug mode enabled
+[debug][18:16:20] Loaded 12 commands
+[debug][18:16:20] MongoDB: Connected
+[debug][18:16:21] Discord: Ready
+[debug][18:16:21] Connected to Zeus's Sandbox
+[info][18:16:28] [#rs8-orders] @Zeus: $order <@!720574566761496596> 20 5
+[error][18:16:28] TypeError: Cannot read property 'hasPermission' of undefined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\order.js:13:40)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:62:21)
+    at Client.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+[debug][18:16:38] Debug mode enabled
+[debug][18:16:38] Loaded 12 commands
+[debug][18:16:38] MongoDB: Connected
+[debug][18:16:39] Discord: Ready
+[debug][18:16:39] Connected to Zeus's Sandbox
+[debug][18:17:18] Debug mode enabled
+[debug][18:17:18] Loaded 12 commands
+[debug][18:17:18] MongoDB: Connected
+[debug][18:17:19] Discord: Ready
+[debug][18:17:19] Connected to Zeus's Sandbox
+[info][18:17:27] [#rs8-orders] @Zeus: $order <@!720574566761496596> 20 5
+[cmd][18:17:27] [#rs8-orders] @Zeus created an order (20xR5 : 7xR8)
+[debug][18:20:15] Debug mode enabled
+[debug][18:20:15] Loaded 12 commands
+[debug][18:20:15] MongoDB: Connected
+[debug][18:20:16] Discord: Ready
+[debug][18:20:16] Connected to Zeus's Sandbox
+[debug][18:21:26] Debug mode enabled
+[debug][18:21:26] Loaded 12 commands
+[debug][18:21:26] MongoDB: Connected
+[debug][18:21:27] Discord: Ready
+[debug][18:21:27] Connected to Zeus's Sandbox
+[debug][18:21:45] Debug mode enabled
+[debug][18:21:45] Loaded 12 commands
+[debug][18:21:45] MongoDB: Connected
+[debug][18:21:46] Discord: Ready
+[debug][18:21:46] Connected to Zeus's Sandbox
+[debug][18:21:52] Debug mode enabled
+[debug][18:21:52] Loaded 12 commands
+[debug][18:21:52] MongoDB: Connected
+[debug][18:21:52] Discord: Ready
+[debug][18:21:52] Connected to Zeus's Sandbox
+[debug][18:22:15] Debug mode enabled
+[debug][18:22:15] Loaded 12 commands
+[debug][18:22:15] MongoDB: Connected
+[debug][18:22:16] Discord: Ready
+[debug][18:22:16] Connected to Zeus's Sandbox
+[debug][18:28:50] Debug mode enabled
+[debug][18:28:50] Loaded 12 commands
+[debug][18:28:50] MongoDB: Connected
+[debug][18:28:51] Discord: Ready
+[debug][18:28:51] Connected to Zeus's Sandbox
+[debug][18:29:25] Debug mode enabled
+[debug][18:29:25] Loaded 12 commands
+[debug][18:29:25] MongoDB: Connected
+[debug][18:29:26] Discord: Ready
+[debug][18:29:26] Connected to Zeus's Sandbox
+[debug][18:39:08] Debug mode enabled
+[debug][18:39:08] Loaded 12 commands
+[debug][18:39:08] MongoDB: Connected
+[debug][18:39:09] Discord: Ready
+[debug][18:39:09] Connected to Zeus's Sandbox
+[debug][18:39:41] Debug mode enabled
+[debug][18:39:41] Loaded 12 commands
+[debug][18:39:41] MongoDB: Connected
+[debug][18:39:42] Discord: Ready
+[debug][18:39:42] Connected to Zeus's Sandbox
+[debug][18:58:39] Debug mode enabled
+[debug][18:58:39] Loaded 12 commands
+[debug][18:58:39] MongoDB: Connected
+[debug][18:58:40] Discord: Ready
+[debug][18:58:40] Connected to Zeus's Sandbox
+[debug][18:58:59] Debug mode enabled
+[debug][18:58:59] Loaded 12 commands
+[debug][18:58:59] MongoDB: Connected
+[debug][18:59:00] Discord: Ready
+[debug][18:59:00] Connected to Zeus's Sandbox
+[info][19:00:58] [#rs8-orders] @Zeus: $order <@!720574566761496596> 20 5 mix
+[cmd][19:00:58] [#rs8-orders] @Zeus created an order (20xR5 : 7xR8)
+[debug][19:03:44] Debug mode enabled
+[debug][19:03:44] Loaded 12 commands
+[debug][19:03:44] MongoDB: Connected
+[debug][19:03:45] Discord: Ready
+[debug][19:03:45] Connected to Zeus's Sandbox
+[debug][19:03:56] Debug mode enabled
+[debug][19:03:56] Loaded 12 commands
+[debug][19:03:56] MongoDB: Connected
+[debug][19:03:57] Discord: Ready
+[debug][19:03:57] Connected to Zeus's Sandbox
+[info][19:04:02] [#rs8-orders] @Zeus: $admin delete 24
+[debug][19:04:35] Debug mode enabled
+[debug][19:04:35] Loaded 12 commands
+[debug][19:04:35] MongoDB: Connected
+[debug][19:04:36] Discord: Ready
+[debug][19:04:36] Connected to Zeus's Sandbox
+[info][19:04:48] [#rs8-orders] @Zeus: $admin clear all
+[info][19:04:54] [#rs6-orders] @Zeus: $admin clear all
+[info][19:04:58] [#discussion] @Zeus: $admin clear all
+[info][19:05:00] [#general] @Zeus: $admin clear all
+[error][19:05:18] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][19:05:24] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[info][19:05:49] [#rs8-orders] @Zeus: $order 20 5
+[cmd][19:05:49] [#rs8-orders] @Zeus created an order (20xR5 : 7xR8)
+[info][19:06:05] [#rs8-orders] @Zeus: $admin delete 1
+[info][19:06:30] [#rs8-orders] @Zeus: $order <@!720574566761496596> 20 5
+[cmd][19:06:31] [#rs8-orders] @Zeus created an order (20xR5 : 7xR8)
+[error][19:06:36] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[info][19:06:48] [#rs8-orders] @Zeus: $admin delete 2
+[error][19:06:48] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][19:07:21] Debug mode enabled
+[debug][19:07:21] Loaded 12 commands
+[debug][19:07:21] MongoDB: Connected
+[debug][19:07:22] Discord: Ready
+[debug][19:07:22] Connected to Zeus's Sandbox
+[info][19:07:27] [#rs8-orders] @Zeus: $admin delete 2
+[error][19:07:27] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][19:07:36] Debug mode enabled
+[debug][19:07:36] Loaded 12 commands
+[debug][19:07:36] MongoDB: Connected
+[debug][19:07:37] Discord: Ready
+[debug][19:07:37] Connected to Zeus's Sandbox
+[info][19:07:41] [#rs8-orders] @Zeus: $admin delete 2
+[error][19:07:41] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][19:07:50] Debug mode enabled
+[debug][19:07:50] Loaded 12 commands
+[debug][19:07:50] MongoDB: Connected
+[debug][19:07:51] Discord: Ready
+[debug][19:07:51] Connected to Zeus's Sandbox
+[info][19:08:06] [#rs8-orders] @Zeus: $admin delete 2
+[error][19:08:06] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][19:08:41] Debug mode enabled
+[debug][19:08:41] Loaded 12 commands
+[debug][19:08:41] MongoDB: Connected
+[debug][19:08:42] Discord: Ready
+[debug][19:08:42] Connected to Zeus's Sandbox
+[info][19:08:44] [#rs8-orders] @Zeus: $admin delete 2
+[error][19:08:45] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][19:09:01] Debug mode enabled
+[debug][19:09:01] Loaded 12 commands
+[debug][19:09:01] MongoDB: Connected
+[debug][19:09:02] Discord: Ready
+[debug][19:09:02] Connected to Zeus's Sandbox
+[info][19:09:09] [#rs8-orders] @Zeus: $admin delete 2
+[error][19:09:09] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][19:09:21] Debug mode enabled
+[debug][19:09:21] Loaded 12 commands
+[debug][19:09:21] MongoDB: Connected
+[debug][19:09:22] Discord: Ready
+[debug][19:09:22] Connected to Zeus's Sandbox
+[debug][19:09:26] Debug mode enabled
+[debug][19:09:26] Loaded 12 commands
+[debug][19:09:26] MongoDB: Connected
+[debug][19:09:26] Reconnecting to shard
+[debug][19:09:32] Discord: Ready
+[debug][19:09:32] Connected to Zeus's Sandbox
+[info][19:09:34] [#rs8-orders] @Zeus: $admin delete 2
+[error][19:09:34] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][19:09:55] Debug mode enabled
+[debug][19:09:55] Loaded 12 commands
+[debug][19:09:55] MongoDB: Connected
+[debug][19:09:56] Discord: Ready
+[debug][19:09:56] Connected to Zeus's Sandbox
+[info][19:10:01] [#rs8-orders] @Zeus: $admin delete 2
+[debug][19:10:36] Debug mode enabled
+[debug][19:10:36] Loaded 12 commands
+[debug][19:10:36] MongoDB: Connected
+[debug][19:10:37] Discord: Ready
+[debug][19:10:37] Connected to Zeus's Sandbox
+[info][19:10:41] [#rs8-orders] @Zeus: $admin delete 2
+[error][19:10:41] TypeError: Cannot read property 'deleteOne' of null
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\admin.js:28:27)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)
+[debug][19:11:03] Debug mode enabled
+[debug][19:11:03] Loaded 12 commands
+[debug][19:11:03] MongoDB: Connected
+[debug][19:11:04] Discord: Ready
+[debug][19:11:04] Connected to Zeus's Sandbox
+[info][19:11:08] [#rs8-orders] @Zeus: $admin delete 2
+[debug][19:12:04] Debug mode enabled
+[debug][19:12:04] Loaded 12 commands
+[debug][19:12:04] MongoDB: Connected
+[debug][19:12:05] Discord: Ready
+[debug][19:12:05] Connected to Zeus's Sandbox
+[debug][19:13:27] Loaded 12 commands
+[debug][19:13:27] MongoDB: Connected
+[debug][19:13:28] Discord: Ready
+[debug][19:13:28] Connected to SALTARDIS
+[info][19:13:45] [#rs4-orders] @Zeus: $order 20 3 test
+[cmd][19:13:46] [#rs4-orders] @Zeus created an order (20xR3 : 10xR4)
+[info][19:13:54] [#rs4-orders] @Zeus: $admin delete 1
+[info][19:14:23] [#rs4-orders] @Zeus: $order <@!567540135340539904> 5 7 orbs please
+[cmd][19:14:24] [#rs4-orders] @Zeus created an order (5xR7 : 20xR4)
+[info][19:14:40] [#rs4-orders] @Zeus: $order <@!567540135340539904> 5 7 yes, I need both orders filled
+[cmd][19:14:40] [#rs4-orders] @Zeus created an order (5xR7 : 20xR4)
+[error][19:14:54] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\1.0.8\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error][19:15:10] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\1.0.8\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[info][19:17:04] [#discussion] @CrimsonStains: $rates 8 4
+[error][19:17:04] ReferenceError: channels is not defined
+    at C:\Users\Cody\Desktop\SALBOT\1.0.8\commands\rates.js:54:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[info][19:17:14] [#discussion] @CrimsonStains: $rates 8 10
+[error][19:17:14] ReferenceError: channels is not defined
+    at C:\Users\Cody\Desktop\SALBOT\1.0.8\commands\rates.js:54:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[info][19:17:37] [#discussion] @CrimsonStains: $rates 8 5
+[error][19:17:37] ReferenceError: channels is not defined
+    at C:\Users\Cody\Desktop\SALBOT\1.0.8\commands\rates.js:54:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[info][19:18:01] [#rs4-orders] @Zeus: $stats
+[info][19:19:47] [#rs4-orders] @Zeus: $list
+[info][19:20:00] [#bot-commands] @CrimsonStains: $help
+[info][19:20:23] [#rs8-orders] @CrimsonStains: $order 14 5
+[cmd][19:20:23] [#rs8-orders] @CrimsonStains created an order (14xR5 : 5xR8)
+[info][19:21:03] [#discussion] @Deth Circus 238: $rates spam
+[debug][19:25:24] Loaded 12 commands
+[debug][19:25:24] MongoDB: Connected
+[debug][19:25:25] Discord: Ready
+[debug][19:25:25] Connected to SALTARDIS
+[debug][19:27:42] Loaded 12 commands
+[debug][19:27:42] MongoDB: Connected
+[debug][19:27:43] Discord: Ready
+[debug][19:27:43] Connected to SALTARDIS
+[info][19:27:52] [#bot-commands] @Zeus: $help
+[info][19:29:49] [#rs8-orders] @CrimsonEmpress: $accept 0004
+[cmd][19:29:49] [#rs8-orders] @CrimsonEmpress accepted an order
+[info][19:31:47] [#bot-help] @Zeus: $help
+[info][19:41:42] [#rs8-orders] @CrimsonEmpress: $complete 0004
+[cmd][19:41:42] [#rs8-orders] @CrimsonEmpress completed an order
+[debug][19:51:14] Debug mode enabled
+[debug][19:51:14] Loaded 12 commands
+[debug][19:51:14] MongoDB: Connected
+[debug][19:51:15] Discord: Ready
+[debug][19:51:15] Connected to Zeus's Sandbox
+[debug][19:52:23] Debug mode enabled
+[debug][19:52:23] Loaded 12 commands
+[debug][19:52:23] MongoDB: Connected
+[debug][19:52:24] Discord: Ready
+[debug][19:52:24] Connected to Zeus's Sandbox
+[debug][19:52:59] Debug mode enabled
+[debug][19:52:59] Loaded 13 commands
+[debug][19:52:59] MongoDB: Connected
+[debug][19:53:00] Discord: Ready
+[debug][19:53:00] Connected to Zeus's Sandbox
+[debug][19:53:04] Debug mode enabled
+[debug][19:53:04] Loaded 13 commands
+[debug][19:53:04] MongoDB: Connected
+[debug][19:53:05] Discord: Ready
+[debug][19:53:05] Connected to Zeus's Sandbox
+[debug][19:56:12] Debug mode enabled
+[debug][19:56:12] Loaded 13 commands
+[debug][19:56:12] MongoDB: Connected
+[debug][19:56:13] Discord: Ready
+[debug][19:56:13] Connected to Zeus's Sandbox
+[debug][19:58:16] Debug mode enabled
+[debug][19:58:16] Loaded 13 commands
+[debug][19:58:16] MongoDB: Connected
+[debug][19:58:17] Discord: Ready
+[debug][19:58:17] Connected to Zeus's Sandbox
+[info][19:58:30] [#rs8-orders] @Zeus: $edit 1
+[debug][19:58:42] Debug mode enabled
+[debug][19:58:42] Loaded 13 commands
+[debug][19:58:42] MongoDB: Connected
+[debug][19:58:43] Discord: Ready
+[debug][19:58:43] Connected to Zeus's Sandbox
+[info][19:58:50] [#rs8-orders] @Zeus: $edit 1
+[error][19:58:50] TypeError: Cannot read property 'channelId' of null
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\edit.js:22:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)
+[debug][19:59:14] Debug mode enabled
+[debug][19:59:14] Loaded 13 commands
+[debug][19:59:14] MongoDB: Connected
+[debug][19:59:15] Discord: Ready
+[debug][19:59:15] Connected to Zeus's Sandbox
+[info][19:59:19] [#rs8-orders] @Zeus: $edit 1
+[info][19:59:26] [#rs8-orders] @Zeus: $order 20 3
+[cmd][19:59:27] [#rs8-orders] @Zeus created an order (20xR3 : 3xR8)
+[info][19:59:35] [#rs8-orders] @Zeus: $edit 3
+[debug][20:00:22] Debug mode enabled
+[debug][20:00:23] Loaded 13 commands
+[debug][20:00:23] MongoDB: Connected
+[debug][20:00:24] Discord: Ready
+[debug][20:00:24] Connected to Zeus's Sandbox
+[debug][20:00:39] Debug mode enabled
+[debug][20:00:39] Loaded 13 commands
+[debug][20:00:39] MongoDB: Connected
+[debug][20:00:40] Discord: Ready
+[debug][20:00:40] Connected to Zeus's Sandbox
+[info][20:00:47] [#rs8-orders] @Zeus: $edit 3
+[debug][20:02:17] Debug mode enabled
+[debug][20:02:17] Loaded 13 commands
+[debug][20:02:17] MongoDB: Connected
+[debug][20:02:19] Discord: Ready
+[debug][20:02:19] Connected to Zeus's Sandbox
+[debug][20:02:33] Debug mode enabled
+[debug][20:02:34] Loaded 13 commands
+[debug][20:02:34] MongoDB: Connected
+[debug][20:02:35] Discord: Ready
+[debug][20:02:35] Connected to Zeus's Sandbox
+[info][20:03:02] [#rs8-orders] @Zeus: $edit 3 30 4 mix
+[error][20:03:02] ReferenceError: globals is not defined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\edit.js:91:51)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][20:03:33] Debug mode enabled
+[debug][20:03:33] Loaded 13 commands
+[debug][20:03:33] MongoDB: Connected
+[debug][20:03:34] Discord: Ready
+[debug][20:03:34] Connected to Zeus's Sandbox
+[info][20:04:00] [#rs8-orders] @Zeus: $edit 3 30 5 mix
+[error][20:04:00] ReferenceError: buyerId is not defined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\edit.js:99:34)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][20:04:31] Debug mode enabled
+[debug][20:04:31] Loaded 13 commands
+[debug][20:04:31] MongoDB: Connected
+[debug][20:04:32] Discord: Ready
+[debug][20:04:32] Connected to Zeus's Sandbox
+[info][20:04:39] [#rs8-orders] @Zeus: $edit 3 30 5 mix
+[cmd][20:04:39] [#rs8-orders] @Zeus created an order (30xR5 : 10xR8)
+[debug][20:09:43] Debug mode enabled
+[debug][20:09:43] Loaded 13 commands
+[debug][20:09:43] MongoDB: Connected
+[debug][20:09:44] Discord: Ready
+[debug][20:09:44] Connected to Zeus's Sandbox
+[info][20:09:56] [#rs8-orders] @Zeus: $edit 6 20 6 tets
+[cmd][20:09:57] [#rs8-orders] @Zeus created an order (20xR6 : 10xR8)
+[debug][20:10:46] Debug mode enabled
+[debug][20:10:46] Loaded 13 commands
+[debug][20:10:46] MongoDB: Connected
+[debug][20:10:47] Discord: Ready
+[debug][20:10:47] Connected to Zeus's Sandbox
+[info][20:11:10] [#rs8-orders] @Zeus: $edit 7 30 4 mix
+[debug][20:11:47] Debug mode enabled
+[debug][20:11:47] Loaded 13 commands
+[debug][20:11:47] MongoDB: Connected
+[debug][20:11:48] Discord: Ready
+[debug][20:11:48] Connected to Zeus's Sandbox
+[info][20:11:54] [#rs8-orders] @Zeus: $edit 6 30 4 mix
+[cmd][20:11:55] [#rs8-orders] @Zeus created an order (30xR4 : 7xR8)
+[debug][20:12:25] Debug mode enabled
+[debug][20:12:25] Loaded 13 commands
+[debug][20:12:25] MongoDB: Connected
+[debug][20:12:26] Discord: Ready
+[debug][20:12:26] Connected to Zeus's Sandbox
+[info][20:12:49] [#rs8-orders] @Zeus: $edit 7 40 3 tets
+[info][20:12:58] [#rs8-orders] @Zeus: $edit 6 40 3 tets
+[cmd][20:12:59] [#rs8-orders] @Zeus created an order (40xR3 : 5xR8)
+[debug][20:14:46] Debug mode enabled
+[debug][20:14:46] Loaded 13 commands
+[debug][20:14:46] MongoDB: Connected
+[debug][20:14:47] Discord: Ready
+[debug][20:14:47] Connected to Zeus's Sandbox
+[debug][20:15:37] Debug mode enabled
+[debug][20:15:37] Loaded 13 commands
+[debug][20:15:37] MongoDB: Connected
+[debug][20:15:38] Discord: Ready
+[debug][20:15:38] Connected to Zeus's Sandbox
+[debug][20:19:12] Debug mode enabled
+[debug][20:19:12] Loaded 13 commands
+[debug][20:19:12] MongoDB: Connected
+[debug][20:19:13] Discord: Ready
+[debug][20:19:13] Connected to Zeus's Sandbox
+[debug][20:19:21] Debug mode enabled
+[debug][20:19:21] Loaded 13 commands
+[debug][20:19:21] MongoDB: Connected
+[debug][20:19:23] Discord: Ready
+[debug][20:19:23] Connected to Zeus's Sandbox
+[debug][20:20:22] Debug mode enabled
+[debug][20:20:22] Loaded 13 commands
+[debug][20:20:22] MongoDB: Connected
+[debug][20:20:23] Discord: Ready
+[debug][20:20:23] Connected to Zeus's Sandbox
+[info][20:20:39] [#rs8-orders] @Zeus: $edit 6 20 7 mix
+[cmd][20:20:40] [#rs8-orders] @Zeus created an order (20xR7 : 14xR8)
+[info][20:20:57] [#rs8-orders] @Zeus: $cancel 6
+[cmd][20:20:57] [#rs8-orders] @Zeus cancelled an order
+[info][20:21:04] [#rs8-orders] @Zeus: $edit 6 20 5 mix
+[debug][20:22:54] Debug mode enabled
+[debug][20:22:54] Loaded 13 commands
+[debug][20:22:54] MongoDB: Connected
+[debug][20:22:55] Discord: Ready
+[debug][20:22:55] Connected to Zeus's Sandbox
+[debug][20:24:23] Debug mode enabled
+[debug][20:24:23] Loaded 13 commands
+[debug][20:24:23] MongoDB: Connected
+[debug][20:24:24] Discord: Ready
+[debug][20:24:24] Connected to Zeus's Sandbox
+[info][20:24:45] [#rs8-orders] @Zeus: $order 20 5 mix
+[cmd][20:24:45] [#rs8-orders] @Zeus created an order (20xR5 : 7xR8)
+[debug][20:25:37] Debug mode enabled
+[debug][20:25:37] Loaded 13 commands
+[debug][20:25:37] MongoDB: Connected
+[debug][20:25:38] Discord: Ready
+[debug][20:25:38] Connected to Zeus's Sandbox
+[info][20:25:51] [#rs8-orders] @Zeus: $edit 8 40 3 tets
+[cmd][20:25:52] [#rs8-orders] @Zeus created an order (40xR3 : 5xR8)
+[debug][20:26:29] Debug mode enabled
+[debug][20:26:29] Loaded 13 commands
+[debug][20:26:30] MongoDB: Connected
+[debug][20:26:30] Discord: Ready
+[debug][20:26:30] Connected to Zeus's Sandbox
+[info][20:26:38] [#rs8-orders] @Zeus: $edit 8 20 5 mix
+[error][20:26:38] DiscordAPIError: Unknown Message
+    at RequestHandler.execute (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][20:27:15] Debug mode enabled
+[debug][20:27:15] Loaded 13 commands
+[debug][20:27:15] MongoDB: Connected
+[debug][20:27:16] Discord: Ready
+[debug][20:27:16] Connected to Zeus's Sandbox
+[info][20:27:23] [#rs8-orders] @Zeus: $order 20 5 mix
+[cmd][20:27:23] [#rs8-orders] @Zeus created an order (20xR5 : 7xR8)
+[info][20:27:34] [#rs8-orders] @Zeus: $edit 9 40 7
+[cmd][20:27:34] [#rs8-orders] @Zeus created an order (40xR7 : 27xR8)
+[info][20:28:06] [#rs8-orders] @Zeus: $edit 9 20 12
+[info][20:28:15] [#rs8-orders] @Zeus: $edit 9 1
+[info][20:28:29] [#rs8-orders] @Zeus: $edit 9 1 1
+[info][20:28:43] [#rs8-orders] @Zeus: $edit 9 1 3
+[cmd][20:28:43] [#rs8-orders] @Zeus created an order (1xR3 : 1xR8)
+[debug][20:29:33] Debug mode enabled
+[debug][20:29:33] Loaded 13 commands
+[debug][20:29:33] MongoDB: Connected
+[debug][20:29:34] Discord: Ready
+[debug][20:29:34] Connected to Zeus's Sandbox
+[debug][20:30:27] Debug mode enabled
+[debug][20:30:27] Loaded 13 commands
+[debug][20:30:27] MongoDB: Connected
+[debug][20:30:28] Discord: Ready
+[debug][20:30:28] Connected to Zeus's Sandbox
+[info][20:30:32] [#rs8-orders] @Zeus: $help
+[debug][20:33:16] Debug mode enabled
+[debug][20:33:16] Loaded 13 commands
+[debug][20:33:16] MongoDB: Connected
+[debug][20:33:17] Discord: Ready
+[debug][20:33:17] Connected to Zeus's Sandbox
+[info][20:33:21] [#rs8-orders] @Zeus: $help
+[debug][20:33:42] Debug mode enabled
+[debug][20:33:42] Loaded 13 commands
+[debug][20:33:42] MongoDB: Connected
+[debug][20:33:43] Discord: Ready
+[debug][20:33:43] Connected to Zeus's Sandbox
+[info][20:33:47] [#rs8-orders] @Zeus: $help
+[debug][20:38:09] Debug mode enabled
+[debug][20:38:09] Loaded 13 commands
+[debug][20:38:09] MongoDB: Connected
+[debug][20:38:10] Discord: Ready
+[debug][20:38:10] Connected to Zeus's Sandbox
+[info][20:38:35] [#rs8-orders] @Zeus: $help
+[debug][20:52:28] Debug mode enabled
+[debug][20:52:28] Loaded 13 commands
+[debug][20:52:28] MongoDB: Connected
+[debug][20:52:29] Discord: Ready
+[debug][20:52:29] Connected to Zeus's Sandbox
+[info][20:52:40] [#rs8-orders] @Zeus: $admin clear all
+[info][20:52:57] [#rs8-orders] @Zeus: $admin delete 1
+[info][20:53:00] [#rs8-orders] @Zeus: $list
+[info][20:53:26] [#rs8-orders] @Zeus: $admin delete 3
+[info][20:53:29] [#rs8-orders] @Zeus: $admin delete 8
+[info][20:53:32] [#rs8-orders] @Zeus: $admin delete 9
+[debug][20:54:36] Debug mode enabled
+[debug][20:54:36] Loaded 13 commands
+[debug][20:54:36] MongoDB: Connected
+[debug][20:54:37] Discord: Ready
+[debug][20:54:37] Connected to Zeus's Sandbox
+[info][20:55:07] [#rs8-orders] @Zeus: $admin delete 4
+[error][20:55:07] TypeError: "cmd" is not a function
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\admin.js:32:38)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)
+[debug][20:55:24] Debug mode enabled
+[debug][20:55:24] Loaded 13 commands
+[debug][20:55:24] MongoDB: Connected
+[debug][20:55:25] Discord: Ready
+[debug][20:55:25] Connected to Zeus's Sandbox
+[info][20:55:32] [#rs8-orders] @Zeus: $admin delete 5
+[cmd][20:55:32] Order #delete was deleted
+[debug][20:55:46] Debug mode enabled
+[debug][20:55:46] Loaded 13 commands
+[debug][20:55:46] MongoDB: Connected
+[debug][20:55:47] Discord: Ready
+[debug][20:55:47] Connected to Zeus's Sandbox
+[info][20:55:52] [#rs8-orders] @Zeus: $admin delete 6
+[cmd][20:55:52] Order #6 was deleted
+[debug][20:56:27] Debug mode enabled
+[debug][20:56:27] Loaded 13 commands
+[debug][20:56:27] MongoDB: Connected
+[debug][20:56:28] Discord: Ready
+[debug][20:56:28] Connected to Zeus's Sandbox
+[info][20:56:36] [#rs8-orders] @Zeus: $admin delete 7
+[debug][20:57:25] Debug mode enabled
+[debug][20:57:25] Loaded 13 commands
+[debug][20:57:25] MongoDB: Connected
+[debug][20:57:26] Discord: Ready
+[debug][20:57:26] Connected to Zeus's Sandbox
+[debug][20:57:31] Debug mode enabled
+[debug][20:57:31] Loaded 13 commands
+[debug][20:57:31] MongoDB: Connected
+[debug][20:57:32] Discord: Ready
+[debug][20:57:32] Connected to Zeus's Sandbox
+[debug][20:57:35] Debug mode enabled
+[debug][20:57:35] Loaded 13 commands
+[debug][20:57:35] MongoDB: Connected
+[debug][20:57:37] Debug mode enabled
+[debug][20:57:37] Loaded 13 commands
+[debug][20:57:37] MongoDB: Connected
+[debug][20:57:38] Discord: Ready
+[debug][20:57:38] Connected to Zeus's Sandbox
+[debug][20:57:40] Debug mode enabled
+[debug][20:57:40] Loaded 13 commands
+[debug][20:57:40] MongoDB: Connected
+[debug][20:57:42] Debug mode enabled
+[debug][20:57:42] Loaded 13 commands
+[debug][20:57:42] MongoDB: Connected
+[debug][20:57:45] Discord: Ready
+[debug][20:57:45] Connected to Zeus's Sandbox
+[debug][20:58:21] Debug mode enabled
+[debug][20:58:21] Loaded 13 commands
+[debug][20:58:21] MongoDB: Connected
+[debug][20:58:22] Debug mode enabled
+[debug][20:58:22] Loaded 13 commands
+[debug][20:58:22] MongoDB: Connected
+[debug][20:58:23] Discord: Ready
+[debug][20:58:23] Connected to Zeus's Sandbox
+[info][20:58:31] [#rs8-orders] @Zeus: $rates 8
+[info][20:58:43] [#rs8-orders] @Zeus: $rates 11
+[debug][21:01:11] Debug mode enabled
+[debug][21:01:11] Loaded 13 commands
+[debug][21:01:11] MongoDB: Connected
+[debug][21:01:12] Discord: Ready
+[debug][21:01:12] Connected to Zeus's Sandbox
+[debug][21:01:39] Debug mode enabled
+[debug][21:01:39] Loaded 13 commands
+[debug][21:01:39] MongoDB: Connected
+[debug][21:01:40] Discord: Ready
+[debug][21:01:40] Connected to Zeus's Sandbox
+[debug][21:02:57] Debug mode enabled
+[debug][21:02:57] Loaded 13 commands
+[debug][21:02:57] MongoDB: Connected
+[debug][21:02:58] Discord: Ready
+[debug][21:02:58] Connected to Zeus's Sandbox
+[info][21:03:07] [#rs4-orders] @Zeus: $rates
+[info][21:03:16] [#rs6-orders] @Zeus: $rates
+[info][21:03:20] [#general] @Zeus: $rates
+[debug][21:03:40] Debug mode enabled
+[debug][21:03:40] Loaded 13 commands
+[debug][21:03:40] MongoDB: Connected
+[debug][21:03:40] Discord: Ready
+[debug][21:03:40] Connected to Zeus's Sandbox
+[info][21:03:46] [#general] @Zeus: $rates
+[info][21:03:53] [#rs4-orders] @Zeus: $rates
+[info][21:03:59] [#rs4-orders] @Zeus: $rates 6
+[debug][21:04:16] Debug mode enabled
+[debug][21:04:16] Loaded 13 commands
+[debug][21:04:16] MongoDB: Connected
+[debug][21:04:17] Discord: Ready
+[debug][21:04:17] Connected to Zeus's Sandbox
+[debug][21:06:53] Debug mode enabled
+[debug][21:06:53] Loaded 13 commands
+[debug][21:06:53] MongoDB: Connected
+[debug][21:06:54] Discord: Ready
+[debug][21:06:54] Connected to Zeus's Sandbox
+[debug][21:10:16] Debug mode enabled
+[debug][21:10:16] Loaded 13 commands
+[debug][21:10:16] MongoDB: Connected
+[debug][21:10:17] Discord: Ready
+[debug][21:10:17] Connected to Zeus's Sandbox
+[info][21:10:21] [#rs4-orders] @Zeus: $rates
+[info][21:10:29] [#rs4-orders] @Zeus: $rates 20
+[info][21:10:36] [#rs4-orders] @Zeus: $rates 4 20
+[info][21:10:42] [#general] @Zeus: $rates
+[info][21:10:46] [#general] @Zeus: $rates 4
+[info][21:10:51] [#general] @Zeus: $rates 4 20
+[info][21:10:58] [#rs4-orders] @Zeus: $rates 20
+[info][21:11:01] [#rs4-orders] @Zeus: $help
+[debug][21:11:22] Debug mode enabled
+[debug][21:11:22] Loaded 13 commands
+[debug][21:11:22] MongoDB: Connected
+[debug][21:11:23] Discord: Ready
+[debug][21:11:23] Connected to Zeus's Sandbox
+[info][21:11:30] [#rs4-orders] @Zeus: $help
+[debug][21:11:58] Debug mode enabled
+[debug][21:11:58] Loaded 13 commands
+[debug][21:11:58] MongoDB: Connected
+[debug][21:12:00] Discord: Ready
+[debug][21:12:00] Connected to Zeus's Sandbox
+[info][21:12:08] [#rs4-orders] @Zeus: $help
+[debug][21:12:37] Debug mode enabled
+[debug][21:12:37] Loaded 13 commands
+[debug][21:12:37] MongoDB: Connected
+[debug][21:12:38] Discord: Ready
+[debug][21:12:38] Connected to Zeus's Sandbox
+[info][21:12:42] [#rs4-orders] @Zeus: $help
+[debug][21:13:17] Debug mode enabled
+[debug][21:13:17] Loaded 13 commands
+[debug][21:13:17] MongoDB: Connected
+[debug][21:13:18] Discord: Ready
+[debug][21:13:18] Connected to Zeus's Sandbox
+[info][21:13:20] [#rs4-orders] @Zeus: $help
+[debug][21:15:50] Debug mode enabled
+[debug][21:15:50] Loaded 13 commands
+[debug][21:15:50] MongoDB: Connected
+[debug][21:15:51] Discord: Ready
+[debug][21:15:51] Connected to Zeus's Sandbox
+[debug][21:15:55] Debug mode enabled
+[debug][21:15:55] Loaded 13 commands
+[debug][21:15:55] MongoDB: Connected
+[debug][21:15:56] Reconnecting to shard
+[debug][21:16:02] Discord: Ready
+[debug][21:16:02] Connected to Zeus's Sandbox
+[debug][21:16:11] Debug mode enabled
+[debug][21:16:11] Loaded 13 commands
+[debug][21:16:11] MongoDB: Connected
+[debug][21:16:12] Discord: Ready
+[debug][21:16:12] Connected to Zeus's Sandbox
+[debug][21:16:28] Debug mode enabled
+[debug][21:16:28] Loaded 13 commands
+[debug][21:16:28] MongoDB: Connected
+[debug][21:16:29] Discord: Ready
+[debug][21:16:29] Connected to Zeus's Sandbox
+[debug][21:16:35] Debug mode enabled
+[debug][21:16:35] Loaded 13 commands
+[debug][21:16:35] MongoDB: Connected
+[debug][21:16:36] Discord: Ready
+[debug][21:16:36] Connected to Zeus's Sandbox
+[debug][21:17:14] Debug mode enabled
+[debug][21:17:14] Loaded 13 commands
+[debug][21:17:14] MongoDB: Connected
+[debug][21:17:15] Discord: Ready
+[debug][21:17:15] Connected to Zeus's Sandbox
+[debug][21:17:33] Debug mode enabled
+[debug][21:17:33] Loaded 13 commands
+[debug][21:17:33] MongoDB: Connected
+[debug][21:17:34] Discord: Ready
+[debug][21:17:34] Connected to Zeus's Sandbox
+[info][21:17:37] [#rs4-orders] @Zeus: $order 20 5
+[cmd][21:17:38] [#rs4-orders] @Zeus created an order (20xR5 : 40xR4)
+[info][21:17:46] [#rs5-orders] @Zeus: $cancel 1
+[info][21:17:53] [#rs4-orders] @Zeus: $cancel 1
+[cmd][21:17:53] [#rs4-orders] @Zeus cancelled an order
+[info][21:36:34] [#discussion] @Zeus: $help
+[info][21:36:43] [#discussion] @Zeus: $order 20 5
+[debug][21:37:29] Debug mode enabled
+[debug][21:37:30] Loaded 13 commands
+[debug][21:37:30] MongoDB: Connected
+[debug][21:37:31] Discord: Ready
+[debug][21:37:31] Connected to Zeus's Sandbox
+[debug][21:37:58] Debug mode enabled
+[debug][21:37:58] Loaded 13 commands
+[debug][21:37:58] MongoDB: Connected
+[debug][21:38:00] Discord: Ready
+[debug][21:38:00] Connected to Zeus's Sandbox
+[debug][21:49:19] Debug mode enabled
+[debug][21:49:19] Loaded 13 commands
+[debug][21:49:19] MongoDB: Connected
+[debug][21:49:20] Discord: Ready
+[debug][21:49:20] Connected to Zeus's Sandbox
+[info][21:49:27] [#discussion] @Zeus: $order 20 5
+[info][21:49:36] [#rs4-orders] @Zeus: $order
+[info][21:49:47] [#rs4-orders] @Zeus: $order 20
+[info][21:49:53] [#rs4-orders] @Zeus: $order 20 12
+[debug][21:50:49] Debug mode enabled
+[debug][21:50:49] Loaded 13 commands
+[debug][21:50:49] MongoDB: Connected
+[debug][21:50:51] Discord: Ready
+[debug][21:50:51] Connected to Zeus's Sandbox
+[info][21:50:56] [#rs4-orders] @Zeus: $order
+[debug][21:51:38] Debug mode enabled
+[debug][21:51:38] Loaded 13 commands
+[debug][21:51:38] MongoDB: Connected
+[debug][21:51:39] Discord: Ready
+[debug][21:51:39] Connected to Zeus's Sandbox
+[info][21:51:45] [#discussion] @Zeus: $order
+[info][21:51:54] [#rs4-orders] @Zeus: $order 20 12
+[info][21:52:03] [#rs4-orders] @Zeus: $order
+[debug][21:52:57] Debug mode enabled
+[debug][21:52:57] Loaded 13 commands
+[debug][21:52:57] MongoDB: Connected
+[debug][21:52:58] Discord: Ready
+[debug][21:52:58] Connected to Zeus's Sandbox
+[info][21:53:03] [#rs4-orders] @Zeus: $order 20 4
+[info][21:53:09] [#rs4-orders] @Zeus: $order
+[info][21:53:22] [#discussion] @Zeus: $order
+[debug][21:53:47] Debug mode enabled
+[debug][21:53:47] Loaded 13 commands
+[debug][21:53:47] MongoDB: Connected
+[debug][21:53:48] Discord: Ready
+[debug][21:53:48] Connected to Zeus's Sandbox
+[info][21:53:54] [#discussion] @Zeus: $order 20 12
+[info][21:54:00] [#rs4-orders] @Zeus: $order 20 12
+[debug][21:54:46] Debug mode enabled
+[debug][21:54:46] Loaded 13 commands
+[debug][21:54:46] MongoDB: Connected
+[debug][21:54:47] Discord: Ready
+[debug][21:54:47] Connected to Zeus's Sandbox
+[info][21:54:52] [#discussion] @Zeus: $order
+[info][21:54:57] [#rs4-orders] @Zeus: $order 20 12
+[info][21:55:03] [#rs4-orders] @Zeus: $order 20 4
+[info][21:55:37] [#rs4-orders] @Zeus: $order 0 5
+[debug][21:56:25] Debug mode enabled
+[debug][21:56:25] Loaded 13 commands
+[debug][21:56:25] MongoDB: Connected
+[debug][21:56:27] Discord: Ready
+[debug][21:56:27] Connected to Zeus's Sandbox
+[debug][21:57:03] Debug mode enabled
+[debug][21:57:03] Loaded 13 commands
+[debug][21:57:03] MongoDB: Connected
+[debug][21:57:04] Discord: Ready
+[debug][21:57:04] Connected to Zeus's Sandbox
+[debug][21:58:12] Debug mode enabled
+[debug][21:58:12] Loaded 13 commands
+[debug][21:58:12] MongoDB: Connected
+[debug][21:58:13] Discord: Ready
+[debug][21:58:13] Connected to Zeus's Sandbox
+[info][21:58:19] [#rs4-orders] @Zeus: $order 20 5
+[cmd][21:58:20] [#rs4-orders] @Zeus created an order (20xR5 : 40xR4)
+[info][21:58:27] [#rs4-orders] @Zeus: $edit 2 30 6 mix
+[cmd][21:58:27] [#rs4-orders] @Zeus created an order (30xR6 : 75xR4)
+[info][21:58:40] [#rs4-orders] @Zeus: $edit 2 10 5 mix
+[cmd][21:58:40] [#rs4-orders] @Zeus created an order (10xR5 : 20xR4)
+[info][21:58:50] [#rs4-orders] @Zeus: $order 1 3
+[info][21:59:11] [#rs4-orders] @Zeus: $help
+[debug][22:05:28] Debug mode enabled
+[debug][22:05:28] Loaded 13 commands
+[debug][22:05:28] MongoDB: Connected
+[debug][22:05:29] Discord: Ready
+[debug][22:05:29] Connected to Zeus's Sandbox
+[info][22:05:34] [#rs4-orders] @Zeus: $stats
+[error][22:05:34] TypeError: Cannot read property 'id' of undefined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\stats.js:27:40)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:62:21)
+    at Client.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+[info][22:06:07] [#rs4-orders] @Zeus: $stats <@!720574566761496596>
+[error][22:06:07] TypeError: data.guild.members.get is not a function
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\stats.js:14:39)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:62:21)
+    at Client.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+[debug][22:06:28] Debug mode enabled
+[debug][22:06:28] Loaded 13 commands
+[debug][22:06:28] MongoDB: Connected
+[debug][22:06:29] Discord: Ready
+[debug][22:06:29] Connected to Zeus's Sandbox
+[info][22:06:34] [#rs4-orders] @Zeus: $stats <@!720574566761496596>
+[error][22:06:34] TypeError: Cannot read property 'id' of undefined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\stats.js:27:40)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:62:21)
+    at Client.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+[debug][22:07:18] Debug mode enabled
+[debug][22:07:18] Loaded 13 commands
+[debug][22:07:18] MongoDB: Connected
+[debug][22:07:19] Discord: Ready
+[debug][22:07:19] Connected to Zeus's Sandbox
+[info][22:07:21] [#rs4-orders] @Zeus: $stats
+[error][22:07:21] TypeError: Cannot read property 'id' of undefined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\stats.js:28:40)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:62:21)
+    at Client.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+[debug][22:08:12] Debug mode enabled
+[debug][22:08:12] Loaded 13 commands
+[debug][22:08:12] MongoDB: Connected
+[debug][22:08:13] Discord: Ready
+[debug][22:08:13] Connected to Zeus's Sandbox
+[info][22:08:15] [#rs4-orders] @Zeus: $stats
+[error][22:08:15] TypeError: Cannot read property 'user' of undefined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\stats.js:28:40)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:62:21)
+    at Client.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+[debug][22:08:38] Debug mode enabled
+[debug][22:08:38] Loaded 13 commands
+[debug][22:08:38] MongoDB: Connected
+[debug][22:08:39] Discord: Ready
+[debug][22:08:39] Connected to Zeus's Sandbox
+[info][22:08:42] [#rs4-orders] @Zeus: $stats
+[error][22:08:42] TypeError: Cannot read property 'user' of undefined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\stats.js:28:40)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:62:21)
+    at Client.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+[debug][22:09:05] Debug mode enabled
+[debug][22:09:05] Loaded 13 commands
+[debug][22:09:05] MongoDB: Connected
+[debug][22:09:06] Discord: Ready
+[debug][22:09:06] Connected to Zeus's Sandbox
+[debug][22:09:30] Debug mode enabled
+[debug][22:09:30] Loaded 13 commands
+[debug][22:09:30] MongoDB: Connected
+[debug][22:09:31] Discord: Ready
+[debug][22:09:31] Connected to Zeus's Sandbox
+[info][22:09:42] [#rs4-orders] @Zeus: $stats
+[error][22:09:42] TypeError: Cannot read property 'id' of undefined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\stats.js:28:40)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:62:21)
+    at Client.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+[debug][22:10:11] Debug mode enabled
+[debug][22:10:11] Loaded 13 commands
+[debug][22:10:11] MongoDB: Connected
+[debug][22:10:12] Discord: Ready
+[debug][22:10:12] Connected to Zeus's Sandbox
+[info][22:10:15] [#rs4-orders] @Zeus: $stats
+[error][22:10:15] TypeError: Cannot read property 'id' of undefined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\stats.js:28:40)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:62:21)
+    at Client.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+[debug][22:10:56] Debug mode enabled
+[debug][22:10:56] Loaded 13 commands
+[debug][22:10:56] MongoDB: Connected
+[debug][22:10:57] Discord: Ready
+[debug][22:10:57] Connected to Zeus's Sandbox
+[debug][22:11:12] Debug mode enabled
+[debug][22:11:12] Loaded 13 commands
+[debug][22:11:12] MongoDB: Connected
+[debug][22:11:13] Discord: Ready
+[debug][22:11:13] Connected to Zeus's Sandbox
+[info][22:11:18] [#rs4-orders] @Zeus: $stats
+[error][22:11:18] TypeError: Cannot read property 'id' of undefined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\stats.js:25:40)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:62:21)
+    at Client.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+[debug][22:11:57] Debug mode enabled
+[debug][22:11:57] Loaded 13 commands
+[debug][22:11:57] MongoDB: Connected
+[debug][22:11:58] Discord: Ready
+[debug][22:11:58] Connected to Zeus's Sandbox
+[info][22:12:01] [#rs4-orders] @Zeus: $stats
+[error][22:12:01] TypeError: Cannot read property 'id' of undefined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\stats.js:26:40)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:62:21)
+    at Client.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+[debug][22:12:29] Debug mode enabled
+[debug][22:12:29] Loaded 13 commands
+[debug][22:12:29] MongoDB: Connected
+[debug][22:12:30] Discord: Ready
+[debug][22:12:30] Connected to Zeus's Sandbox
+[info][22:12:33] [#rs4-orders] @Zeus: $stats
+[error][22:12:33] TypeError: Cannot read property 'id' of undefined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\stats.js:24:40)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:62:21)
+    at Client.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+[debug][22:14:50] Debug mode enabled
+[debug][22:14:50] Loaded 13 commands
+[debug][22:14:50] MongoDB: Connected
+[debug][22:14:52] Discord: Ready
+[debug][22:14:52] Connected to Zeus's Sandbox
+[info][22:15:00] [#rs4-orders] @Zeus: $stats
+[error][22:15:00] TypeError: Cannot read property 'nickname' of undefined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\stats.js:44:28)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][22:15:41] Debug mode enabled
+[debug][22:15:41] Loaded 13 commands
+[debug][22:15:41] MongoDB: Connected
+[debug][22:15:42] Discord: Ready
+[debug][22:15:42] Connected to Zeus's Sandbox
+[info][22:15:45] [#rs4-orders] @Zeus: $stats
+[error][22:15:45] TypeError: Cannot read property 'nickname' of undefined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\stats.js:45:24)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][22:17:12] Debug mode enabled
+[debug][22:17:12] Loaded 13 commands
+[debug][22:17:12] MongoDB: Connected
+[debug][22:17:13] Discord: Ready
+[debug][22:17:13] Connected to Zeus's Sandbox
+[info][22:17:18] [#rs4-orders] @Zeus: $stats
+[error][22:17:18] TypeError: user.avatarURL is not a function
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\stats.js:49:45)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[debug][22:18:50] Debug mode enabled
+[debug][22:18:50] Loaded 13 commands
+[debug][22:18:50] MongoDB: Connected
+[debug][22:18:51] Discord: Ready
+[debug][22:18:51] Connected to Zeus's Sandbox
+[info][22:18:53] [#rs4-orders] @Zeus: $stats
+[info][22:19:00] [#rs4-orders] @Zeus: $stats <@!720574566761496596>
+[debug][22:19:25] Debug mode enabled
+[debug][22:19:25] Loaded 13 commands
+[debug][22:19:25] MongoDB: Connected
+[debug][22:19:26] Discord: Ready
+[debug][22:19:26] Connected to Zeus's Sandbox
+[info][22:19:37] [#rs4-orders] @Zeus: $stats <@!720574566761496596>
+[error][22:19:37] ReferenceError: _console is not defined
+    at Object.execute (C:\Users\Cody\Desktop\SALBOT\test\commands\stats.js:17:9)
+    at Client.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:62:21)
+    at Client.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\event-target.js:125:16)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:143:22)
+    at Receiver._write (C:\Users\Cody\Desktop\SALBOT\test\node_modules\discord.js\node_modules\ws\lib\receiver.js:78:10)
+[debug][22:19:46] Debug mode enabled
+[debug][22:19:46] Loaded 13 commands
+[debug][22:19:46] MongoDB: Connected
+[debug][22:19:47] Discord: Ready
+[debug][22:19:47] Connected to Zeus's Sandbox
+[info][22:19:51] [#rs4-orders] @Zeus: $stats <@!720574566761496596>
+[debug][22:20:30] Debug mode enabled
+[debug][22:20:30] Loaded 13 commands
+[debug][22:20:30] MongoDB: Connected
+[debug][22:20:31] Discord: Ready
+[debug][22:20:31] Connected to Zeus's Sandbox
+[info][22:20:36] [#rs4-orders] @Zeus: $stats <@!720574566761496596>
+[debug][22:20:56] Debug mode enabled
+[debug][22:20:56] Loaded 13 commands
+[debug][22:20:56] MongoDB: Connected
+[debug][22:20:57] Discord: Ready
+[debug][22:20:57] Connected to Zeus's Sandbox
+[debug][22:21:02] Debug mode enabled
+[debug][22:21:02] Loaded 13 commands
+[debug][22:21:02] MongoDB: Connected
+[debug][22:21:03] Discord: Ready
+[debug][22:21:03] Connected to Zeus's Sandbox
+[info][22:21:07] [#rs4-orders] @Zeus: $stats <@!720574566761496596>
+[debug][22:21:36] Debug mode enabled
+[debug][22:21:36] Loaded 13 commands
+[debug][22:21:36] MongoDB: Connected
+[debug][22:21:37] Discord: Ready
+[debug][22:21:37] Connected to Zeus's Sandbox
+[info][22:21:40] [#rs4-orders] @Zeus: $stats <@!720574566761496596>
+[debug][22:22:01] Debug mode enabled
+[debug][22:22:01] Loaded 13 commands
+[debug][22:22:01] MongoDB: Connected
+[debug][22:22:02] Discord: Ready
+[debug][22:22:02] Connected to Zeus's Sandbox
+[info][22:22:07] [#rs4-orders] @Zeus: $stats <@!720574566761496596>
+[info][22:22:17] [#rs4-orders] @Zeus: $stats
+[info][22:23:01] [#rs4-orders] @Zeus: $order <@!720574566761496596> 20 7
+[cmd][22:23:01] [#rs4-orders] @Zeus created an order (20xR7 : 80xR4)
+[info][22:23:05] [#rs4-orders] @Zeus: $accept 3
+[cmd][22:23:05] [#rs4-orders] @Zeus accepted an order
+[info][22:23:10] [#rs4-orders] @Zeus: $complete 3
+[cmd][22:23:10] [#rs4-orders] @Zeus completed an order
+[info][22:23:14] [#rs4-orders] @Zeus: $stats
+[info][22:23:23] [#rs4-orders] @Zeus: $stats <@!720574566761496596>
+[debug][22:23:28] Debug mode enabled
+[debug][22:23:28] Loaded 13 commands
+[debug][22:23:28] MongoDB: Connected
+[debug][22:23:29] Discord: Ready
+[debug][22:23:29] Connected to Zeus's Sandbox
+[debug][22:24:02] Debug mode enabled
+[debug][22:24:02] Loaded 13 commands
+[debug][22:24:02] MongoDB: Connected
+[debug][22:24:04] Discord: Ready
+[debug][22:24:04] Connected to Zeus's Sandbox
+[info][22:24:22] [#rs4-orders] @Zeus: $help
+[debug][22:25:13] Debug mode enabled
+[debug][22:25:13] Loaded 13 commands
+[debug][22:25:13] MongoDB: Connected
+[debug][22:25:14] Discord: Ready
+[debug][22:25:14] Connected to Zeus's Sandbox
+[info][22:25:19] [#rs4-orders] @Zeus: $help
+[debug][22:26:14] Debug mode enabled
+[debug][22:26:14] Loaded 13 commands
+[debug][22:26:14] MongoDB: Connected
+[debug][22:26:15] Discord: Ready
+[debug][22:26:15] Connected to Zeus's Sandbox
+[debug][22:27:10] Debug mode enabled
+[debug][22:27:10] Loaded 13 commands
+[debug][22:27:10] MongoDB: Connected
+[debug][22:27:11] Discord: Ready
+[debug][22:27:11] Connected to Zeus's Sandbox
+[debug][22:27:35] Debug mode enabled
+[debug][22:27:35] Loaded 13 commands
+[debug][22:27:35] MongoDB: Connected
+[debug][22:27:36] Discord: Ready
+[debug][22:27:36] Connected to Zeus's Sandbox
+[debug][22:27:44] Debug mode enabled
+[debug][22:27:44] Loaded 13 commands
+[debug][22:27:44] MongoDB: Connected
+[debug][22:27:45] Discord: Ready
+[debug][22:27:45] Connected to Zeus's Sandbox
+[info][22:27:47] [#rs4-orders] @Zeus: $help
+[debug][22:28:09] Debug mode enabled
+[debug][22:28:09] Loaded 13 commands
+[debug][22:28:09] MongoDB: Connected
+[debug][22:28:10] Discord: Ready
+[debug][22:28:10] Connected to Zeus's Sandbox
+[debug][22:28:26] Debug mode enabled
+[debug][22:28:26] Loaded 13 commands
+[debug][22:28:26] MongoDB: Connected
+[debug][22:28:28] Discord: Ready
+[debug][22:28:28] Connected to Zeus's Sandbox
+[info][22:28:32] [#rs4-orders] @Zeus: $help
+[debug][22:28:52] Debug mode enabled
+[debug][22:28:52] Loaded 13 commands
+[debug][22:28:52] MongoDB: Connected
+[debug][22:28:53] Discord: Ready
+[debug][22:28:53] Connected to Zeus's Sandbox
+[debug][22:29:00] Debug mode enabled
+[debug][22:29:01] Loaded 13 commands
+[debug][22:29:01] MongoDB: Connected
+[debug][22:29:01] Discord: Ready
+[debug][22:29:01] Connected to Zeus's Sandbox
+[info][22:29:04] [#rs4-orders] @Zeus: $help
+[debug][22:29:15] Debug mode enabled
+[error][22:29:15] C:\Users\Cody\Desktop\SALBOT\test\commands\help.js:16
+}
+ 
+
+SyntaxError: Unexpected end of input
+    at wrapSafe (internal/modules/cjs/loader.js:1053:16)
+    at Module._compile (internal/modules/cjs/loader.js:1101:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:91:21)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)
+    at internal/main/run_main_module.js:17:47
+[debug][22:29:39] Debug mode enabled
+[debug][22:29:39] Loaded 13 commands
+[debug][22:29:39] MongoDB: Connected
+[debug][22:29:40] Discord: Ready
+[debug][22:29:40] Connected to Zeus's Sandbox
+[info][22:29:42] [#rs4-orders] @Zeus: $help
+[debug][22:31:51] Debug mode enabled
+[debug][22:31:51] Loaded 13 commands
+[debug][22:31:51] MongoDB: Connected
+[debug][22:31:52] Discord: Ready
+[debug][22:31:52] Connected to Zeus's Sandbox
+[info][22:32:57] [#rs4-orders] @Zeus: $help
+[info][22:33:27] [#rs4-orders] @Zeus: $order 20 5
+[cmd][22:33:28] [#rs4-orders] @Zeus created an order (20xR5 : 40xR4)
+[info][22:33:39] [#rs4-orders] @Zeus: $edit 4 30 3 mix
+[cmd][22:33:39] [#rs4-orders] @Zeus created an order (30xR3 : 15xR4)
+[debug][22:35:08] Loaded 13 commands
+[debug][22:35:08] MongoDB: Connected
+[debug][22:35:09] Discord: Ready
+[debug][22:35:09] Connected to SALTARDIS
+[info][22:36:01] [#rs4-orders] @Zeus: $edit 2 5 7 orbs please no tits
+[cmd][22:36:02] [#rs4-orders] @Zeus created an order (5xR7 : 20xR4)
+[debug][22:38:26] Loaded 13 commands
+[debug][22:38:26] MongoDB: Connected
+[debug][22:38:27] Discord: Ready
+[debug][22:38:27] Connected to SALTARDIS
+[info][22:38:38] [#rs4-orders] @Zeus: $edit 2 5 7 orbs please
+[cmd][22:38:39] [#rs4-orders] @Zeus created an order (5xR7 : 20xR4)
+[info][22:44:45] [#rs4-orders] @Zeus: $list

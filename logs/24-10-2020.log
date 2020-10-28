@@ -1,0 +1,390 @@
+[info][16:48:40] [36mDebug mode enabled[0m
+[info][16:48:40] Connecting...
+[info][16:48:42] Ready
+[warning][16:50:37] Debug mode enabled
+[info][16:50:37] Connecting...
+[info][16:50:38] Ready
+[info][16:51:16] Connecting...
+[info][16:51:17] Ready
+[warn][16:51:31] Debug mode enabled
+[info][16:51:31] Connecting...
+[info][16:51:32] Ready
+{"level":"warn","message":"Debug mode enabled"}
+{"level":"info","message":"Connecting..."}
+{"level":"info","message":"Ready"}
+[warn][16:52:35] Debug mode enabled
+[info][16:52:35] Connecting...
+[info][16:52:36] Ready
+[warn][16:53:29] Debug mode enabled
+[info][16:53:29] Connecting...
+[info][16:53:30] Ready
+[warn][16:54:05] Debug mode enabled
+[info][16:54:05] Connecting...
+[info][16:54:06] Ready
+[warn][16:55:34] Debug mode enabled
+[info][16:55:34] Connecting...
+[info][16:55:35] Ready
+[warn][16:55:40] Debug mode enabled
+[info][16:55:40] Connecting...
+[info][16:55:41] Ready
+[warn][16:56:38] Debug mode enabled
+[info][16:56:38] Connecting...
+[info][16:56:39] Ready
+[warn][16:56:46] Debug mode enabled
+[info][16:56:46] Connecting...
+[info][16:56:47] Ready
+[warn][16:58:14] Debug mode enabled
+[info][16:58:14] Connecting...
+[info][16:58:15] Ready
+[warn][16:58:23] Debug mode enabled
+[info][16:58:23] Connecting...
+[info][16:58:24] Ready
+[warn][16:58:47] Debug mode enabled
+[info][16:58:47] Connecting...
+[info][16:58:48] Ready
+[warn][16:58:54] Debug mode enabled
+[info][16:58:54] Connecting...
+[info][16:58:55] Ready
+[warn][16:59:00] Debug mode enabled
+[info][16:59:00] Connecting...
+[info][16:59:01] Ready
+[warn][16:59:07] Debug mode enabled
+[info][16:59:07] Connecting...
+[info][16:59:08] Ready
+[warn][16:59:13] Debug mode enabled
+[info][16:59:13] Connecting...
+[info][16:59:14] Ready
+[warn][16:59:24] Debug mode enabled
+[info][16:59:24] Connecting...
+[info][16:59:25] Ready
+[warn][16:59:37] Debug mode enabled
+[info][16:59:37] Connecting...
+[info][16:59:38] Ready
+[warn][17:00:04] Debug mode enabled
+[info][17:00:04] Connecting...
+[info][17:00:05] Ready
+[warn][17:00:13] Debug mode enabled
+[info][17:00:13] Connecting...
+[info][17:00:14] Ready
+[warn][17:00:29] Debug mode enabled
+[info][17:00:29] Connecting...
+[info][17:00:30] Ready
+[warn][17:00:37] Debug mode enabled
+[info][17:00:37] Connecting...
+[info][17:00:39] Ready
+[warn][17:00:58] Debug mode enabled
+[info][17:00:58] Connecting...
+[info][17:00:59] Ready
+[warn][17:01:06] Debug mode enabled
+[info][17:01:06] Connecting...
+[info][17:01:07] Ready
+[warn][17:02:23] Debug mode enabled
+[info][17:02:23] Connecting...
+[info][17:02:24] Ready
+[warn][17:02:55] Debug mode enabled
+[info][17:02:55] Connecting...
+[info][17:02:56] Ready
+[warn][17:03:32] Debug mode enabled
+[info][17:03:32] Connecting...
+[info][17:03:33] Ready
+[warn][17:03:40] Debug mode enabled
+[info][17:03:40] Connecting...
+[info][17:03:41] Ready
+[warn][17:10:21] Debug mode enabled
+[info][17:10:21] Connecting...
+[info][17:10:22] Ready
+[warn][17:10:32] Debug mode enabled
+[info][17:10:32] Connecting...
+[info][17:10:33] Ready
+[warn][17:18:30] Debug mode enabled
+[info][17:18:30] Connecting...
+[info][17:18:31] Ready
+[warn][17:21:28] Debug mode enabled
+[info][17:21:28] Connecting...
+[info][17:21:29] Ready
+[error][17:39:46] TypeError: Mongoose.on is not a function
+    at Object.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\main.js:44:10)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)
+    at internal/main/run_main_module.js:17:47
+[warn][17:40:03] Debug mode enabled
+[info][17:40:03] Connecting...
+[info][17:40:04] Ready
+[debug][17:40:04] Connected to DB
+[warn][17:41:06] Debug mode enabled
+[info][17:41:06] Connecting...
+[info][17:41:07] Ready
+[debug][17:41:07] Connected to DB
+[warn][17:46:04] Debug mode enabled
+[info][17:46:04] Connecting...
+[info][17:46:05] Ready
+[debug][17:46:05] Connected to DB
+[warn][17:46:23] Debug mode enabled
+[info][17:46:23] Connecting...
+[warn][17:46:24] Debug mode enabled
+[info][17:46:24] Connecting...
+[info][17:46:24] Ready
+[debug][17:46:24] Connected to DB
+[warn][17:47:08] Debug mode enabled
+[info][17:47:08] Connecting...
+[info][17:47:10] Ready
+[error][17:47:10] ReferenceError: logger is not defined
+    at NativeConnection.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\mongoose.js:5:58)
+    at NativeConnection.emit (events.js:315:20)
+    at NativeConnection.set (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\connection.js:128:12)
+    at _setClient (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\connection.js:939:19)
+    at C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongoose\lib\connection.js:794:7
+    at C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongodb\lib\utils.js:674:5
+    at C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongodb\lib\mongo_client.js:225:7
+    at connectCallback (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongodb\lib\operations\connect.js:366:5)
+    at C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongodb\lib\operations\connect.js:459:5
+    at Server.connectHandler (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongodb\lib\topologies\server.js:291:9)
+    at Object.onceWrapper (events.js:422:26)
+    at Server.emit (events.js:315:20)
+    at Pool.<anonymous> (C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongodb\lib\core\topologies\server.js:384:12)
+    at Pool.emit (events.js:315:20)
+    at C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongodb\lib\core\connection\pool.js:581:12
+    at C:\Users\Cody\Desktop\SALBOT\test\node_modules\mongodb\lib\core\connection\pool.js:1036:7
+[warn][17:47:30] Debug mode enabled
+[info][17:47:30] Connecting...
+[info][17:47:31] Ready
+[debug][17:47:31] Mongoose connected
+[debug][17:50:01] [CRON] Deleted 2 messages from order channels
+[warn][17:52:08] Debug mode enabled
+[info][17:52:08] Connecting...
+[info][17:52:09] Ready
+[debug][17:52:09] Mongoose connected
+[debug][17:52:09] 1 was created
+[warn][17:53:38] Debug mode enabled
+[info][17:53:38] Connecting...
+[info][17:53:39] Ready
+[debug][17:53:39] Mongoose connected
+[debug][17:53:39] 2 was created
+[warn][18:13:07] Debug mode enabled
+[info][18:13:07] Connecting...
+[debug][18:13:07] Mongoose connected
+[debug][18:13:07] 2 was created
+[info][18:13:08] Ready
+[warn][18:14:18] Debug mode enabled
+[info][18:14:18] Connecting...
+[info][18:14:18] Connected to DB
+[info][18:14:19] Ready
+[warn][18:14:53] Debug mode enabled
+[info][18:14:53] Connecting...
+[info][18:14:53] Connected to mongoose
+[info][18:14:54] Ready
+[warn][18:15:04] Debug mode enabled
+[info][18:15:04] Starting...
+[info][18:15:04] Connected to mongoose
+[info][18:15:05] Ready
+[warn][18:15:30] Debug mode enabled
+[info][18:15:30] Starting...
+[info][18:15:30] Connected to mongoose
+[info][18:15:31] Discord client ready
+[warn][18:17:05] Debug mode enabled
+[info][18:17:05] Starting...
+[info][18:17:05] Connected to mongoose
+[info][18:17:06] Discord client ready
+[warn][18:17:59] Debug mode enabled
+[info][18:17:59] Starting...
+[info][18:17:59] [Mongoose] Connected
+[info][18:18:00] Discord client ready
+[warn][18:18:14] Debug mode enabled
+[info][18:18:14] Starting...
+[info][18:18:14] [Mongoose] Connected
+[info][18:18:15] [Discord] Ready
+[warn][18:18:28] Debug mode enabled
+[info][18:18:28] Starting...
+[info][18:18:28] [Mongoose] Connected
+[info][18:18:29] Discord: Ready
+[warn][18:18:48] Debug mode enabled
+[info][18:18:48] Starting...
+[info][18:18:48] Mongoose: Connected
+[info][18:18:49] Discord: Ready
+[warn][18:19:01] Debug mode enabled
+[info][18:19:01] Starting...
+[info][18:19:01] Mongo: Connected
+[info][18:19:02] Discord: Ready
+[warn][18:19:08] Debug mode enabled
+[info][18:19:08] Starting...
+[info][18:19:08] Mongoose: Connected
+[info][18:19:09] Discord: Ready
+[warn][18:19:21] Debug mode enabled
+[info][18:19:21] Starting...
+[info][18:19:21] MongoDB: Connected
+[info][18:19:22] Discord: Ready
+[warn][18:19:39] Debug mode enabled
+[info][18:19:39] Starting...
+[info][18:19:39] MongoDB: Connected
+[info][18:19:41] Discord: Ready
+[debug][18:52:36] Reconnecting to shard
+[debug][18:52:37] Connected to shard
+[warn][22:12:47] Debug mode enabled
+[info][22:12:47] Starting...
+[info][22:12:47] MongoDB: Connected
+[info][22:12:48] Discord: Ready
+[warn][22:13:19] Debug mode enabled
+[info][22:13:19] Starting...
+[info][22:13:19] MongoDB: Connected
+[info][22:13:20] Discord: Ready
+[warn][22:14:03] Debug mode enabled
+[info][22:14:03] Starting...
+[info][22:14:03] MongoDB: Connected
+[info][22:14:04] Discord: Ready
+[warn][22:14:25] Debug mode enabled
+[info][22:14:25] Starting...
+[info][22:14:25] MongoDB: Connected
+[info][22:14:26] Discord: Ready
+[warn][22:15:10] Debug mode enabled
+[info][22:15:10] Starting...
+[info][22:15:10] MongoDB: Connected
+[info][22:15:11] Discord: Ready
+[warn][22:15:32] Debug mode enabled
+[info][22:15:32] Starting...
+[info][22:15:32] MongoDB: Connected
+[info][22:15:33] Discord: Ready
+[warn][22:15:57] Debug mode enabled
+[info][22:15:57] Starting...
+[info][22:15:58] MongoDB: Connected
+[info][22:15:58] Discord: Ready
+[warn][22:16:44] Debug mode enabled
+[info][22:16:44] Starting...
+[info][22:16:44] MongoDB: Connected
+[info][22:16:45] Discord: Ready
+[warn][22:17:14] Debug mode enabled
+[info][22:17:14] Starting...
+[info][22:17:14] MongoDB: Connected
+[info][22:17:15] Discord: Ready
+[warn][22:17:28] Debug mode enabled
+[info][22:17:28] Starting...
+[info][22:17:28] MongoDB: Connected
+[info][22:17:29] Discord: Ready
+[warn][22:17:54] Debug mode enabled
+[info][22:17:54] Starting...
+[info][22:17:54] MongoDB: Connected
+[info][22:17:55] Discord: Ready
+[warn][22:18:11] Debug mode enabled
+[info][22:18:11] Starting...
+[info][22:18:11] MongoDB: Connected
+[info][22:18:12] Discord: Ready
+[warn][22:18:27] Debug mode enabled
+[info][22:18:27] Starting...
+[info][22:18:27] MongoDB: Connected
+[info][22:18:28] Discord: Ready
+[warn][22:18:42] Debug mode enabled
+[info][22:18:42] Starting...
+[info][22:18:42] MongoDB: Connected
+[info][22:18:43] Discord: Ready
+[warn][22:19:35] Debug mode enabled
+[info][22:19:35] Starting...
+[info][22:19:35] MongoDB: Connected
+[info][22:19:36] Discord: Ready
+[warn][22:19:46] Debug mode enabled
+[info][22:19:46] Starting...
+[info][22:19:46] MongoDB: Connected
+[info][22:19:47] Discord: Ready
+[warn][22:20:19] Debug mode enabled
+[info][22:20:19] Starting...
+[info][22:20:19] MongoDB: Connected
+[info][22:20:20] Discord: Ready
+[warn][22:20:47] Debug mode enabled
+[info][22:20:47] Starting...
+[info][22:20:47] MongoDB: Connected
+[info][22:20:48] Discord: Ready
+[warn][22:21:05] Debug mode enabled
+[info][22:21:05] Starting...
+[info][22:21:05] MongoDB: Connected
+[info][22:21:06] Discord: Ready
+[warn][22:21:35] Debug mode enabled
+[info][22:21:35] Starting...
+[info][22:21:35] MongoDB: Connected
+[info][22:21:36] Discord: Ready
+[warn][22:22:24] Debug mode enabled
+[info][22:22:24] Starting...
+[info][22:22:24] MongoDB: Connected
+[info][22:22:25] Discord: Ready
+[warn][22:23:07] Debug mode enabled
+[info][22:23:07] Starting...
+[info][22:23:07] MongoDB: Connected
+[info][22:23:09] Discord: Ready
+[warn][22:24:15] Debug mode enabled
+[info][22:24:15] Starting...
+[info][22:24:15] MongoDB: Connected
+[info][22:24:17] Discord: Ready
+[warn][22:24:44] Debug mode enabled
+[info][22:24:44] Starting...
+[info][22:24:44] MongoDB: Connected
+[info][22:24:45] Discord: Ready
+[warn][22:25:02] Debug mode enabled
+[info][22:25:02] Starting...
+[info][22:25:02] MongoDB: Connected
+[info][22:25:03] Discord: Ready
+[warn][22:25:26] Debug mode enabled
+[info][22:25:26] Starting...
+[info][22:25:26] MongoDB: Connected
+[info][22:25:27] Discord: Ready
+[warn][22:25:35] Debug mode enabled
+[info][22:25:35] Starting...
+[info][22:25:35] MongoDB: Connected
+[info][22:25:36] Discord: Ready
+[warn][22:26:39] Debug mode enabled
+[info][22:26:39] Starting...
+[info][22:26:39] MongoDB: Connected
+[info][22:26:40] Discord: Ready
+[warn][22:26:58] Debug mode enabled
+[info][22:26:58] Starting...
+[info][22:26:58] MongoDB: Connected
+[info][22:26:59] Discord: Ready
+[warn][22:33:04] Debug mode enabled
+[info][22:33:04] Starting...
+[info][22:33:04] MongoDB: Connected
+[info][22:33:05] Discord: Ready
+[warn][22:33:21] Debug mode enabled
+[info][22:33:21] Starting...
+[info][22:33:21] MongoDB: Connected
+[info][22:33:22] Discord: Ready
+[warn][22:33:35] Debug mode enabled
+[info][22:33:35] Starting...
+[info][22:33:35] MongoDB: Connected
+[info][22:33:36] Discord: Ready
+[warn][22:37:04] Debug mode enabled
+[info][22:37:04] Starting...
+[info][22:37:04] MongoDB: Connected
+[info][22:37:05] Discord: Ready
+[warn][22:37:10] Debug mode enabled
+[info][22:37:10] Starting...
+[info][22:37:10] MongoDB: Connected
+[info][22:37:11] Discord: Ready
+[warn][22:37:35] Debug mode enabled
+[info][22:37:35] Starting...
+[info][22:37:35] MongoDB: Connected
+[info][22:37:36] Discord: Ready
+[warn][22:37:39] Debug mode enabled
+[info][22:37:39] Starting...
+[info][22:37:40] MongoDB: Connected
+[debug][22:37:41] Reconnecting to shard
+[warn][22:37:49] Debug mode enabled
+[info][22:37:49] Starting...
+[info][22:37:49] MongoDB: Connected
+[info][22:37:50] Discord: Ready
+[warn][22:38:00] Debug mode enabled
+[info][22:38:00] Starting...
+[info][22:38:00] MongoDB: Connected
+[info][22:38:01] Discord: Ready
+[warn][22:38:31] Debug mode enabled
+[info][22:38:31] Starting...
+[info][22:38:31] MongoDB: Connected
+[info][22:38:32] Discord: Ready
+[warn][22:38:53] Debug mode enabled
+[info][22:38:53] Starting...
+[info][22:38:53] MongoDB: Connected
+[info][22:38:54] Discord: Ready
+[warn][22:39:03] Debug mode enabled
+[info][22:39:03] Starting...
+[info][22:39:03] MongoDB: Connected
+[info][22:39:04] Discord: Ready
+[debug][23:26:46] Reconnecting to shard
+[debug][23:26:47] Connected to shard
